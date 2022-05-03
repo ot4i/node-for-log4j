@@ -59,9 +59,13 @@ This SupportPac requires:
 * IBM App Connect Enterprise V12.0.3.0
 
 ## Download Instruction
-Go to the release branch and download the latest release.
+Go to https://github.com/ot4i/node-for-log4j/releases and download the latest release or click on the release you want to download on the right pane.
 
 In the Source.zip you will find the User's Guide iam3.pdf.
+
+Download the Log4jLoggingNode par-file and install it as described in the User's Guide.
+
+Download the Log4jLoggingPluginFeature zip-file and install the plugin into the toolkit as described in the User's Guide.
 
 ## Installation Instructions
 To install this SupportPac:
