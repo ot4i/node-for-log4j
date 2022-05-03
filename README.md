@@ -55,8 +55,8 @@ Current SupportPac Version: 2.0.0
 
 ## Prerequisites
 This SupportPac requires:
-* IBM App Connect Enterprise V11.0.0.3
-* IBM App Connect Enterprise V12.0.3.0
+* IBM App Connect Enterprise V11.0.0.3 or higher
+* IBM App Connect Enterprise V12.0.3.0 or higher
 
 ## Download Instruction
 Go to https://github.com/ot4i/node-for-log4j/releases and download the latest release or click on the release you want to download on the right pane.
