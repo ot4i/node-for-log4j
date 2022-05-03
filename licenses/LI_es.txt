@@ -1,0 +1,18 @@
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de Licencia para Programas sin Garantía (i125-5589-06).
+
+Nombre de Programa (Número de Programa):
+SupportPac IAM3 Websphere Message Broker Node for log4j 2.0 (SupportPac-IAM3)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+L/N:  L-KSBM-CCRFU2
+D/N:  L-KSBM-CCRFU2
+P/N:  L-KSBM-CCRFU2
+
+

@@ -1,0 +1,18 @@
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s¹ licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi¹ uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Jeœli Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj¹ warunki licencji Miêdzynarodowa Umowa Licencyjna na Programy nieobjête Gwarancj¹ (i125-5589-06).
+
+Nazwa Programu (Numer Programu):
+SupportPac IAM3 Websphere Message Broker Node for log4j 2.0 (SupportPac-IAM3)
+
+Poni¿sze standardowe warunki maj¹ zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Modyfikowany Kod Osób Trzecich
+
+Jeœli w pliku NOTICES (UWAGI) IBM okreœli kod osoby trzeciej jako „Modyfikowalny Kod Osób Trzecich", to IBM upowa¿nia Licencjobiorcê do 1) modyfikowania Modyfikowalnego Kodu Osób Trzecich oraz 2) odtwarzania kodu Ÿród³owego modu³ów Programu, które bezpoœrednio wspó³pracuj¹ z Modyfikowalnym Kodem Osób Trzecich, pod warunkiem ¿e s³u¿y to wy³¹cznie do debugowania modyfikacji wprowadzonych przez Licencjobiorcê w takim kodzie osoby trzeciej. Ewentualne zobowi¹zania IBM w zakresie serwisu i wsparcia dotycz¹ wy³¹cznie niezmodyfikowanego Programu.
+
+L/N:  L-KSBM-CCRFU2
+D/N:  L-KSBM-CCRFU2
+P/N:  L-KSBM-CCRFU2
+
+

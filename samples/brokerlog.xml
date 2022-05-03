@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration  monitorInterval="60" strict="false" packages="com.ibm.log4j.filter">
+
+  <Appenders>
+  
+    <Console name="Console" target="SYSTEM_OUT">
+       <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+      <ThresholdFilter level="WARN"/>
+    </Console>
+
+    <File name="FILE_WITH_FILTER" fileName="C:/temp/TestLog4j_ALL.log" immediateFlush="true" append="true">
+      <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+      <Filters>
+        <ThresholdFilter level="WARN"/>
+        <ThreadFilter matchPattern="/MyFlow/" acceptOnMatch="true"/>
+        <ThreadFilter matchPattern="/.*/" acceptOnMatch="false"/>
+      </Filters>
+    </File>
+
+    <File name="FILE_DEFAULT" fileName="C:/temp/Log4jTest_default.log" immediateFlush="true" append="true">
+        <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+      <ThresholdFilter level="WARN"/>
+    </File>
+
+    <File name="FILE_OTHER" fileName="C:/temp/Log4jTest_other.log" immediateFlush="true" append="true">
+      <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+      <ThresholdFilter level="WARN"/>
+    </File>
+
+  </Appenders>
+
+  <Loggers>
+  
+    <Logger name="default" level="WARN">
+       <AppenderRef ref="FILE_DEFAULT"/>
+    </Logger>
+    
+    <Logger name="other" level="WARN">
+       <AppenderRef ref="FILE_OTHER"/>
+    </Logger>
+
+
+    <Root level="debug">
+	<AppenderRef ref="Console"/>
+        <AppenderRef ref="FILE_WITH_FILTER"/>
+    </Root>
+
+  </Loggers>
+
+</Configuration>
+

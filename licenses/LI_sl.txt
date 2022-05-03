@@ -1,0 +1,18 @@
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno soglašata. Èe naroènik predhodno ne soglaša s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za programe brez garancije (i125-5589-06).
+
+Ime programa (Številka programa):
+SupportPac IAM3 Websphere Message Broker Node for log4j 2.0 (SupportPac-IAM3)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Spremenljiva koda drugega ponudnika
+
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot »spremenljivo kodo drugega ponudnika«, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni inženiring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence takšne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+
+L/N:  L-KSBM-CCRFU2
+D/N:  L-KSBM-CCRFU2
+P/N:  L-KSBM-CCRFU2
+
+
