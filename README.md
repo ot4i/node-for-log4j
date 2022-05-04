@@ -43,7 +43,7 @@ Fixed in v1.2.1:
 * Node fails to log Environment and LocalEnvironment values correctly.
 
 ## Details
-Author: Matthias Nieder, Global Business Services, IBM Germany
+Author: Matthias Nieder, IBM Consulting, IBM Germany
 
 Category: 2
 
