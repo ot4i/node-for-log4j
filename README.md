@@ -69,8 +69,8 @@ Download the Log4jLoggingPluginFeature zip-file and install the plugin into the 
 
 ## Installation Instructions
 To install this SupportPac:
-1. Copy iam3.zip to a temporary directory.
-2. Extract the file and follow the instructions in the User’s guide IAM3.pdf.
+1. Download the files from the release page.
+2. Extract the source zip file and follow the instructions in the User’s guide IAM3.pdf.
 
 If you encounter problems after upgrading the WebSphere Message Broker Toolkit to a new version:
 1. Look into $TOOLKIT_INSTALL_DIR\configuration\org.eclipse.update.
