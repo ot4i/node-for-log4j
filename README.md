@@ -12,7 +12,7 @@ Use this SupportPac if you need a more flexible logging mechanism than the Trace
 
 ## New in this Release
 New in 2.0.0:
-* IAM3 is now based on log4j v2, log4j 1.2 is no longer supported
+* IAM3 is now based on log4j v2.17.1, log4j 1.2 is no longer supported
 * Runtime node is packaged as a par-file
 * Toolkit node appears in the palette under Error handling
 * Support for App Connect Enterprise V12.0.3.0
