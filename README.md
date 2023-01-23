@@ -52,9 +52,9 @@ Category: 2
 
 Released: 18Nov08
 
-Last updated: 03May22
+Last updated: 23Jan23
 
-Current SupportPac Version: 2.0.0
+Current SupportPac Version: 2.0.1
 
 ## Prerequisites
 This SupportPac requires:
