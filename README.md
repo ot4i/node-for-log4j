@@ -11,6 +11,9 @@ The target as well as the runtime log level can be configured independent from t
 Use this SupportPac if you need a more flexible logging mechanism than the Trace node provides.
 
 ## New in this Release
+New in 2.0.1:
+* prevent NullPointerException if logLevel is DEBUG
+
 New in 2.0.0:
 * IAM3 is now based on log4j v2.17.1, log4j 1.2 is no longer supported
 * Runtime node is packaged as a par-file
