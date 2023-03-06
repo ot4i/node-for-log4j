@@ -11,6 +11,9 @@ The target as well as the runtime log level can be configured independent from t
 Use this SupportPac if you need a more flexible logging mechanism than the Trace node provides.
 
 ## New in this Release
+New in 2.0.2:
+* reenable configurable properties
+
 New in 2.0.1:
 * prevent NullPointerException if logLevel is DEBUG
 
