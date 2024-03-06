@@ -57,7 +57,7 @@ Released: 18Nov08
 
 Last updated: 23Jan23
 
-Current SupportPac Version: 2.0.1
+Current SupportPac Version: 2.0.2
 
 ## Prerequisites
 This SupportPac requires:
