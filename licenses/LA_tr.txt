@@ -96,7 +96,7 @@ b. Aksi Lisans Alan Taraf ve IBM tarafýndan yazýlý olarak kabul edilmedikçe, IBM
 
 c. Lisans Alan Taraf, Programda ortaya çýkacak bir hatanýn ölüme, ciddi bedensel yaralanmaya veya malda ya da çevrede hasara neden olabileceði durumda Programý kullanamaz.
 
-d. IBM, IBM'in baðlý kuruluþlarý ve bunlardan herhangi birinin yüklenicileri, iþ iletiþim bilgilerinin ve belirli hesap kullanýmý bilgilerinin kullanýlmasýný zorunlu tutar. Bu bilgi Ýçerik niteliðinde deðildir. Ýþ iletiþim bilgileri, Lisans Alan Tarafla yapýlan iþ anlaþmalarýný bildirmek ve yönetmek için kullanýlýr. Ýþ iletiþim bilgilerine örnekler arasýnda isim, iþ telefonu, adres, e-posta, kullanýcý kimliði ve vergi numarasý yer alýr. Hesap kullanýmý bilgileri, Programlarý etkinleþtirmek, saðlamak, yönetmek, desteklemek, idare etmek ve iyileþtirmek için kullanýlýr. Hesap kullaným bilgilerine örnekler arasýnda raporlanan hatalar ve Programlarýn kullanýmý sýrasýnda çerezler (cookies) ve web iþaretçileri (beacon) gibi izleme teknolojileri kullanýlarak toplanan dijital bilgiler yer alýr. IBM'in iþ iletiþim bilgilerin ive hesap verilerini toplamasý, kullanmasý ve iþlemesiyle ilgili daha fazla ayrýntýya http://www.ibm.com/privacy/ adresinde bulunan IBM Gizlilik Bildiriminden (IBM Privacy Statement) ulaþýlabilir. Söz konusu iþleme için Lisans Alan Tarafýn IBM’e bilgi saðladýðý ve kiþilere bildirimde bulunduðu veya kiþilerden rýza almasýnýn gerektiði durumlarda, Lisans Alan Taraf kiþilere bildirimde bulunacak ve söz konusu rýzayý alacaktýr.
+d. IBM, IBM'in baðlý kuruluþlarý ve bunlardan herhangi birinin yüklenicileri, iþ iletiþim bilgilerinin ve belirli hesap kullanýmý bilgilerinin kullanýlmasýný zorunlu tutar. Bu bilgi Ýçerik niteliðinde deðildir. Ýþ iletiþim bilgileri, Lisans Alan Tarafla yapýlan iþ anlaþmalarýný bildirmek ve yönetmek için kullanýlýr. Ýþ iletiþim bilgilerine örnekler arasýnda isim, iþ telefonu, adres, e-posta, kullanýcý kimliði ve vergi numarasý yer alýr. Hesap kullanýmý bilgileri, Programlarý etkinleþtirmek, saðlamak, yönetmek, desteklemek, idare etmek ve iyileþtirmek için kullanýlýr. Hesap kullaným bilgilerine örnekler arasýnda raporlanan hatalar ve Programlarýn kullanýmý sýrasýnda çerezler (cookies) ve web iþaretçileri (beacon) gibi izleme teknolojileri kullanýlarak toplanan dijital bilgiler yer alýr. IBM'in iþ iletiþim bilgilerin ive hesap verilerini toplamasý, kullanmasý ve iþlemesiyle ilgili daha fazla ayrýntýya http://www.ibm.com/privacy/ adresinde bulunan IBM Gizlilik Bildiriminden (IBM Privacy Statement) ulaþýlabilir. Söz konusu iþleme için Lisans Alan Tarafýn IBM?e bilgi saðladýðý ve kiþilere bildirimde bulunduðu veya kiþilerden rýza almasýnýn gerektiði durumlarda, Lisans Alan Taraf kiþilere bildirimde bulunacak ve söz konusu rýzayý alacaktýr.
 
 e. Ürünleri kullanan veya kullanýma sunan IBM Çözüm Ortaklarý, IBM'den baðýmsýzdýr ve fiyatlarý ile koþullarýný tek taraflý olarak belirlerler. Çözüm Ortaklarýnýn eylemlerinden, ihmallerinden, beyanlarýndan ya da tekliflerinden IBM sorumlu deðildir.
 
@@ -144,7 +144,7 @@ Madde 4. Sorumluluk ve Fikri Mülkiyetin Korunmasý
 
 Fýkra a'nýn sonuna aþaðýdaki sorumluluðun reddi maddesini ekleyin:
 
-Peru'da: Peru Medeni Kanunu’nda yer alan 1328 sayýlý Maddeye uygun olarak, bu kýsýtlamalar ve istisnalar, kasten hukuka aykýrý hareket ("dolo") ya da aðýr ihmal ("culpa inexcusable") durumlarý için geçerli olmayacaktýr.
+Peru'da: Peru Medeni Kanunu?nda yer alan 1328 sayýlý Maddeye uygun olarak, bu kýsýtlamalar ve istisnalar, kasten hukuka aykýrý hareket ("dolo") ya da aðýr ihmal ("culpa inexcusable") durumlarý için geçerli olmayacaktýr.
 
 Madde 6. Uygulanacak Hukuk ve Coðrafi Kapsam
 
@@ -258,7 +258,7 @@ Madde 5. Sona Erdirme
 
 Aþaðýdaki ifadeyi bu maddenin sonuna yeni b fýkrasý olarak ekleyin:
 
-Endonezya'da: Taraflar, karþýlýklý yükümlülükler oluþturan bir sözleþmenin sona erdirilmesi için mahkeme kararý alýnmasý gerektiðine iliþkin Endonezya Medeni Kanunu'nda madde 1266’nýn hükümlerine göre hükümlerinden feragat ederler.
+Endonezya'da: Taraflar, karþýlýklý yükümlülükler oluþturan bir sözleþmenin sona erdirilmesi için mahkeme kararý alýnmasý gerektiðine iliþkin Endonezya Medeni Kanunu'nda madde 1266?nýn hükümlerine göre hükümlerinden feragat ederler.
 
 Madde 6. Uygulanacak Hukuk ve Coðrafi Kapsam
 
@@ -438,7 +438,7 @@ Portekiz'de: Lizbon mahkemeleri.
 
 Türkiye'de: Türkiye Cumhuriyeti, Ýstanbul Merkez (Çaðlayan) Mahkemeleri ve Ýstanbul Ýcra Daireleri.
 
-Hollanda'da: Taraflar, Hollanda Medeni Kanununun 7.1 no.lu Baþlýðý ile 7:401 ve 402. maddeleri kapsamýndaki haklarýndan ve bu Sözleþmenin, Hollanda Medeni Kanununun 6:265 no.lu maddesi kapsamýnda kýsmi veya tam feshine (‘gehele of partiele ontbinding’) iliþkin haklarýndan feragat ederler.
+Hollanda'da: Taraflar, Hollanda Medeni Kanununun 7.1 no.lu Baþlýðý ile 7:401 ve 402. maddeleri kapsamýndaki haklarýndan ve bu Sözleþmenin, Hollanda Medeni Kanununun 6:265 no.lu maddesi kapsamýnda kýsmi veya tam feshine (?gehele of partiele ontbinding?) iliþkin haklarýndan feragat ederler.
 
 Madde 7. Genel
 

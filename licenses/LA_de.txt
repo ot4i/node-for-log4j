@@ -6,7 +6,7 @@ Durch Herunterladen, Installieren oder Kopieren des Programms, die Zustimmung zu
 
 Wenn Sie mit diesen Bedingungen nicht einverstanden sind oder nicht über die Berechtigung verfügen, i) dürfen Sie das Programm nicht herunterladen, installieren, kopieren, die Vereinbarung per Mausklick akzeptieren, auf das Programm zugreifen oder das Programm nutzen und ii) müssen die unbenutzten Datenträger, die Dokumentation und den Berechtigungsnachweis unverzüglich bei der Stelle, von der Sie das Programm bezogen haben, gegen Rückerstattung des gezahlten Betrags zurückgeben. Wurde das Programm heruntergeladen, müssen alle Kopien des Programms vernichtet werden.
 
-Diese Internationalen Nutzungsbedingungen für Programme ohne Gewährleistung (International License Agreement for Non-Warranted Programs, ILAN) und die anwendbaren Auftragsdokumente (insgesamt „Vereinbarung“ genannt) bilden die vollständige Vereinbarung zwischen dem Lizenznehmer und IBM in Bezug auf die Nutzung eines Programms. Die Länderspezifischen Bedingungen in Teil 2 dieser Internationalen Nutzungsbedingungen für Programme ohne Gewährleistung ersetzen oder ändern die Bedingungen in Teil 1.
+Diese Internationalen Nutzungsbedingungen für Programme ohne Gewährleistung (International License Agreement for Non-Warranted Programs, ILAN) und die anwendbaren Auftragsdokumente (insgesamt ?Vereinbarung? genannt) bilden die vollständige Vereinbarung zwischen dem Lizenznehmer und IBM in Bezug auf die Nutzung eines Programms. Die Länderspezifischen Bedingungen in Teil 2 dieser Internationalen Nutzungsbedingungen für Programme ohne Gewährleistung ersetzen oder ändern die Bedingungen in Teil 1.
 
 Die Auftragsdokumente enthalten eine Beschreibung, Informationen und Bedingungen, die sich auf das Programm und die berechtigte Nutzung des Programms beziehen. Beispiele für Auftragsdokumente für Programme sind Lizenzinformationen (LI), Lizenzprogrammspezifikationen (LPS), Angebote, Berechtigungsnachweise (Proof of Entitlement, PoE) oder Rechnungen. Bei Widersprüchen hat ein Auftragsdokument Vorrang vor den Internationalen Nutzungsbedingungen für Programme ohne Gewährleistung.
 
@@ -18,7 +18,7 @@ b. Programmkopien sind urheberrechtlich geschützt und werden lizenziert (nicht v
 
 c. Der Lizenznehmer erhält eine nicht ausschließliche Lizenz, die ihn berechtigt,
 
-(1) jede Kopie eines Programms gemäß den Bedingungen der Vereinbarung und, sofern zutreffend, bis zur Anzahl der erworbenen Lizenzberechtigungen („Berechtigte Nutzung“) zu nutzen;
+(1) jede Kopie eines Programms gemäß den Bedingungen der Vereinbarung und, sofern zutreffend, bis zur Anzahl der erworbenen Lizenzberechtigungen (?Berechtigte Nutzung?) zu nutzen;
 
 (2) Kopien des Programms zur Unterstützung der Berechtigten Nutzung zu erstellen und zu installieren; und
 
@@ -36,7 +36,7 @@ e. Die für ein Programm erteilte Lizenz unterliegt der Bedingung, dass der Lizen
 
 (4) die Bestandteile des Programms oder zugehöriges Lizenzmaterial nicht getrennt vom Programm nutzt.
 
-f. Wenn im Auftragsdokument für ein Programm („Hauptprogramm“) angegeben ist, dass ein „Unterstützungsprogramm“ zum Lieferumfang des Hauptprogramms gehört, darf der Lizenznehmer das Unterstützungsprogramm vorbehaltlich der für das Hauptprogramm geltenden Lizenzbeschränkungen und nur zur Unterstützung des Hauptprogramms nutzen.
+f. Wenn im Auftragsdokument für ein Programm (?Hauptprogramm?) angegeben ist, dass ein ?Unterstützungsprogramm? zum Lieferumfang des Hauptprogramms gehört, darf der Lizenznehmer das Unterstützungsprogramm vorbehaltlich der für das Hauptprogramm geltenden Lizenzbeschränkungen und nur zur Unterstützung des Hauptprogramms nutzen.
 
 g. Diese Lizenz gilt für jede Kopie des Programms, die der Lizenznehmer erstellt.
 
@@ -46,7 +46,7 @@ i. Falls der Lizenznehmer aus irgendeinem Grund mit einem Programm nicht zufried
 
 2. Gewährleistungen
 
-a. IBM gewährleistet weder den unterbrechungs- oder fehlerfreien Betrieb eines IBM Programms noch dass IBM alle Mängel beheben wird oder in der Lage ist, Unterbrechungen durch Dritte zu verhindern. Diese Gewährleistungen sind abschließend und ersetzen sämtliche sonstigen eventuell bestehenden Gewährleistungsansprüche des Lizenznehmers. Die IBM Gewährleistungen gelten nicht im Falle von unsachgemäßem Gebrauch, Änderungen, Schäden, die nicht von IBM verursacht wurden, oder bei Nichteinhaltung der von IBM bereitgestellten schriftlichen Anweisungen. Programme anderer Anbieter werden im gegenwärtigen Zustand (auf „as-is“-Basis) ohne jegliche Gewährleistungen bereitgestellt. Garantien und/oder Gewährleistungen anderer Anbieter werden ohne eigene Verpflichtung von IBM an den Lizenznehmer weitergegeben.
+a. IBM gewährleistet weder den unterbrechungs- oder fehlerfreien Betrieb eines IBM Programms noch dass IBM alle Mängel beheben wird oder in der Lage ist, Unterbrechungen durch Dritte zu verhindern. Diese Gewährleistungen sind abschließend und ersetzen sämtliche sonstigen eventuell bestehenden Gewährleistungsansprüche des Lizenznehmers. Die IBM Gewährleistungen gelten nicht im Falle von unsachgemäßem Gebrauch, Änderungen, Schäden, die nicht von IBM verursacht wurden, oder bei Nichteinhaltung der von IBM bereitgestellten schriftlichen Anweisungen. Programme anderer Anbieter werden im gegenwärtigen Zustand (auf ?as-is?-Basis) ohne jegliche Gewährleistungen bereitgestellt. Garantien und/oder Gewährleistungen anderer Anbieter werden ohne eigene Verpflichtung von IBM an den Lizenznehmer weitergegeben.
 
 b. Zusätzlicher Support während oder nach Ablauf des Gewährleistungszeitraums kann unter einer gesonderten Vereinbarung erbracht werden.
 
@@ -62,7 +62,7 @@ d. Wenn der Lizenznehmer ein Programm importiert, exportiert, in ein anderes Lan
 
 3.1 Lizenzüberprüfung
 
-a. Der Lizenznehmer wird für alle Programme an allen Standorten und für alle Umgebungen i) einen Bericht in einem von IBM geforderten Format unter Verwendung von Aufzeichnungen, Ausgaben von Systemtools und anderen Systeminformationen sowie ii) unterstützende Dokumentation (insgesamt „Bereitstellungsdaten“ genannt) erstellen, aufbewahren und IBM jedes Jahr innerhalb von 30 Tagen nach Anforderung bereitstellen.
+a. Der Lizenznehmer wird für alle Programme an allen Standorten und für alle Umgebungen i) einen Bericht in einem von IBM geforderten Format unter Verwendung von Aufzeichnungen, Ausgaben von Systemtools und anderen Systeminformationen sowie ii) unterstützende Dokumentation (insgesamt ?Bereitstellungsdaten? genannt) erstellen, aufbewahren und IBM jedes Jahr innerhalb von 30 Tagen nach Anforderung bereitstellen.
 
 b. Nach angemessener Vorankündigung sind IBM und ihre externen Prüfer dazu berechtigt, die Einhaltung dieser Vereinbarung durch den Lizenznehmer an allen Standorten und für alle Umgebungen, an denen der Lizenznehmer Programme (zu irgendeinem Zweck) nutzt, zu überprüfen. Die Prüfung findet während der üblichen Geschäftszeiten in den Räumlichkeiten des Lizenznehmers statt. IBM wird sich bemühen, den Geschäftsbetrieb des Lizenznehmers dabei so wenig wie möglich zu beeinträchtigen. IBM wird eine schriftliche Vertraulichkeitsvereinbarung mit dem externen Prüfer abschließen, die ihn zur Geheimhaltung verpflichtet. Zusätzlich zu den vorstehend beschriebenen Bereitstellungsdaten wird der Lizenznehmer IBM und ihren Prüfern auf Anforderung weitere genaue Informationen und Bereitstellungsdaten zur Verfügung stellen.
 
@@ -102,7 +102,7 @@ e. IBM Business Partner, die Programme verwenden oder verfügbar machen, sind von
 
 f. IBM kann Programme anderer Anbieter anbieten oder ein IBM Programm kann den Zugriff auf Programme anderer Anbieter ermöglichen, für deren Nutzung der Lizenznehmer ggf. die in einem Auftragsdokument aufgeführten oder die angezeigten Bedingungen dieser Anbieter akzeptieren muss. Durch die Verlinkung mit Programmen anderer Anbieter oder deren Nutzung gibt der Lizenznehmer seine Zustimmung zu deren Bedingungen. IBM ist an diesen Vereinbarungen anderer Anbieter nicht beteiligt und für die Programme anderer Anbieter nicht verantwortlich.
 
-g. Lizenzgeber der Programme ist die International Business Machines Corporation mit Sitz im US-Bundesstaat New York („IBM Corporation“). Die IBM Konzerngesellschaft, über die der Lizenznehmer die Berechtigungen bezieht („IBM“), agiert als Distributor, der die Verteilung der Programme übernimmt und für die Durchsetzung der Bedingungen dieser Vereinbarung verantwortlich ist. Wenn Berechtigungen von einem IBM Business Partner bezogen werden, ist die IBM Konzerngesellschaft im Land des Erwerbs für die Durchsetzung der Bedingungen dieser Vereinbarung verantwortlich. Aus der Vereinbarung ergeben sich keine Rechte oder Ansprüche des Lizenznehmers gegenüber der IBM Corporation. Der Lizenznehmer verzichtet auf sämtliche Rechte und Ansprüche gegen die IBM Corporation und wird sich bezüglich rechtlicher Schritte im Zusammenhang mit Programmen ausschließlich an IBM wenden.
+g. Lizenzgeber der Programme ist die International Business Machines Corporation mit Sitz im US-Bundesstaat New York (?IBM Corporation?). Die IBM Konzerngesellschaft, über die der Lizenznehmer die Berechtigungen bezieht (?IBM?), agiert als Distributor, der die Verteilung der Programme übernimmt und für die Durchsetzung der Bedingungen dieser Vereinbarung verantwortlich ist. Wenn Berechtigungen von einem IBM Business Partner bezogen werden, ist die IBM Konzerngesellschaft im Land des Erwerbs für die Durchsetzung der Bedingungen dieser Vereinbarung verantwortlich. Aus der Vereinbarung ergeben sich keine Rechte oder Ansprüche des Lizenznehmers gegenüber der IBM Corporation. Der Lizenznehmer verzichtet auf sämtliche Rechte und Ansprüche gegen die IBM Corporation und wird sich bezüglich rechtlicher Schritte im Zusammenhang mit Programmen ausschließlich an IBM wenden.
 
 h. Der Lizenznehmer ist nicht berechtigt, Unterlizenzen für Programme zu erteilen oder Programmlizenzen abzutreten oder zu übertragen (außer in dem Umfang, in dem die Abtretung oder Übertragung gesetzlich zulässig oder in einem Auftragsdokument ausdrücklich erlaubt ist oder mit IBM anderweitig vereinbart wurde). IBM kann ihre Rechte und Pflichten aus dieser Vereinbarung in Verbindung mit dem Verkauf des IBM Geschäftsteils, zu dem ein Programm gehört, abtreten. IBM kann diese Vereinbarung und zugehörige Dokumente in Verbindung mit einer Abtretung offenlegen.
 
@@ -126,7 +126,7 @@ In Brasilien: Der Lizenznehmer verpflichtet sich zur Zahlung aller anfallenden G
 
 In Absatz b:
 
-In Mexiko: Im dritten Satz werden die Wörter „auf ein von IBM angegebenes Konto“ gestrichen.
+In Mexiko: Im dritten Satz werden die Wörter ?auf ein von IBM angegebenes Konto? gestrichen.
 
 In Mexiko: Der folgende neue Satz wird nach dem dritten Satz hinzugefügt:
 
@@ -144,13 +144,13 @@ Abschnitt 4. Haftung und Schutz geistigen Eigentums
 
 Der folgende Haftungsausschluss wird am Ende von Absatz a hinzugefügt:
 
-In Peru: In Übereinstimmung mit Artikel 1328 des peruanischen Zivilrechts entfallen bei Vorsatz („dolo“) oder grober Fahrlässigkeit („culpa inexcusable“) durch IBM die in diesem Abschnitt genannten Einschränkungen und Ausschlüsse.
+In Peru: In Übereinstimmung mit Artikel 1328 des peruanischen Zivilrechts entfallen bei Vorsatz (?dolo?) oder grober Fahrlässigkeit (?culpa inexcusable?) durch IBM die in diesem Abschnitt genannten Einschränkungen und Ausschlüsse.
 
 Abschnitt 6. Geltendes Recht und Geltungsbereich
 
 In Absatz a wird nur der erste Satz wie folgt ersetzt:
 
-In Argentinien: Beide Vertragsparteien stimmen darin überein, dass die Gesetze der Republik Argentinien unter Ausschluss der Prinzipien des Kollisionsrechts zur Anwendung kommen. Alle Verhandlungen in Bezug auf die Rechte, Pflichten und Verpflichtungen aus dieser Vereinbarung fallen in die Zuständigkeit des Handelsgerichts der autonomen Stadt Buenos Aires („Ciudad Autónoma de Buenos Aires“).
+In Argentinien: Beide Vertragsparteien stimmen darin überein, dass die Gesetze der Republik Argentinien unter Ausschluss der Prinzipien des Kollisionsrechts zur Anwendung kommen. Alle Verhandlungen in Bezug auf die Rechte, Pflichten und Verpflichtungen aus dieser Vereinbarung fallen in die Zuständigkeit des Handelsgerichts der autonomen Stadt Buenos Aires (?Ciudad Autónoma de Buenos Aires?).
 
 In Chile: Beide Vertragsparteien stimmen darin überein, dass die Gesetze von Chile unter Ausschluss der Prinzipien des Kollisionsrechts zur Anwendung kommen. Alle Konflikte, Auslegungen oder Verstöße gegen diese Vereinbarung, die nicht von den Parteien gelöst werden können, müssen an die zuständigen Gerichte in der Stadt und im Stadtbezirk von Santiago verwiesen werden.
 
@@ -162,15 +162,15 @@ In Venezuela: Beide Vertragsparteien stimmen darin überein, dass die Gesetze von
 
 In Peru: Beide Vertragsparteien stimmen darin überein, dass die Gesetze von Peru unter Ausschluss der Prinzipien des Kollisionsrechts zur Anwendung kommen. Alle Unstimmigkeiten, die bei der Ausführung, Auslegung oder Einhaltung dieser Vereinbarung zwischen den Parteien entstehen und nicht direkt gelöst werden können, fallen unter die Gerichtsbarkeit und Zuständigkeit der Richter und Gerichte des 'Cercado de Lima' im Gerichtsbezirk.
 
-In Uruguay: Beide Vertragsparteien stimmen darin überein, dass die Gesetze von Uruguay zur Anwendung kommen. Alle Unstimmigkeiten, die bei der Ausführung, Auslegung oder Einhaltung dieser Vereinbarung zwischen den Parteien entstehen und nicht direkt gelöst werden können, müssen an die Gerichte in Montevideo („Tribunales Ordinarios de Montevideo“) übergeben werden.
+In Uruguay: Beide Vertragsparteien stimmen darin überein, dass die Gesetze von Uruguay zur Anwendung kommen. Alle Unstimmigkeiten, die bei der Ausführung, Auslegung oder Einhaltung dieser Vereinbarung zwischen den Parteien entstehen und nicht direkt gelöst werden können, müssen an die Gerichte in Montevideo (?Tribunales Ordinarios de Montevideo?) übergeben werden.
 
-In Absatz a wird nur im ersten Satz der Teilsatz „des Landes zur Anwendung kommen, in dem der Geschäftsvorgang zum Erwerb von Lizenzberechtigungen stattfindet“ wie folgt ersetzt:
+In Absatz a wird nur im ersten Satz der Teilsatz ?des Landes zur Anwendung kommen, in dem der Geschäftsvorgang zum Erwerb von Lizenzberechtigungen stattfindet? wie folgt ersetzt:
 
 In den Vereinigten Staaten, Anguilla, Antigua/Barbuda, Aruba, Bahamas, Barbados, Bermuda, Bonaire, Britische Jungferninseln, Kaimaninseln, Curacao, Dominica, Grenada, Guyana, Jamaika, Montserrat, Saba, St. Eustatius, St. Kitts und Nevis, St. Lucia, St. Maarten, St. Vincent und die Grenadinen, Surinam, Tortola, Trinidad und Tobago, Turk- und Caicosinseln: des US-Bundesstaates New York zur Anwendung kommen.
 
 In Kanada: der Provinz Ontario und die dort geltenden Bundesgesetze Kanadas zur Anwendung kommen.
 
-Im zweiten Satz von Absatz a wird der Teilsatz „dem Land, in dem der Geschäftsvorgang zum Erwerb von Lizenzberechtigungen stattfindet, oder mit Zustimmung von IBM in dem Land, in dem das Programm produktiv genutzt wird“ ersetzt durch:
+Im zweiten Satz von Absatz a wird der Teilsatz ?dem Land, in dem der Geschäftsvorgang zum Erwerb von Lizenzberechtigungen stattfindet, oder mit Zustimmung von IBM in dem Land, in dem das Programm produktiv genutzt wird? ersetzt durch:
 
 In Argentinien: Argentinien
 
@@ -206,7 +206,7 @@ In Mexiko: Alle Adressänderungen müssen 10 (zehn) Tage im Voraus mitgeteilt werd
 
 In Absatz j:
 
-In Brasilien: Der zweite Satz „Beide Vertragsparteien kommen überein, keine rechtlichen Schritte im Zusammenhang mit dieser Vereinbarung später als zwei Jahre nach Entstehen eines Anspruches einzuleiten.“ wird gestrichen.
+In Brasilien: Der zweite Satz ?Beide Vertragsparteien kommen überein, keine rechtlichen Schritte im Zusammenhang mit dieser Vereinbarung später als zwei Jahre nach Entstehen eines Anspruches einzuleiten.? wird gestrichen.
 
 Der folgende Text wird als neuer Absatz l hinzugefügt:
 
@@ -220,7 +220,7 @@ Am Ende dieses Abschnitts wird der folgende Text als neuer Absatz f hinzugefügt:
 
 In Australien: Diese Gewährleistungen werden zusätzlich zu sonstigen Rechten gewährt, die aus dem Competition and Consumer Act 2010 ableitbar sind, und können nur in dem durch dieses Gesetz zulässigen Umfang eingeschränkt werden.
 
-In Japan: Die Haftung von IBM und der alleinige Anspruch des Lizenznehmers bei Nichteinhaltung der in diesem Abschnitt aufgeführten Gewährleistungen sind auf diesen Absatz, den Abschnitt „Haftung und Schutz geistigen Eigentums“ sowie die anwendbaren Anlagen und Auftragsdokumente begrenzt.
+In Japan: Die Haftung von IBM und der alleinige Anspruch des Lizenznehmers bei Nichteinhaltung der in diesem Abschnitt aufgeführten Gewährleistungen sind auf diesen Absatz, den Abschnitt ?Haftung und Schutz geistigen Eigentums? sowie die anwendbaren Anlagen und Auftragsdokumente begrenzt.
 
 In Neuseeland: Diese Gewährleistungen werden zusätzlich zu sonstigen Rechten gewährt, die aus dem Consumer Guarantee Act 1993 oder ähnlichen Gesetzen ableitbar sind, und können nach geltendem Recht nicht eingeschränkt können.
 
@@ -232,21 +232,21 @@ In Hongkong, Indonesien, Korea, Macau, Malaysia, Philippinen, Singapur und Vietn
 
 In Thailand: Rechnungsbeträge sind bei Erhalt der Rechnung fällig und die Zahlung muss innerhalb von 30 Tagen ab dem Rechnungsdatum auf ein von IBM angegebenes Konto erfolgen. Geht die Zahlung nicht innerhalb von 30 Tagen ab dem Rechnungsdatum bei IBM ein, können Verzugszinsen auf den ausstehenden Betrag mit einem Zinssatz von 1,25 % pro Monat zur Anwendung kommen, die für die Anzahl Tage des Zahlungsverzugs berechnet werden.
 
-Im ersten Satz von Absatz c wird das Wort „und“ vor „(iv)“ gestrichen und ein Semikolon sowie der folgende neue Listenpunkt „(v)“ hinzugefügt:
+Im ersten Satz von Absatz c wird das Wort ?und? vor ?(iv)? gestrichen und ein Semikolon sowie der folgende neue Listenpunkt ?(v)? hinzugefügt:
 
-In Indien: ; und (v) eine korrekte Quellensteuererklärung zeitnah einzureichen. Werden Steuern, Zölle, Abgaben oder Gebühren („Steuern“) aufgrund eines vom Lizenznehmer bereitgestellten Nachweises der Steuerbefreiung nicht erhoben und legt die Steuerbehörde nachträglich fest, dass diese Steuern hätten erhoben werden müssen, dann muss der Lizenznehmer für diese Steuern aufkommen, einschließlich darauf anfallender Zinsen, Abgaben und/oder Bußgelder.
+In Indien: ; und (v) eine korrekte Quellensteuererklärung zeitnah einzureichen. Werden Steuern, Zölle, Abgaben oder Gebühren (?Steuern?) aufgrund eines vom Lizenznehmer bereitgestellten Nachweises der Steuerbefreiung nicht erhoben und legt die Steuerbehörde nachträglich fest, dass diese Steuern hätten erhoben werden müssen, dann muss der Lizenznehmer für diese Steuern aufkommen, einschließlich darauf anfallender Zinsen, Abgaben und/oder Bußgelder.
 
-Im ersten Satz von Absatz c wird das Wort „und“ vor „(iv)“ gestrichen und Listenpunkt (iv) ersetzt und ein neuer Listenpunkt (v) hinzugefügt:
+Im ersten Satz von Absatz c wird das Wort ?und? vor ?(iv)? gestrichen und Listenpunkt (iv) ersetzt und ein neuer Listenpunkt (v) hinzugefügt:
 
 In Singapur, Malaysia, Philippinen, Thailand, Indonesien und Vietnam: (iv) in dem Bestreben, eine Steuerbefreiung oder Ermäßigung der Quellensteuer oder anderer Steuern zu erreichen, umfassend mit IBM zusammenzuarbeiten; und v) unverzüglich alle relevanten Dokumente für solche Steuerbefreiungen, Ermäßigungen oder Freistellungen auszufüllen, einzureichen und auf dem aktuellen Stand zu halten.
 
 Abschnitt 4. Haftung und Schutz geistigen Eigentums
 
-In Absatz a wird nach „Gesamthaftung von IBM“ Folgendes hinzugefügt:
+In Absatz a wird nach ?Gesamthaftung von IBM? Folgendes hinzugefügt:
 
 In Australien: (z. B. Vertragshaftung, Verschuldenshaftung, Haftung aufgrund Fahrlässigkeit, nach dem Gesetz oder anderweitig)
 
-Im zweiten Satz von Absatz a wird nach dem Wort „spezielle“ und vor dem Wort „oder“ der folgende Text hinzugefügt:
+Im zweiten Satz von Absatz a wird nach dem Wort ?spezielle? und vor dem Wort ?oder? der folgende Text hinzugefügt:
 
 Auf den Philippinen: (einschließlich nomineller Schäden und Schadenersatz mit Strafcharakter), moralische Schäden
 
@@ -262,7 +262,7 @@ In Indonesien: Die Vertragsparteien verzichten auf Anwendung von Artikel 1266 de
 
 Abschnitt 6. Geltendes Recht und Geltungsbereich
 
-In Absatz a wird nur im ersten Satz der Teilsatz „des Landes zur Anwendung kommen, in dem der Geschäftsvorgang zum Erwerb von Lizenzberechtigungen stattfindet“ wie folgt ersetzt:
+In Absatz a wird nur im ersten Satz der Teilsatz ?des Landes zur Anwendung kommen, in dem der Geschäftsvorgang zum Erwerb von Lizenzberechtigungen stattfindet? wie folgt ersetzt:
 
 In Kambodscha, Laos: des US-Bundesstaates New York zur Anwendung kommen
 
@@ -278,11 +278,11 @@ In Taiwan: Taiwans zur Anwendung kommen
 
 In Indien: Indiens zur Anwendung kommen
 
-Im ersten Satz von Absatz b wird in Listenpunkt ii) nach dem Wort „einschließlich“ und vor dem Wort „der“ der folgende Text hinzugefügt:
+Im ersten Satz von Absatz b wird in Listenpunkt ii) nach dem Wort ?einschließlich? und vor dem Wort ?der? der folgende Text hinzugefügt:
 
 In Japan: derjenigen der Gesetze Japans und
 
-Im zweiten Satz von Absatz a wird der Teilsatz „dem Land, in dem der Geschäftsvorgang zum Erwerb von Lizenzberechtigungen stattfindet, oder mit Zustimmung von IBM in dem Land, in dem das Programm produktiv genutzt wird“ ersetzt durch:
+Im zweiten Satz von Absatz a wird der Teilsatz ?dem Land, in dem der Geschäftsvorgang zum Erwerb von Lizenzberechtigungen stattfindet, oder mit Zustimmung von IBM in dem Land, in dem das Programm produktiv genutzt wird? ersetzt durch:
 
 In Hongkong: der Sonderverwaltungsregion Hongkong der Volksrepublik China
 
@@ -292,19 +292,19 @@ In Taiwan: Taiwan
 
 Am Ende des Abschnitts wird der folgende Text als neuer Absatz d hinzugefügt:
 
-In Kambodscha, Laos, Philippinen und Sri Lanka: Rechtsstreitigkeiten werden in Singapur durch Schiedsspruch in Übereinstimmung mit den Schiedsregeln des Singapore International Arbitration Center („SIAC-Regeln“) geregelt bzw. beigelegt.
+In Kambodscha, Laos, Philippinen und Sri Lanka: Rechtsstreitigkeiten werden in Singapur durch Schiedsspruch in Übereinstimmung mit den Schiedsregeln des Singapore International Arbitration Center (?SIAC-Regeln?) geregelt bzw. beigelegt.
 
 In Indien: Rechtsstreitigkeiten werden in Übereinstimmung mit dem Arbitration and Conciliation Act, 1996 in der jeweils aktuellen Fassung, in englischer Sprache, in Bangalore, Indien geregelt bzw. beigelegt. Beträgt der Streitwert fünf Crore Rupien oder weniger, wird nur ein Schiedsrichter ernannt, bei einem höheren Betrag werden drei Schiedsrichter ernannt. Wenn ein Schiedsrichter ausgetauscht wird, wird das Verfahren an dem Punkt fortgesetzt, an dem das Amt vakant wurde.
 
-In Indonesien: Rechtsstreitigkeiten werden in Jakarta, Indonesien, durch Schiedsspruch unter Aufsicht des Indonesian National Board of Arbitration, das im Jahr 1977 eingerichtet wurde („Badan Arbitrase Nasional Indonesia“ oder „BANI“), in Übereinstimmung mit den Regeln des Indonesian National Board of Arbitration geregelt bzw. beigelegt. Der in Schriftform abzufassende Schiedsspruch ist endgültig und bindend für alle Parteien ohne Einspruchsmöglichkeit und muss eine Darlegung der Fakten sowie eine Begründung enthalten.
+In Indonesien: Rechtsstreitigkeiten werden in Jakarta, Indonesien, durch Schiedsspruch unter Aufsicht des Indonesian National Board of Arbitration, das im Jahr 1977 eingerichtet wurde (?Badan Arbitrase Nasional Indonesia? oder ?BANI?), in Übereinstimmung mit den Regeln des Indonesian National Board of Arbitration geregelt bzw. beigelegt. Der in Schriftform abzufassende Schiedsspruch ist endgültig und bindend für alle Parteien ohne Einspruchsmöglichkeit und muss eine Darlegung der Fakten sowie eine Begründung enthalten.
 
 In der Volksrepublik China: Beide Vertragsparteien haben das Recht, bei Rechtsstreitigkeiten die China International Economic and Trade Arbitration Commission in Beijing (PRC) zur Schlichtung anzurufen. Die Vertragsparteien vereinbaren, dass drei Schiedsrichter zur Beilegung der Rechtsstreitigkeit ernannt werden.
 
-In Vietnam: Rechtsstreitigkeiten werden in Vietnam durch Schiedsspruch in Übereinstimmung mit den Schiedsregeln des Vietnam International Arbitration Centre („VIAC-Regeln“) geregelt bzw. beigelegt. Die Verkehrssprache für sämtliche Verfahren (einschließlich der zugehörigen Dokumente) ist Englisch.
+In Vietnam: Rechtsstreitigkeiten werden in Vietnam durch Schiedsspruch in Übereinstimmung mit den Schiedsregeln des Vietnam International Arbitration Centre (?VIAC-Regeln?) geregelt bzw. beigelegt. Die Verkehrssprache für sämtliche Verfahren (einschließlich der zugehörigen Dokumente) ist Englisch.
 
 Abschnitt 7. Allgemeines
 
-Im zweiten Satz von Absatz j wird die Angabe „zwei Jahre“ ersetzt durch:
+Im zweiten Satz von Absatz j wird die Angabe ?zwei Jahre? ersetzt durch:
 
 In Indien: drei Jahre
 
@@ -338,13 +338,13 @@ In Italien: Im Falle einer Nichtzahlung oder einer Teilzahlung sowie im Anschlus
 
 Abschnitt 4. Haftung und Schutz geistigen Eigentums
 
-Im ersten Satz von Absatz a wird vor „den Betrag“ Folgendes eingefügt:
+Im ersten Satz von Absatz a wird vor ?den Betrag? Folgendes eingefügt:
 
-In Belgien, Frankreich, Deutschland, Italien, Luxemburg, Malta, Portugal und Spanien: € 500.000 (fünfhunderttausend Euro) oder auf
+In Belgien, Frankreich, Deutschland, Italien, Luxemburg, Malta, Portugal und Spanien: ¤ 500.000 (fünfhunderttausend Euro) oder auf
 
-In Irland und im Vereinigten Königreich wird „den Betrag“ ersetzt durch: 125 % des Betrags
+In Irland und im Vereinigten Königreich wird ?den Betrag? ersetzt durch: 125 % des Betrags
 
-Im ersten Satz von Absatz a wird die Formulierung „bei unmittelbaren/direkten Schäden“ ersetzt durch:
+Im ersten Satz von Absatz a wird die Formulierung ?bei unmittelbaren/direkten Schäden? ersetzt durch:
 
 In Spanien: bei nachgewiesenen Schäden, die als direkte Folge einer Pflichtverletzung seitens IBM entstanden sind,
 
@@ -376,13 +376,13 @@ Am Ende von Absatz a wird Folgendes hinzugefügt:
 
 In Frankreich: Die Bedingungen der Vereinbarung, einschließlich der finanziellen Bedingungen, wurden unter Berücksichtigung dieser Klausel festgelegt, die ein integraler Bestandteil für das Gleichgewicht der Vereinbarung darstellt.
 
-In Absatz b wird „Schäden, für die nach geltendem Recht keine Haftungsbegrenzung zulässig ist.“ wie folgt ersetzt:
+In Absatz b wird ?Schäden, für die nach geltendem Recht keine Haftungsbegrenzung zulässig ist.? wie folgt ersetzt:
 
 In Deutschland: i) Schadenersatzansprüche im Zusammenhang mit Personenschäden (einschließlich Tod); ii) Verluste oder Schäden, die durch Verletzung einer in Verbindung mit einem Geschäftsvorgang unter dieser Vereinbarung von IBM übernommenen Garantie entstanden sind; und iii) Schäden, die vorsätzlich oder grob fahrlässig verursacht wurden.
 
 Abschnitt 6. Geltendes Recht und Geltungsbereich
 
-In Absatz a wird nur im ersten Satz der Teilsatz „des Landes zur Anwendung kommen, in dem der Geschäftsvorgang zum Erwerb von Lizenzberechtigungen stattfindet“ wie folgt ersetzt:
+In Absatz a wird nur im ersten Satz der Teilsatz ?des Landes zur Anwendung kommen, in dem der Geschäftsvorgang zum Erwerb von Lizenzberechtigungen stattfindet? wie folgt ersetzt:
 
 In Albanien, Armenien, Aserbaidschan, Belarus, Bosnien-Herzegowina, Bulgarien, Kroatien, Ehemalige Jugoslawische Republik Mazedonien, Georgien, Kasachstan, Kirgisien, Republik Moldau, Montenegro, Rumänien, Russland, Serbien, Tadschikistan, Turkmenistan, Ukraine und Usbekistan: Österreichs zur Anwendung kommen
 
@@ -450,11 +450,11 @@ In Spanien: IBM wird Weisungen des Lizenznehmers nachkommen, die sich auf den Zu
 
 Am Ende von Absatz j wird der folgende Text hinzugefügt:
 
-In Tschechien: Gemäß Paragraf 1801 des Gesetzes Nr. 89/2012 Sb. („Bürgerliches Gesetzbuch“) kommen die Paragrafen 1799 und 1800 des Bürgerlichen Gesetzbuches in der aktuellen Fassung für Geschäftsvorgänge unter dieser Vereinbarung nicht zur Anwendung. Der Lizenznehmer akzeptiert das Risiko der Veränderung der Umstände gemäß Paragraf 1765 des Bürgerlichen Gesetzbuches.
+In Tschechien: Gemäß Paragraf 1801 des Gesetzes Nr. 89/2012 Sb. (?Bürgerliches Gesetzbuch?) kommen die Paragrafen 1799 und 1800 des Bürgerlichen Gesetzbuches in der aktuellen Fassung für Geschäftsvorgänge unter dieser Vereinbarung nicht zur Anwendung. Der Lizenznehmer akzeptiert das Risiko der Veränderung der Umstände gemäß Paragraf 1765 des Bürgerlichen Gesetzbuches.
 
 In Absatz j:
 
-In Bulgarien, Kroatien, Russland, Serbien und Slowenien: Der zweite Satz „Beide Vertragsparteien kommen überein, keine rechtlichen Schritte im Zusammenhang mit dieser Vereinbarung später als zwei Jahre nach Entstehen eines Anspruches einzuleiten.“ wird gestrichen.
+In Bulgarien, Kroatien, Russland, Serbien und Slowenien: Der zweite Satz ?Beide Vertragsparteien kommen überein, keine rechtlichen Schritte im Zusammenhang mit dieser Vereinbarung später als zwei Jahre nach Entstehen eines Anspruches einzuleiten.? wird gestrichen.
 
 In Absatz j wird der folgende Text am Ende des zweiten Satzes hinzugefügt:
 
@@ -464,17 +464,17 @@ In Absatz j wird der zweite Satz wie folgt ersetzt:
 
 In Polen: Beide Vertragsparteien kommen überein, keine rechtlichen Schritte im Zusammenhang mit dieser Vereinbarung später als drei Jahre nach Entstehen eines Anspruches einzuleiten, mit Ausnahme eines Anspruches wegen Nichtzahlung, der nicht später als 2 Jahre nach Fälligkeit der Zahlung geltend gemacht werden kann.
 
-Im zweiten Satz von Absatz j wird das Wort „zwei“ wie folgt ersetzt:
+Im zweiten Satz von Absatz j wird das Wort ?zwei? wie folgt ersetzt:
 
 In Lettland und der Ukraine: drei
 
 In der Slowakei: vier
 
-In Absatz j wird der dritte Satz mit folgendem Wortlaut: „Mit Ausnahme von Zahlungsverpflichtungen ist keine der Vertragsparteien für die Nichterfüllung von Verpflichtungen aus Gründen verantwortlich, die außerhalb ihres Einflussbereichs liegen.“ wie folgt ergänzt:
+In Absatz j wird der dritte Satz mit folgendem Wortlaut: ?Mit Ausnahme von Zahlungsverpflichtungen ist keine der Vertragsparteien für die Nichterfüllung von Verpflichtungen aus Gründen verantwortlich, die außerhalb ihres Einflussbereichs liegen.? wie folgt ergänzt:
 
 In Russland: , wie beispielsweise Erdbeben, Überflutungen, Brände, unabwendbare Ereignisse (außer Arbeitsniederlegungen durch die Mitarbeiter der Vertragsparteien), Kriegshandlungen, militärische Aktionen, Embargos, Blockaden, internationale oder staatliche Sanktionen und behördliche Anordnungen der jeweiligen Rechtsordnung.
 
-In Absatz j wird der dritte Satz mit folgendem Wortlaut: „Mit Ausnahme von Zahlungsverpflichtungen ist keine der Vertragsparteien für die Nichterfüllung von Verpflichtungen aus Gründen verantwortlich, die außerhalb ihres Einflussbereichs liegen.“ wie folgt geändert:
+In Absatz j wird der dritte Satz mit folgendem Wortlaut: ?Mit Ausnahme von Zahlungsverpflichtungen ist keine der Vertragsparteien für die Nichterfüllung von Verpflichtungen aus Gründen verantwortlich, die außerhalb ihres Einflussbereichs liegen.? wie folgt geändert:
 
 In der Ukraine: Mit Ausnahme von Zahlungsverpflichtungen ist keine der Vertragsparteien für die Nichterfüllung von Verpflichtungen aus Gründen oder aufgrund von regulatorischen Änderungen verantwortlich, die außerhalb ihres Einflussbereichs liegen, einschließlich, aber nicht beschränkt auf Import- und Exportbeschränkungen oder Wirtschaftssanktionen der USA.
 

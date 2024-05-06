@@ -320,7 +320,7 @@ Pada ayat b, tambahkan hal berikut di akhir kalimat ketiga:
 
 Di Italia: jika IBM meminta dalam pemberitahuan secara tertulis kepada Pemegang Lisensi.
 
-Di Ukraina: , sebesar jumlah yang melampaui batas waktunya dari hari berikutnya setelah tanggal jatuh tempo hingga tanggal pembayaran aktual, dihitung prorata untuk setiap hari keterlambatan, dengan suku bunga sebesar dua kali lipat dari tarif diskon yang ditentukan oleh Bank Nasional Ukraina (National Bank of Ukraine - “NBU”) selama periode keterlambatan (ayat 6 pasal 232 Kitab Undang-Undang Hukum Dagang Ukraina tidak berlaku).
+Di Ukraina: , sebesar jumlah yang melampaui batas waktunya dari hari berikutnya setelah tanggal jatuh tempo hingga tanggal pembayaran aktual, dihitung prorata untuk setiap hari keterlambatan, dengan suku bunga sebesar dua kali lipat dari tarif diskon yang ditentukan oleh Bank Nasional Ukraina (National Bank of Ukraine - ?NBU?) selama periode keterlambatan (ayat 6 pasal 232 Kitab Undang-Undang Hukum Dagang Ukraina tidak berlaku).
 
 Pada ayat b, ganti kalimat ketiga dengan pernyataan berikut:
 
@@ -340,7 +340,7 @@ Pasal 4. Tanggung Jawab dan Perlindungan Hak Kekayaan Intelektual
 
 Pada ayat a, di kalimat pertama, masukkan hal berikut sebelum kata "jumlah yang dibayarkan":
 
-Di Belgia, Prancis, Jerman, Italia, Luksemburg, Malta, Portugal, dan Spanyol: lebih besar dari €500.000 (lima ratus ribu euro) atau
+Di Belgia, Prancis, Jerman, Italia, Luksemburg, Malta, Portugal, dan Spanyol: lebih besar dari ¤500.000 (lima ratus ribu euro) atau
 
 Di Irlandia dan Inggris Raya: 125% dari
 
@@ -448,7 +448,7 @@ Di Spanyol: IBM akan mematuhi permintaan untuk mengakses, memperbarui, atau meng
 
 Pada ayat j, tambahkan di akhir ayat:
 
-Di Republik Ceko: Sesuai dengan Pasal 1801 of Undang-Undang No. 89/2012 Coll. (“Hukum Perdata” (Civil Code)), Pasal 1799 dan Pasal 1800 pada Hukum Perdata sebagaimana yang diamendemen, tidak berlaku untuk transaksi berdasarkan Perjanjian ini. Pemegang Lisensi menerima risiko perubahan kondisi berdasarkan Pasal 1765 pada KUH Perdata.
+Di Republik Ceko: Sesuai dengan Pasal 1801 of Undang-Undang No. 89/2012 Coll. (?Hukum Perdata? (Civil Code)), Pasal 1799 dan Pasal 1800 pada Hukum Perdata sebagaimana yang diamendemen, tidak berlaku untuk transaksi berdasarkan Perjanjian ini. Pemegang Lisensi menerima risiko perubahan kondisi berdasarkan Pasal 1765 pada KUH Perdata.
 
 Pada ayat j:
 

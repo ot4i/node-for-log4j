@@ -1,487 +1,487 @@
-°ê»Ú±ÂÅv¦X¬ù - µL«OÃÒµ{¦¡
+ÙÏëãÚæûâÇÙÒü - àÒÏñøýá£È¢
 
-²Ä¤@³¡¤À - ¤@¯ë³W©w
+ÜÉÄ¡ÝåÅ¡ - Ä¡×ïÝ½Ìù
 
-³Q±ÂÅv¤H¤@¥¹¤U¸ü¡B¦w¸Ë¡B½Æ»s¡B¦s¨ú¡BÂI¿ï¡u±µ¨ü¡v«ö¶s©Î¥H¨ä¥L¤è¦¡¨Ï¥Î¡uµ{¦¡¡v¡A§Yªí¥Ü³Q±ÂÅv¤H¦P·N¥»¦X¬ù¤§±ø´Ú¡C­Y ¶Q«È¤á«Y¥Nªí³Q±ÂÅv¤H¦P·N¦¹µ¥±ø´Ú¡A«h ¶Q«È¤áÁn©ú ¶Q«È¤á¾Ö¦³¥R¤ÀÅv­­±o¥H¨Ï³Q±ÂÅv¤H¨ü¦¹µ¥±ø´Ú³W½d¡C
+Ý·ÚæûâÄ©Ä¡ÆÙÄ¶ç¥¡£ÇøæÒ¡£îïêû¡£ÇôÌ½¡£öµòÙ¡ÖÚÙÌ¿¡×ÑºâÚÍÐÅèÌ§ÅìÅÉÈ¢ËðÆî¡Öá£È¢¡×¡¢É»ÏÐÆüÝ·ÚæûâÄ©ÇÑãôÆÛÇÙÒüÄæÛ¾à¡¡¤Ó¼ â¸ÐêÅÂÏûÅîÏÐÝ·ÚæûâÄ©ÇÑãôÈºá«Û¾à¡¡¢Ð¬ â¸ÐêÅÂôøÍü â¸ÐêÅÂðßÈ´ÅòÅ¡ûâÓîÚµÅèËðÝ·ÚæûâÄ©Ì¿Èºá«Û¾à¡Ý½î¯¡¤
 
-­Y ¶Q«È¤á¤£¦P·N«e´¦±ø´Ú©Î¥¼¨ã¦³Åv­­¡Gi) ½Ð¤Å¤U¸ü¡B¦w¸Ë¡B½Æ»s¡B¦s¨ú¡BÂI¿ï¡u±µ¨ü¡v«ö¶s©Î¨Ï¥Î¡uµ{¦¡¡v¡F¤Î ii) ¥ß§Y±N¥¼¨Ï¥Î¤§´CÅé¡B»¡©ú¤å¥ó¤ÎÅv§QÃÒ©ú®Ñ°h¦^­ì¨Ñ³f¼t°Ó¡]IBM ©Î¨äÂà¾P°Ó¡^¡A­n¨D°hÁÙ¤w¥I´Ú¶µ¡C¤w¤U¸ü¡uµ{¦¡¡vªÌ¡AÀ³§Y¾P·´¡uµ{¦¡¡v¤§¤@¤Á½Æ¥»¡C
+Ó¼ â¸ÐêÅÂÄâÇÑãôÐ©ßËÛ¾à¡ÍÐÆÜÌ¦È´ûâÓî¡¨i) îùÅ¦Ä¶ç¥¡£ÇøæÒ¡£îïêû¡£ÇôÌ½¡£öµòÙ¡ÖÚÙÌ¿¡×ÑºâÚÍÐËðÆî¡Öá£È¢¡×¡§Å¯ ii) Ç¡É»ÙòÆÜËðÆîÄæÞèüÕ¡£ë©ÍüÅÆÇµÅ¯ûâÉ³øýÍüÕóØÍÇßÔÏËòÝÌìÞÙ¸¡¾IBM ÍÐÌ§÷ËïÚÙ¸¡¿¡¢ÓÑÊåØÍõäÄØÅéà¡âú¡¤ÄØÄ¶ç¥¡Öá£È¢¡×Ï¯¡¢óÜÉ»ïÚäÚ¡Öá£È¢¡×ÄæÄ¡Å¢îïÆÛ¡¤
 
-¡u°ê»Ú±ÂÅv¦X¬ù - µL«OÃÒµ{¦¡ (ILAN)¡v¤Î¾A¥Î¡u¥æ©ö¤å¥ó¡v¡]¦XºÙ¡u¦X¬ù¡v¡^¬°³Q±ÂÅv¤H»P IBM ´N¡uµ{¦¡¡v¤§¨Ï¥Î©Ò­q§¹¾ã¦X¬ù¡C¥» ILAN ²Ä 2 ³¡¤À©Ò§t°ê®a©Î¦a°Ï³W©w±ø´Ú¨ú¥N©Î­×§ï²Ä 1 ³¡¤À¤§±ø´Ú¡C
+¡ÖÙÏëãÚæûâÇÙÒü - àÒÏñøýá£È¢ (ILAN)¡×Å¯ïËÆî¡ÖÇ¨ÍøÅÆÇµ¡×¡¾ÇÙê¢¡ÖÇÙÒü¡×¡¿Ò³Ý·ÚæûâÄ©êØ IBM Þó¡Öá£È¢¡×ÄæËðÆîÍÔÓÔÉùðìÇÙÒü¡¤ÆÛ ILAN ÜÉ 2 ÝåÅ¡ÍÔÉÖÙÏÕ¥ÍÐÇâÙ´Ý½ÌùÛ¾à¡Ì½ÅîÍÐÔºÊÑÜÉ 1 ÝåÅ¡ÄæÛ¾à¡¡¤
 
-¡u¥æ©ö¤å¥ó (TD)¡v´£¨Ñ¡uµ{¦¡¡v¤Î¨ä±ÂÅv¨Ï¥Î¦³Ãö»¡©ú¡B¸ê°T¤Î±ø´Ú¡C¡uµ{¦¡¡v¤§¡u¥æ©ö¤å¥ó¡v½d¨Ò¥]¬A±ÂÅv¤â¥U (LI)¡B±ÂÅvµ{¦¡³W®æ (LPS)¡B³ø»ù³æ¡BÅv§QÃÒ©ú®Ñ (PoE) ©Îµo²¼¡C¦p¦³¬»Ä²¡A¡u¥æ©ö¤å¥ó¡v¸û ILAN Àu¥ý¾A¥Î¡C
+¡ÖÇ¨ÍøÅÆÇµ (TD)¡×ßÈËò¡Öá£È¢¡×Å¯Ì§ÚæûâËðÆîÈ´ùÃë©Íü¡£æñØ¹Å¯Û¾à¡¡¤¡Öá£È¢¡×Äæ¡ÖÇ¨ÍøÅÆÇµ¡×î¯ËóÅýÑÄÚæûâÅÃÅõ (LI)¡£Úæûâá£È¢Ý½Öª (LPS)¡£ÞÞì¤ÞÌ¡£ûâÉ³øýÍüÕó (PoE) ÍÐàõÜÁ¡¤ÇñÈ´Ò¾ú½¡¢¡ÖÇ¨ÍøÅÆÇµ¡×ç¤ ILAN óÀÇ¿ïËÆî¡¤
 
-1. µ{¦¡±ÂÅv
+1. á£È¢Úæûâ
 
-a. ¡uµ{¦¡¡v¬°¥i°õ¦æ IBM «~µP¹q¸£µ{¦¡¤Î¬ÛÃöµÛ§@ª«¡A¥B¥]¬A¥þ³¡¤Î³¡¤À¤§½Æ¥»¡C¡uµ{¦¡¡v¸Ô²Ó¸ê®Æ¸ü©ú©ó¡uµ{¦¡¡v¨t²Î«ü¥O¥Ø¿ý©Î IBM ©Ò«ü©w¤§¨ä¥L¥Ø¿ý¤¤¤§¡u¥æ©ö¤å¥ó¡v¡]¸ü©ú©ó http://www.ibm.com/software/sla¡]¾A¥Î©ó¡uPassport Advantage µ{¦¡¡v¡^©Î http://www.ibm.com/support/knowledgecenter¡]¾A¥Î©ó¨ä¥L¡uIBM µ{¦¡¡v¡^¡^¡CIBM ³nÅé¬Fµ¦¡]¨Ò¦p¡G³Æ¥÷¡B¼È®É¨Ï¥Î¤Î IBM ®Ö­ã¤§¶³ºÝÀô¹Ò¡^¡]¸ü©ú©ó http://www.ibm.com/softwarepolicies¡^¾A¥Î©ó³Q±ÂÅv¤H¹ï¡uµ{¦¡¡v¤§¨Ï¥Î¡C
+a. ¡Öá£È¢¡×Ò³Æ«ÙÚÈç IBM ÐÂàÖçÙæªá£È¢Å¯ÒÞùÃááÉ¢Îì¡¢ÅâÅýÑÄÇÀÝåÅ¯ÝåÅ¡ÄæîïÆÛ¡¤¡Öá£È¢¡×æÛÜØæñÕèç¥ÍüÍõ¡Öá£È¢¡×Ë·ÜÓÑÀÅïÆøòçÍÐ IBM ÍÔÑÀÌùÄæÌ§ÅìÆøòçÄãÄæ¡ÖÇ¨ÍøÅÆÇµ¡×¡¾ç¥ÍüÍõ http://www.ibm.com/software/sla¡¾ïËÆîÍõ¡ÖPassport Advantage á£È¢¡×¡¿ÍÐ http://www.ibm.com/support/knowledgecenter¡¾ïËÆîÍõÌ§Åì¡ÖIBM á£È¢¡×¡¿¡¿¡¤IBM ÝÔüÕÑÉá¬¡¾ËóÇñ¡¨Þ¬Ç¹¡£í²ÕëËðÆîÅ¯ IBM ÕøÔÆÄæâøê¦ô¿èº¡¿¡¾ç¥ÍüÍõ http://www.ibm.com/softwarepolicies¡¿ïËÆîÍõÝ·ÚæûâÄ©è×¡Öá£È¢¡×ÄæËðÆî¡¤
 
-b. ¡uµ{¦¡¡v½Æ¥»¨É¦³µÛ§@Åv¥B«Y¥H±ÂÅv¤è¦¡´£¨Ñ¡C
+b. ¡Öá£È¢¡×îïÆÛËêÈ´ááÉ¢ûâÅâÏûÅèÚæûâÅÉÈ¢ßÈËò¡¤
 
-c. ³Q±ÂÅv¤H³Q±Â»P¤U¦C«D±MÄÝÅv§Q¡G
+c. Ý·ÚæûâÄ©Ý·ÚæêØÄ¶ÇÄÏæÙñúèûâÉ³¡¨
 
-(1) ¨Ì¡u¦X¬ù¡v±ø´Ú¨Ï¥Î¡uµ{¦¡¡v¤§¦U½Æ¥»¡A±©¥H³Q±ÂÅv¤H©Ò¨ú±o¤§±ÂÅv¼Æ¶q¡]¡u±ÂÅv¨Ï¥Î¡v¡^¬°¨Ï¥Î¤W­­¡]µø¾A¥Î±¡§Î¦Ó©w¡^¡C
+(1) Ëí¡ÖÇÙÒü¡×Û¾à¡ËðÆî¡Öá£È¢¡×ÄæÇÖîïÆÛ¡¢ÚÍÅèÝ·ÚæûâÄ©ÍÔÌ½ÚµÄæÚæûâí°âØ¡¾¡ÖÚæûâËðÆî¡×¡¿Ò³ËðÆîÄ¸Óî¡¾áþïËÆîÚÅÊ°ÈÔÌù¡¿¡¤
 
-(2) §@¦¨¤Î¦w¸Ë½Æ¥»¡A¥H¤ä´©«e´¦¡u±ÂÅv¨Ï¥Î¡v¡F¤Î
+(2) É¢È©Å¯ÇøæÒîïÆÛ¡¢ÅèÅÅßÎÐ©ßË¡ÖÚæûâËðÆî¡×¡§Å¯
 
-(3) »s§@³Æ¥÷½Æ¥»¡C
+(3) êûÉ¢Þ¬Ç¹îïÆÛ¡¤
 
-d. ¡uµ{¦¡¡v±o¥Ñ³Q±ÂÅv¤H¡B¨ä­û¤u¤Î©Ó¥]°Ó¨Ï¥Î¡C³Q±ÂÅv¤H¤£±o¯²¥Î©Î¥X¯²¡uµ{¦¡¡v¡A©Î¬°²Ä¤T¤H´£¨Ñ°Ó¥Î IT¡B¥D¾÷¥NºÞ©Î¤À®Éµ¥ªA°È¡C¥t¥ç¥i¯à´£¨ÑÃB¥~Åv§Q¡A±©»Ý¦¬¨úÃB¥~¶O¥Î©Î¨Ì¾Ú¤£¦P±ø´Ú¡C
+d. ¡Öá£È¢¡×ÚµÆñÝ·ÚæûâÄ©¡£Ì§ÔÞÄÖÅ¯ÍÕÅýÙ¸ËðÆî¡¤Ý·ÚæûâÄ©ÄâÚµ×µÆîÍÐÅø×µ¡Öá£È¢¡×¡¢ÍÐÒ³ÜÉÄµÄ©ßÈËòÙ¸Æî IT¡£Åäñ¢Åîê§ÍÐÅ¡Õëá«Î¤Ù­¡¤Æ¶Ç©Æ«×äßÈËò÷ìÆÀûâÉ³¡¢ÚÍëæÈ­Ì½÷ìÆÀâ¶ÆîÍÐËíðãÄâÇÑÛ¾à¡¡¤
 
-e. ¡uµ{¦¡¡v¤§±ÂÅv¥H³Q±ÂÅv¤H¿í¦u¤U­z¸q°È¬°±ø¥ó¡G
+e. ¡Öá£È¢¡×ÄæÚæûâÅèÝ·ÚæûâÄ©ò×ÇöÄ¶ÓÝåøÙ­Ò³Û¾Çµ¡¨
 
-(1) ©ó½Æ¥»¤W­«»sµÛ§@ÅvÁn©ú¤Î¨ä¥L¼Ð¥Ü¡F
+(1) ÍõîïÆÛÄ¸ÓìêûááÉ¢ûâôøÍüÅ¯Ì§ÅìíºÆü¡§
 
-(2) ½T«O¥ô¦ó¨Ï¥Î¡uµ{¦¡¡v¤§¤H¿í´`¤U¦C³W©w¡Gi) ¶È©ó³Q±ÂÅv¤H¤§¡u±ÂÅv¨Ï¥Î¡v½d³ò¤º¥Nªí³Q±ÂÅv¤H¨Ï¥Î¤§¡F¤Î ii) ¿í´`¥»¡u¦X¬ù¡v¡F
+(2) íýÏñÇ¶ÈôËðÆî¡Öá£È¢¡×ÄæÄ©ò×ß§Ä¶ÇÄÝ½Ìù¡¨i) ã¯ÍõÝ·ÚæûâÄ©Äæ¡ÖÚæûâËðÆî¡×î¯ÞØÄùÅîÏÐÝ·ÚæûâÄ©ËðÆîÄæ¡§Å¯ ii) ò×ß§ÆÛ¡ÖÇÙÒü¡×¡§
 
-(3) ¤£¹ï¥»¡uµ{¦¡¡v¶i¦æ°f¦V²ÕÄ¶¡B°f¦V½sÄ¶¡BÂ½Ä¶©Î°f¦VÁÙ­ì¡F±©ªk«ß³W©w¤£±o¥H«´¬ù©ß±óªÌ¡A¤£¦b¦¹­­¡F¤Î
+(3) Äâè×ÆÛ¡Öá£È¢¡×âÐÈçØËÇ×ÜÚúÁ¡£ØËÇ×î¾úÁ¡£÷©úÁÍÐØËÇ×õäÔÏ¡§ÚÍÎÎÑ£Ý½ÌùÄâÚµÅèÐÖÒüÍáÛ¹Ï¯¡¢ÄâÇãÈºÓî¡§Å¯
 
-(4) ¤£±o±N¡uµ{¦¡¡v©Î¬ÛÃö±ÂÅvµÛ§@ª«¤§¤¸¥ó/¤¸¯À (elements) »P¡uµ{¦¡¡v¤À¶}¨Ï¥Î¡C
+(4) ÄâÚµÙò¡Öá£È¢¡×ÍÐÒÞùÃÚæûâááÉ¢ÎìÄæÄ÷Çµ/Ä÷×Ã (elements) êØ¡Öá£È¢¡×Å¡âäËðÆî¡¤
 
-f. ¡uµ{¦¡¡v¡]¡u¥Dµ{¦¡¡v¡^¤§¡u¥æ©ö¤å¥ó¡v±Ô©ú¡u¥Dµ{¦¡¡vÀHªþ¡u¤ä´©µ{¦¡¡vªÌ¡A³Q±ÂÅv¤H±o¨Ì¡u¥Dµ{¦¡¡v¤§±ÂÅv­­¨î³W©w¨Ï¥Î¡u¤ä´©µ{¦¡¡v¡A±©¶È­­¥Î©ó¤ä´©¡u¥Dµ{¦¡¡v¡C
+f. ¡Öá£È¢¡×¡¾¡ÖÅäá£È¢¡×¡¿Äæ¡ÖÇ¨ÍøÅÆÇµ¡×ÚøÍü¡ÖÅäá£È¢¡×òñÏá¡ÖÅÅßÎá£È¢¡×Ï¯¡¢Ý·ÚæûâÄ©ÚµËí¡ÖÅäá£È¢¡×ÄæÚæûâÓîÌ±Ý½ÌùËðÆî¡ÖÅÅßÎá£È¢¡×¡¢ÚÍã¯ÓîÆîÍõÅÅßÎ¡ÖÅäá£È¢¡×¡¤
 
-g. ¥»±ÂÅv¾A¥Î©ó³Q±ÂÅv¤H»s§@¤§¥»¡uµ{¦¡¡v¦U½Æ¥»¡C
+g. ÆÛÚæûâïËÆîÍõÝ·ÚæûâÄ©êûÉ¢ÄæÆÛ¡Öá£È¢¡×ÇÖîïÆÛ¡¤
 
-h. ¡uµ{¦¡¡v¤§§ó·s¡B­×¥¿©Î­×¸É¡A¨Ì¡uµ{¦¡¡v©Ò¾A¥Î±ø´Ú¤§³W©w¡A¦ý¤w§ó·s¡u¥æ©ö¤å¥ó¡v­q¦³·s±ø´ÚªÌ¡A±q¨ä³W©w¡C³Q±ÂÅv¤H©ó¦w¸Ë§ó·s¡B­×¥¿©Î­×¸É¶µ¥Ø®É¡A§Y±µ¨ü«e´¦·s±ø´Ú¡C­Y¡uµ{¦¡¡v¥Ñ§ó·sµ{¦¡¨ú¥N¡A³Q±ÂÅv¤H¦P·N¥ß§Y°±¤î¨Ï¥Î¸Ó³Q¨ú¥N¤§¡uµ{¦¡¡v¡C
+h. ¡Öá£È¢¡×ÄæÊÕä»¡£ÔºÆßÍÐÔºæÐ¡¢Ëí¡Öá£È¢¡×ÍÔïËÆîÛ¾à¡ÄæÝ½Ìù¡¢ÈþÄØÊÕä»¡ÖÇ¨ÍøÅÆÇµ¡×ÓÔÈ´ä»Û¾à¡Ï¯¡¢Ú·Ì§Ý½Ìù¡¤Ý·ÚæûâÄ©ÍõÇøæÒÊÕä»¡£ÔºÆßÍÐÔºæÐâúÆøÕë¡¢É»ÚÙÌ¿Ð©ßËä»Û¾à¡¡¤Ó¼¡Öá£È¢¡×ÆñÊÕä»á£È¢Ì½Åî¡¢Ý·ÚæûâÄ©ÇÑãôÇ¡É»ØôÅÏËðÆîæÚÝ·Ì½ÅîÄæ¡Öá£È¢¡×¡¤
 
-i. ³Q±ÂÅv¤H¦]¬G¹ï¡uµ{¦¡¡v¤£º¡·NªÌ¡A³Q±ÂÅv¤H±o©ó¡uµ{¦¡¡v­ì©l¨ú±o¤é´Á°_¤T¤Q¤é¤º¡A±N¡uµ{¦¡¡v¤ÎÅv§QÃÒ©ú®Ñ°h¦^ IBM ©Î¡uIBM ¦X®æ¨Æ·~¹Ù¦ñ¡v¡A­n¨D°hÁÙ¤w¥I´Ú¶µ¡C¦p«Y¤w¤U¸ü¤§¡uµ{¦¡¡v¡A½Ð¦V³Q±ÂÅv¤H¨ú±o¡uµ{¦¡¡v¤§·í¨Æ¤H¬¢¸ß°h´Ú«ü¥Ü¡C
+i. Ý·ÚæûâÄ©ÇÞÑÊè×¡Öá£È¢¡×ÄâéÈãôÏ¯¡¢Ý·ÚæûâÄ©ÚµÍõ¡Öá£È¢¡×ÔÏÌîÌ½ÚµÅÊßæØÄÄµÄ²ÅÊÄù¡¢Ùò¡Öá£È¢¡×Å¯ûâÉ³øýÍüÕóØÍÇß IBM ÍÐ¡ÖIBM ÇÙÖªËçäÆèÁÈò¡×¡¢ÓÑÊåØÍõäÄØÅéà¡âú¡¤ÇñÏûÄØÄ¶ç¥Äæ¡Öá£È¢¡×¡¢îùÇ×Ý·ÚæûâÄ©Ì½Úµ¡Öá£È¢¡×ÄæåµËçÄ©Ò¥ææØÍà¡ÑÀÆü¡¤
 
-2. «OÃÒ¨Æ¶µ
+2. ÏñøýËçâú
 
-a. IBM ¤£«OÃÒ¡uIBM µ{¦¡¡v¤§¹B§@¤£·|¤¤Â_©Î¥þµL¿ù»~¡A¥ç¤£«OÃÒ IBM ±N§ó¥¿©Ò¦³·å²«©Î¨¾¤î²Ä¤T¤H¤§¤zÂZ¡C¥H¤W¬° IBM ¤§¥þ³¡¾á«O³d¥ô¡A¨Ã¨ú¥N¨ä¥L¤@¤Á¤§¾á«O¡A¥]¬A¦ý¤£­­©ó«~½èº¡·N«×¡B¥i°â©Ê¡B¥¼¯A«IÅv¤Î²Å¦X¯S©w¥Î³~µ¥Àq¥Ü«OÃÒ©Î¾á«O¡C¦p¦³¤£·í¨Ï¥Î¡B­×§ï¡B«D¥Ñ IBM ©Ò­P·l®`¡A©Î¥¼¿í´` IBM ´£¨Ñ¤§®Ñ­±«ü¥Üµ¥±¡§Î¤§¤@ªÌ¡A§¡¤£¦b IBM «OÃÒ½d³ò¤º¡C¡u«D IBM µ{¦¡¡v¨Ì²{ª¬´£¨Ñ¡A¤£§t¥ô¦ó«OÃÒ¨Æ¶µ¡C²Ä¤T¤H¥i¯à´£¨Ñ¨ä¦Û¦³¤§«OÃÒ¤©³Q±ÂÅv¤H¡C
+a. IBM ÄâÏñøý¡ÖIBM á£È¢¡×ÄæçªÉ¢ÄâäÄÄãöËÍÐÇÀàÒòãë¨¡¢Ç©ÄâÏñøý IBM ÙòÊÕÆßÍÔÈ´å­Ü°ÍÐËßÅÏÜÉÄµÄ©ÄæÄÛöÆ¡¤ÅèÄ¸Ò³ IBM ÄæÇÀÝåðêÏñÝÊÇ¶¡¢ËäÌ½ÅîÌ§ÅìÄ¡Å¢ÄæðêÏñ¡¢ÅýÑÄÈþÄâÓîÍõÐÂï³éÈãôÐù¡£Æ«ÙÇÍÌ¡£ÆÜÖÄÏëûâÅ¯ÜÊÇÙÖÖÌùÆîÝäá«ó¼ÆüÏñøýÍÐðêÏñ¡¤ÇñÈ´ÄâåµËðÆî¡£ÔºÊÑ¡£ÏæÆñ IBM ÍÔÓ³ä´Õ¤¡¢ÍÐÆÜò×ß§ IBM ßÈËòÄæÕóÓòÑÀÆüá«ÚÅÊ°ÄæÄ¡Ï¯¡¢ÉáÄâÇã IBM Ïñøýî¯ÞØÄù¡¤¡ÖÏæ IBM á£È¢¡×ËíÜ¢ÎíßÈËò¡¢ÄâÉÖÇ¶ÈôÏñøýËçâú¡¤ÜÉÄµÄ©Æ«×äßÈËòÌ§ÈÜÈ´ÄæÏñøýÄèÝ·ÚæûâÄ©¡¤
 
-b. «OÃÒ´Á¶¡©Î¨ä«á©Ò´£¨Ñ¤§¨ä¥L¤ä´©¡A¨Ì­Ó§O¦X¬ù´£¨Ñ¤§¡C
+b. ÏñøýßæâæÍÐÌ§Ñ¥ÍÔßÈËòÄæÌ§ÅìÅÅßÎ¡¢ËíÔ¶É±ÇÙÒüßÈËòÄæ¡¤
 
-3. ¦¬¶O¡Bµ|®½¡B¥I´Ú¤Î´`³WÅçÃÒ
+3. È­â¶¡£á¤Õß¡£Åéà¡Å¯ß§Ý½üÓøý
 
-a. ³Q±ÂÅv¤H¶·¤ä¥I¨ä¾Ú¥H¨ú±o±ÂÅv¤§¦X¬ù©Ò©w¾A¥Î¶O¥Î¡]¦p¦³¡^¡A©l±o¨É¦³¡uµ{¦¡¡v¤§¨Ï¥ÎÅv§Q¡C³Q±ÂÅv¤HÀ³­t³d©ó¨ä¼W¥[¥Î¶q«e¡A¨ú±oÃB¥~±ÂÅv¡C
+a. Ý·ÚæûâÄ©âüÅÅÅéÌ§ðãÅèÌ½ÚµÚæûâÄæÇÙÒüÍÔÌùïËÆîâ¶Æî¡¾ÇñÈ´¡¿¡¢ÌîÚµËêÈ´¡Öá£È¢¡×ÄæËðÆîûâÉ³¡¤Ý·ÚæûâÄ©óÜÓ×ÝÊÍõÌ§ìÁÅûÆîâØÐ©¡¢Ì½Úµ÷ìÆÀÚæûâ¡¤
 
-b. ³Q±ÂÅv¤H¦P·N¤ä¥I©Ò¨ú±o±ÂÅv¤§¤@¤Á¾A¥Î¶O¥Î¤Î¹O¶V±ÂÅv¤§¶WÃB¨Ï¥Î¶O¡C«e¶µ­p¶O¤£¥]¬A¦]³Q±ÂÅv¤H¨ú±o±ÂÅv¦Ó½Ò¼x¤§¥ô¦óÃöµ|©Î¨ä¥Lµ|ª÷¡Bµ|®½©M¥ô¦ó¾÷Ãö¼x¦¬¤§Ãþ¦üµ|¶O¡A«e­z¶O¥Î¤Î¼x½Ò±N¶}¥ßµo²¼¡C´Ú¶µ¤ä¥I¸q°È©ó ¶Q«È¤á¦¬¨ìµo²¼¤é¨ì´Á¡C ¶Q«È¤áÀ³©óµo²¼¶}¥ß¤é«á 30 ¤é¤º¥I´Ú¦Ü IBM «ü©w±b¤á¡A¦p¦³¹O´Á¡AIBM ±o¦¬¨úº¢¯Çª÷¡C³Q±ÂÅv¤HÀ³­t³d©ó¨ä¼W¥[¥Î¶q«e¡A¥H¾A·í¤è¦¡¨ú±oÃB¥~±ÂÅv¡CIBM ±N¤£°hÁÙ³Q±ÂÅv¤H¤§À³¥I©Î¤w¥I¶O¥Î¡A±© ILAN¡B¾A¥Î¡u¥æ©ö¤å¥ó¡v©Î³Q±ÂÅv¤H¾Ú¥H¨ú±o±ÂÅv¤§¦X¬ù±ø´Ú¥t¦³³W©wªÌ¡A¤£¦b¦¹­­¡C
+b. Ý·ÚæûâÄ©ÇÑãôÅÅÅéÍÔÌ½ÚµÚæûâÄæÄ¡Å¢ïËÆîâ¶ÆîÅ¯ç·â½ÚæûâÄæâ¾÷ìËðÆîâ¶¡¤Ð©âúÓÓâ¶ÄâÅýÑÄÇÞÝ·ÚæûâÄ©Ì½ÚµÚæûâÈÔîûìâÄæÇ¶ÈôùÃá¤ÍÐÌ§Åìá¤ÏÚ¡£á¤ÕßÌÏÇ¶Èôñ¢ùÃìâÈ­ÄæùËÈýá¤â¶¡¢Ð©ÓÝâ¶ÆîÅ¯ìâîûÙòâäÇ¡àõÜÁ¡¤à¡âúÅÅÅéåøÙ­Íõ â¸ÐêÅÂÈ­Ì¯àõÜÁÅÊÌ¯ßæ¡¤ â¸ÐêÅÂóÜÍõàõÜÁâäÇ¡ÅÊÑ¥ 30 ÅÊÄùÅéà¡ÈÝ IBM ÑÀÌùÚ¨ÅÂ¡¢ÇñÈ´ç·ßæ¡¢IBM ÚµÈ­Ì½éÉ×ÊÏÚ¡¤Ý·ÚæûâÄ©óÜÓ×ÝÊÍõÌ§ìÁÅûÆîâØÐ©¡¢ÅèïËåµÅÉÈ¢Ì½Úµ÷ìÆÀÚæûâ¡¤IBM ÙòÄâØÍõäÝ·ÚæûâÄ©ÄæóÜÅéÍÐÄØÅéâ¶Æî¡¢ÚÍ ILAN¡£ïËÆî¡ÖÇ¨ÍøÅÆÇµ¡×ÍÐÝ·ÚæûâÄ©ðãÅèÌ½ÚµÚæûâÄæÇÙÒüÛ¾à¡Æ¶È´Ý½ÌùÏ¯¡¢ÄâÇãÈºÓî¡¤
 
-c. ³Q±ÂÅv¤H¦P·N¨Ì¾Ú©Ò¨ú±o¤§±ÂÅv¼i¦æ¤U¦C³W©w¡Gi) ¨Ì©Ò¾A¥Îªk«ß³W©w±N¹w¦©µ|ª÷ª½±µ¤ä¥I¤©¸ÓºÞÁÒ¤§¬F©²¾÷Ãö¡Fii) ±N¨¬¸êÃÒ©ú¤w¤ä¥I«e­zµ|ª÷¤§Ãº¯Ç¾ÌÃÒ´£¨Ñ¤© IBM¡Fiii) ©Ò¤ä¥I IBM ¤§´Ú¶µ¬°µ|«á²bÃB¡F¤Î iv) ¥þ¤O°t¦X IBM ¨ÌªkÁÅ§K©Î­°§C¬ÛÃöµ|´Ú¡A¥B¤Î®É§¹¦¨¨Ã´£¥æ¤@¤Á¬ÛÃö¤å¥ó¡C
+c. Ý·ÚæûâÄ©ÇÑãôËíðãÍÔÌ½ÚµÄæÚæûâìÓÈçÄ¶ÇÄÝ½Ìù¡¨i) ËíÍÔïËÆîÎÎÑ£Ý½ÌùÙòçßÈªá¤ÏÚÎþÚÙÅÅÅéÄèæÚê§õÝÄæÑÉÍ´ñ¢ùÃ¡§ii) ÙòËÍæñøýÍüÄØÅÅÅéÐ©ÓÝá¤ÏÚÄæøä×ÊðÕøýßÈËòÄè IBM¡§iii) ÍÔÅÅÅé IBM Äæà¡âúÒ³á¤Ñ¥Ûç÷ì¡§Å¯ iv) ÇÀÄ°ØÙÇÙ IBM ËíÎÎõÐÉ­ÍÐÓñÉ¥ÒÞùÃá¤à¡¡¢ÅâÅ¯ÕëÉùÈ©ËäßÈÇ¨Ä¡Å¢ÒÞùÃÅÆÇµ¡¤
 
-d. ­Y³Q±ÂÅv¤H¹ï¡uµ{¦¡¡v¬°¸ó¹Ò¤§¶×¤J¡B¶×¥X¡B¶Ç¿é¡B¦s¨ú©Î¨Ï¥Î¡A«h³Q±ÂÅv¤H¦P·N­t¾áÃöµ|¡Bµ|®½©Î¥ô¦ó¾÷Ãö¼x¦¬¤§Ãþ¦üµ|¶O¡A¨ÃÃº¯Ç¤©¥DºÞ¾÷Ãö¡C¤£§t¹ï IBM ¤§©Ò±o©Ò½Ò¤§µ|´Ú¡C
+d. Ó¼Ý·ÚæûâÄ©è×¡Öá£È¢¡×Ò³æúèºÄæã¾Ä«¡£ã¾Åø¡£ã®òÓ¡£ÇôÌ½ÍÐËðÆî¡¢Ð¬Ý·ÚæûâÄ©ÇÑãôÓ×ðêùÃá¤¡£á¤ÕßÍÐÇ¶Èôñ¢ùÃìâÈ­ÄæùËÈýá¤â¶¡¢Ëäøä×ÊÄèÅäê§ñ¢ùÃ¡¤ÄâÉÖè× IBM ÄæÍÔÚµÍÔîûÄæá¤à¡¡¤
 
-3.1 ±ÂÅv¬d®Ö
+3.1 ÚæûâÑçÕø
 
-a. ³Q±ÂÅv¤HÀ³´N©Ò¦³ºô¯¸¤W¤§©Ò¦³¡uµ{¦¡¡v¡A¥H¤Î©Ò¦³Àô¹Ò¡A§@¦¨¡B«O¯d¤Î¨C¦~¨Ì­n¨D´£¨Ñ¤U¦C¤å¥ó¤© IBM¡A±© IBM À³©ó¨Æ«e¤T¤Q¤é¬°³qª¾¡Gi) ¤@¥÷¨Ï¥Î°O¿ý¡B¨t²Î¤u¨ã¿é¥X¤Î¨ä¥L¨t²Î¸ê°T¤§³ø§i¡A¦¹³ø§iÀ³±Ä¥Î IBM ©Ò­n¨D¤§®æ¦¡¡F¤Î ii) ÃÒ©ú¤å¥ó¡]¦XºÙ¡u³¡¸p¸ê®Æ¡v¡^¡C
+a. Ý·ÚæûâÄ©óÜÞóÍÔÈ´ê½×»Ä¸ÄæÍÔÈ´¡Öá£È¢¡×¡¢ÅèÅ¯ÍÔÈ´ô¿èº¡¢É¢È©¡£ÏñÖçÅ¯ÊäÈ¡ËíÓÑÊåßÈËòÄ¶ÇÄÅÆÇµÄè IBM¡¢ÚÍ IBM óÜÍõËçÐ©ÄµÄ²ÅÊÒ³Ý×Ï¡¡¨i) Ä¡Ç¹ËðÆîØ´òç¡£Ë·ÜÓÄÖÌ¦òÓÅøÅ¯Ì§ÅìË·ÜÓæñØ¹ÄæÞÞÉË¡¢ÈºÞÞÉËóÜÚèÆî IBM ÍÔÓÑÊåÄæÖªÈ¢¡§Å¯ ii) øýÍüÅÆÇµ¡¾ÇÙê¢¡ÖÝåå÷æñÕè¡×¡¿¡¤
 
-b. IBM ¤Î¨ä¿W¥ß½]®Ö­û¬°¦X²z¤§³qª¾«á¡A±o¬d®Ö³Q±ÂÅv¤H©ó±q¤¤¨Ï¥Î¡]°ò©ó¥ô¦ó¥Øªº¡^¡uµ{¦¡¡v¤§¤@¤Áºô¯¸¤ÎÀô¹Ò¬O§_¿í´`¥»¡u¦X¬ù¡v¡C«e­z¬d®Ö¡A±N¥H³Ì¤£¤zÂZ³Q±ÂÅv¤H·~°È¤§¤è¦¡¬°¤§¡A¨Ã±o©ó¥¿±`¤W¯Z®É¶¡¤º¡A¦b³Q±ÂÅv¤H©Ò¦b³B©Ò¬°¤§¡CIBM À³»P¿W¥ß½]®Ö­ûÃ±­q®Ñ­±«O±K¦X¬ù¡C°£´£¨Ñ«e­z¡u³¡¸p¸ê®Æ¡v¥~¡A³Q±ÂÅv¤H¥ç¦P·N¨Ì­n¨D´£¨Ñ¨ä¥L¥¿½T¸ê°T»P¡u³¡¸p¸ê®Æ¡v¤© IBM ¤Î¨ä½]®Ö­û¡C
+b. IBM Å¯Ì§ñÁÇ¡î¨ÕøÔÞÒ³ÇÙÜ¡ÄæÝ×Ï¡Ñ¥¡¢ÚµÑçÕøÝ·ÚæûâÄ©ÍõÚ·ÄãËðÆî¡¾Ù×ÍõÇ¶ÈôÆøÎû¡¿¡Öá£È¢¡×ÄæÄ¡Å¢ê½×»Å¯ô¿èºÑÒÉÁò×ß§ÆÛ¡ÖÇÙÒü¡×¡¤Ð©ÓÝÑçÕø¡¢ÙòÅèÞ²ÄâÄÛöÆÝ·ÚæûâÄ©äÆÙ­ÄæÅÉÈ¢Ò³Äæ¡¢ËäÚµÍõÆßÚ¦Ä¸ÖÝÕëâæÄù¡¢ÇãÝ·ÚæûâÄ©ÍÔÇãÝ¨ÍÔÒ³Äæ¡¤IBM óÜêØñÁÇ¡î¨ÕøÔÞøÜÓÔÕóÓòÏñÙïÇÙÒü¡¤ØæßÈËòÐ©ÓÝ¡ÖÝåå÷æñÕè¡×ÆÀ¡¢Ý·ÚæûâÄ©Ç©ÇÑãôËíÓÑÊåßÈËòÌ§ÅìÆßíýæñØ¹êØ¡ÖÝåå÷æñÕè¡×Äè IBM Å¯Ì§î¨ÕøÔÞ¡¤
 
-c. ³Q±ÂÅv¤H¦P·N¥ß§Y­qÁÊ¤U¦C¶µ¥Ø¡A¨Ã¨Ì¸Óµ¥¶µ¥Ø¦³Ãö²{¦æ¶O²v¤ä¥I¶O¥Î¡Gi) ¦~«×³ø§i©Î¬d®Ö©Ò«ü©ú¹O¶V±ÂÅv¨Ï¥Î½d³ò¤§³¡¸p¡Fii) «e¶µ¶WÃB³¡¸p¤§¨Ï¥Î´Á¶¡©Ò¾A¥Î¤§²£«~§ó·s»P§Þ³N¤ä´© (S&S) ªA°È¡A±©³Ì°ª¤£±o¶W¹L¤G¦~¡F¤Î iii) ¥ô¦ó¥Ñ¸Ó¶µ¬d®Ö§P©wªº¥ô¦óÃB¥~¶O¥Î¤Î¨ä¥L¶Å°È¡A¥]¬A¦ý¤£­­©óµ|®½¡BÃöµ|¤Î³W¶O¡C
+c. Ý·ÚæûâÄ©ÇÑãôÇ¡É»ÓÔõÕÄ¶ÇÄâúÆø¡¢ËäËíæÚá«âúÆøÈ´ùÃÜ¢Èçâ¶ÛûÅÅÅéâ¶Æî¡¨i) È¡ÐùÞÞÉËÍÐÑçÕøÍÔÑÀÍüç·â½ÚæûâËðÆîî¯ÞØÄæÝåå÷¡§ii) Ð©âúâ¾÷ìÝåå÷ÄæËðÆîßæâæÍÔïËÆîÄæÜ¨ÐÂÊÕä»êØÊÀÝ´ÅÅßÎ (S&S) Î¤Ù­¡¢ÚÍÞ²ØíÄâÚµâ¾ç´Ä¨È¡¡§Å¯ iii) Ç¶ÈôÆñæÚâúÑçÕøÉ²ÌùÎûÇ¶Èô÷ìÆÀâ¶ÆîÅ¯Ì§Åìã¬Ù­¡¢ÅýÑÄÈþÄâÓîÍõá¤Õß¡£ùÃá¤Å¯Ý½â¶¡¤
 
-4. ½ßÀv³d¥ô»P´¼¼z°]²£«OÅ@
+4. ïªóÁÝÊÇ¶êØßáìäØÂÜ¨Ïñû¬
 
-a. µL½×½Ð¨D°òÂ¦¬°¦ó¡A´N¦]¥»¡u¦X¬ù¡v©Ò¥Í¤Î»P¥»¡u¦X¬ù¡v¬ÛÃö¤§¥þ³¡½Ð¨D¡AIBM ©Ò­t¤§¥þ³¡³d¥ô¡A¥H³Q±ÂÅv¤H©Ò¨ü¤§ª½±µ¹ê»Ú·l®`¬°­­¡A¥B½ßÀvª÷ÃB¥H¤U¦Cª÷ÃB¬°½ßÀv¤W­­¡]¥Hª÷ÃB¸û°ªªÌ¬°·Ç¡^¡Gi) 10,000.00 ¬ü¤¸¡]©Îµ¥­È¤§·í¦a¹ô­È¡^¡F©Î ii) ³Q±ÂÅv¤H´N³y¦¨·l®`¤§­Ó§O¡uµ{¦¡¡v±ÂÅv©Ò¤ä¥I¤§´Ú¶µ¡]¦p«Y©w´Á¥I´Ú¶O¥Î¡A¥H¤Q¤G­Ó¤ë¤§¶O¥Î¬°¨ä¤W­­¡^¡CIBM ¹ï©ó«È¤á¤§¸ê®Æ·l®`©Î·À¥¢¡B¯S®í·l®`¡Bªþ±a·l®`¡BÃg»@©Ê½ßÀv¡B¶¡±µ·l®`¡B­l¥Í¤§¸gÀÙ·l®`¡A©Î©Ò¥¢§Q¯q¡B°Ó·~¾÷·|¡B»ù­È´î·l¡BÀç¦¬¡B°ÓÅA©Î¹w´Á¸`¬Ù¤§¦¨¥»¤£­t½ßÀv³d¥ô¡C«e­z³d¥ô­­¨î¾A¥Î©ó IBM¡B¨äÃö«Y¥ø·~¡B©Ó¥]°Ó¤Î¨ÑÀ³°Ó¡C
+a. àÒï¢îùÊåÙ×öðÒ³Èô¡¢ÞóÇÞÆÛ¡ÖÇÙÒü¡×ÍÔÆíÅ¯êØÆÛ¡ÖÇÙÒü¡×ÒÞùÃÄæÇÀÝåîùÊå¡¢IBM ÍÔÓ×ÄæÇÀÝåÝÊÇ¶¡¢ÅèÝ·ÚæûâÄ©ÍÔÌ¿ÄæÎþÚÙèÒëãä´Õ¤Ò³Óî¡¢ÅâïªóÁÏÚ÷ìÅèÄ¶ÇÄÏÚ÷ìÒ³ïªóÁÄ¸Óî¡¾ÅèÏÚ÷ìç¤ØíÏ¯Ò³äí¡¿¡¨i) 10,000.00 Ó¡Ä÷¡¾ÍÐá«Ô«ÄæåµÇâèÜÔ«¡¿¡§ÍÐ ii) Ý·ÚæûâÄ©ÞóÝßÈ©ä´Õ¤ÄæÔ¶É±¡Öá£È¢¡×ÚæûâÍÔÅÅÅéÄæà¡âú¡¾ÇñÏûÌùßæÅéà¡â¶Æî¡¢ÅèÄ²Ä¨Ô¶ÅÌÄæâ¶ÆîÒ³Ì§Ä¸Óî¡¿¡¤IBM è×ÍõÐêÅÂÄææñÕèä´Õ¤ÍÐäæÆÂ¡£ÖÖÖ±ä´Õ¤¡£ÏáÚ§ä´Õ¤¡£ø´êÈÍÌïªóÁ¡£âæÚÙä´Õ¤¡£ÓÏÆíÄæåîô¤ä´Õ¤¡¢ÍÐÍÔÆÂÉ³Öô¡£Ù¸äÆñ¢äÄ¡£ì¤Ô«àµä´¡£ô²È­¡£Ù¸û­ÍÐçßßæåçÒÜÄæÈ©ÆÛÄâÓ×ïªóÁÝÊÇ¶¡¤Ð©ÓÝÝÊÇ¶ÓîÌ±ïËÆîÍõ IBM¡£Ì§ùÃÏûÇºäÆ¡£ÍÕÅýÙ¸Å¯ËòóÜÙ¸¡¤
 
-b. ¤U¦C½ßÀv¤£¨ü«e¶µª÷ÃB¤W­­¤§­­¨î¡G·Ç¾Úªk±j¦æ³W©w¤£±o¥H¦X¬ù­­¨î¤§½ßÀv¡C
+b. Ä¶ÇÄïªóÁÄâÌ¿Ð©âúÏÚ÷ìÄ¸ÓîÄæÓîÌ±¡¨äíðãÎÎÚ°ÈçÝ½ÌùÄâÚµÅèÇÙÒüÓîÌ±ÄæïªóÁ¡¤
 
-c. ¹ï©ó¦]¨Ì¾Ú¤U¦C¥ô¤@¨Æ¶µ©Ò¥Í¤Î¬ÛÃö¤§¥ô¦ó¨DÀv¬°½Ð¨D¡AIBM ¤£­t³d¥ô¡G«D IBM ²£«~¡B«D¥Ñ IBM ´£¨Ñ¤§¶µ¥Øª«¥ó¡B¦]¡u¤º®e¡v©Î³Q±ÂÅv¤H¤§µÛ§@ª«¡B³]­p¡B³W®æ¾É­P©Ò­P¤§¹Hªk©Î«I®`²Ä¤T¤HÅv§Q¤§±¡¨Æ¡C¡u¤º®e¡v¥]§t³Q±ÂÅv¤H©Î¨ä±ÂÅv¤§¨Ï¥ÎªÌ©Ò´£¨Ñ¡B±ÂÅv¦s¨ú©Î¿é¤J©ó¡uµ{¦¡¡v¤§©Ò¦³¸ê®Æ¡B³nÅé¤Î¸ê°T¡C
+c. è×ÍõÇÞËíðãÄ¶ÇÄÇ¶Ä¡ËçâúÍÔÆíÅ¯ÒÞùÃÄæÇ¶ÈôÊåóÁÒ³îùÊå¡¢IBM ÄâÓ×ÝÊÇ¶¡¨Ïæ IBM Ü¨ÐÂ¡£ÏæÆñ IBM ßÈËòÄæâúÆøÎìÇµ¡£ÇÞ¡ÖÄùÕ©¡×ÍÐÝ·ÚæûâÄ©ÄæááÉ¢Îì¡£ÝÃÓÓ¡£Ý½ÖªðÒÓ³ÍÔÓ³Äæç°ÎÎÍÐÏëÕ¤ÜÉÄµÄ©ûâÉ³ÄæÚÅËç¡¤¡ÖÄùÕ©¡×ÅýÉÖÝ·ÚæûâÄ©ÍÐÌ§ÚæûâÄæËðÆîÏ¯ÍÔßÈËò¡£ÚæûâÇôÌ½ÍÐòÓÄ«Íõ¡Öá£È¢¡×ÄæÍÔÈ´æñÕè¡£ÝÔüÕÅ¯æñØ¹¡¤
 
-5. ²×¤î
+5. ÜÜÅÏ
 
-a. ³Q±ÂÅv¤H¥¼¯à¿í´` ILAN¡B¡u¥æ©ö¤å¥ó¡v©Î±ÄÁÊ¦X¬ù¡]¨Ò¦p¡G¡uInternational Passport Advantage ¦X¬ù (IPAA)¡v¡^ªÌ¡AIBM ±o²×¤î³Q±ÂÅv¤H¤§¡uµ{¦¡¡v¨Ï¥Î±ÂÅv¡C³Q±ÂÅv¤H©ó±ÂÅv²×¤î«á¡AÀ³§Y¾P·´¡uµ{¦¡¡v¤§¤@¤Á½Æ¥»¡C¥»¦X¬ù¤§¥ô¦ó±ø´Ú¡A¨Ì¨ä©Ê½èÀ³©ó²×¤î«á¦sÄòªÌ¡A¤´Ä~Äò¦³®Ä¡A¨Ã¾A¥Î©óÄ~¨ü¤H¤Î¨üÅý¤H¡C
+a. Ý·ÚæûâÄ©ÆÜ×äò×ß§ ILAN¡£¡ÖÇ¨ÍøÅÆÇµ¡×ÍÐÚèõÕÇÙÒü¡¾ËóÇñ¡¨¡ÖInternational Passport Advantage ÇÙÒü (IPAA)¡×¡¿Ï¯¡¢IBM ÚµÜÜÅÏÝ·ÚæûâÄ©Äæ¡Öá£È¢¡×ËðÆîÚæûâ¡¤Ý·ÚæûâÄ©ÍõÚæûâÜÜÅÏÑ¥¡¢óÜÉ»ïÚäÚ¡Öá£È¢¡×ÄæÄ¡Å¢îïÆÛ¡¤ÆÛÇÙÒüÄæÇ¶ÈôÛ¾à¡¡¢ËíÌ§ÍÌï³óÜÍõÜÜÅÏÑ¥ÇôúýÏ¯¡¢Äóú«úýÈ´Õæ¡¢ËäïËÆîÍõú«Ì¿Ä©Å¯Ì¿üéÄ©¡¤
 
-6. ·Ç¾Úªk¤Î¾A¥Î¦a°Ï
+6. äíðãÎÎÅ¯ïËÆîÇâÙ´
 
-a. ¤£°Ýªk«ß½Ä¬ð­ì«h¡AÂù¤è·í¨Æ¤H¦P·N¾A¥Î°õ¦æ±ÂÅv¥æ©ö©Ò¦b°ê®a©Î¦a°Ï¤§ªk«ß¬°¥»¡u¦X¬ù¡v¤§·Ç¾Úªk¡C±ÂÅv½d³ò¶È©ó¯S¬ù¤§½d³ò¤º¦³®Ä¡C¦¹¥~¡A¥ô¤@¤è¤§Åv§Q»P¸q°È¶È©ó°õ¦æ±ÂÅv¨ú±o¥æ©ö©Ò¦b°ê®a©Î¦a°Ï¤º¦³®Ä¡F©ÎªÌ¡A­Y IBM ¦P·N®É¡A¥ç©ó¡uµ{¦¡¡v¥Î©ó¥¿¦¡§@·~¤§°ê®a©Î¦a°Ï¤º¦³®Ä¡C
+a. ÄâÙÂÎÎÑ£îíÒóÔÏÐ¬¡¢÷äÅÉåµËçÄ©ÇÑãôïËÆîÙÚÈçÚæûâÇ¨ÍøÍÔÇãÙÏÕ¥ÍÐÇâÙ´ÄæÎÎÑ£Ò³ÆÛ¡ÖÇÙÒü¡×ÄæäíðãÎÎ¡¤Úæûâî¯ÞØã¯ÍõÖÖÒüÄæî¯ÞØÄùÈ´Õæ¡¤ÈºÆÀ¡¢Ç¶Ä¡ÅÉÄæûâÉ³êØåøÙ­ã¯ÍõÙÚÈçÚæûâÌ½ÚµÇ¨ÍøÍÔÇãÙÏÕ¥ÍÐÇâÙ´ÄùÈ´Õæ¡§ÍÐÏ¯¡¢Ó¼ IBM ÇÑãôÕë¡¢Ç©Íõ¡Öá£È¢¡×ÆîÍõÆßÈ¢É¢äÆÄæÙÏÕ¥ÍÐÇâÙ´ÄùÈ´Õæ¡¤
 
-b. ¦U¤è·í¨Æ¤HÀ³¦U¦Û­t³d¿í´`¤U¦C³W©w¡G(i) ¾A¥Î©ó¨ä·~°È»P¡u¤º®e¡v¤§ªk¥O³W³¹¡F¥H¤Î (ii) ´N­Y¤z°ê®a©Î¦a°Ï¡B¨Ï¥Î¦æ¬°©Î¨Ï¥ÎªÌ©Ò³]¸T¤î©Î­­¨îª½±µ©Î¶¡±µ¶i¤f¡B¥X¤f¡B¦A¥X¤f©Î¶Ç¿é²£«~¡B§Þ³N¡BªA°È©Î¸ê®Æ¤§¶i¥X¤f¤Î¸gÀÙ¨îµôªk¥O³W³¹¡A¥]¬A¬ü°ê¤Î¾A¥ÎºÞÁÒ°Ï¤§°ê¨¾¶T©öºÞ¨î¨ó©w¡C
+b. ÇÖÅÉåµËçÄ©óÜÇÖÈÜÓ×ÝÊò×ß§Ä¶ÇÄÝ½Ìù¡¨(i) ïËÆîÍõÌ§äÆÙ­êØ¡ÖÄùÕ©¡×ÄæÎÎÅïÝ½Ýý¡§ÅèÅ¯ (ii) ÞóÓ¼ÄÛÙÏÕ¥ÍÐÇâÙ´¡£ËðÆîÈçÒ³ÍÐËðÆîÏ¯ÍÔÝÃåÛÅÏÍÐÓîÌ±ÎþÚÙÍÐâæÚÙâÐÄÇ¡£ÅøÄÇ¡£ÇÂÅøÄÇÍÐã®òÓÜ¨ÐÂ¡£ÊÀÝ´¡£Î¤Ù­ÍÐæñÕèÄæâÐÅøÄÇÅ¯åîô¤Ì±áúÎÎÅïÝ½Ýý¡¢ÅýÑÄÓ¡ÙÏÅ¯ïËÆîê§õÝÙ´ÄæÙÏËßâ»Íøê§Ì±Ì¶Ìù¡¤
 
-c. ¦p¡uµ{¦¡¡v¤§¥»¡u¦X¬ù¡v¤¤¦³¥ô¦ó±ø´Ú³Q»{©w¬°¤£¥Í®Ä¤O©ÎµLªk±j¨î°õ¦æªÌ¡A¡u¦X¬ù¡v¨ä¾l±ø´Ú¤´¨ã§¹¾ã®Ä¤O¡C¥»¡u¦X¬ù¡v¹ï©ó¤£±o¥H¦X¬ù§K°£©Î­­¨î¤§®ø¶OªÌªk©wÅv¯q¤£¥Í¼vÅT¡C¨Ì¥»¡u¦X¬ù¡v©Ò¬°¤§¥æ©ö¤£¾A¥Î¡uÁp¦X°ê°ê»Ú°Ó«~¶R½æ«´¬ù¤½¬ù¡v(United Nations Convention on Contracts for the International Sales of Goods) ¤§³W©w¡C
+c. Çñ¡Öá£È¢¡×ÄæÆÛ¡ÖÇÙÒü¡×ÄãÈ´Ç¶ÈôÛ¾à¡Ý·ë¥ÌùÒ³ÄâÆíÕæÄ°ÍÐàÒÎÎÚ°Ì±ÙÚÈçÏ¯¡¢¡ÖÇÙÒü¡×Ì§ïõÛ¾à¡ÄóÌ¦ÉùðìÕæÄ°¡¤ÆÛ¡ÖÇÙÒü¡×è×ÍõÄâÚµÅèÇÙÒüÉ­ØæÍÐÓîÌ±ÄæÖ¼â¶Ï¯ÎÎÌùûâÖôÄâÆíìàûÀ¡¤ËíÆÛ¡ÖÇÙÒü¡×ÍÔÒ³ÄæÇ¨ÍøÄâïËÆî¡ÖôúÇÙÙÏÙÏëãÙ¸ÐÂâ¹ï±ÐÖÒüÄüÒü¡×(United Nations Convention on Contracts for the International Sales of Goods) ÄæÝ½Ìù¡¤
 
-7. ¤@¯ë±ø´Ú
+7. Ä¡×ïÛ¾à¡
 
-a. IBM ¬°¿W¥ß©Ó¥]°Ó¡A»P³Q±ÂÅv¤H¶¡¥¼¦¨¥ß¥N²z¡B¦X¸ê¡B¦X¹Ù©Î«H°Uµ¥Ãö«Y¡A¤£©Ó¾á³Q±ÂÅv¤H¼i¦æ¥ô¦óªk©w¸q°È¤§³d¥ô¡A¥ç¤£´N³Q±ÂÅv¤H¤§·~°È©ÎÀç¹B©Ó¾á¥ô¦ó³d¥ô¡C³Q±ÂÅv¤H¤§¡uIBM µ{¦¡¡v¤Î¡u«D IBM µ{¦¡¡v¨Ï¥Î¦æ¬°¡A¥Ñ³Q±ÂÅv¤H¦Û¦æ­t³d¡CIBM ¶È§@¬°¸ê°T§Þ³N´£¨ÑªÌ¡CIBM ©Ò¬°¡uµ{¦¡¡v¤§«ü¥Ü¡B«ØÄ³¥Îªk¡B«ü¤Þ©Î¨Ï¥Î¡A¤£ºc¦¨ÂåÀø¡BÁ{§É¡Bªk«ß¡B·|­p©Î¨ä¥L¬ÛÃö±M·~°õ·~¤H­û¤§«ØÄ³¡C³Q±ÂÅv¤HÀ³Å¥¨ú¨ä±M®a¤§«ØÄ³¡C
+a. IBM Ò³ñÁÇ¡ÍÕÅýÙ¸¡¢êØÝ·ÚæûâÄ©âæÆÜÈ©Ç¡ÅîÜ¡¡£ÇÙæñ¡£ÇÙèÁÍÐÏêØºá«ùÃÏû¡¢ÄâÍÕðêÝ·ÚæûâÄ©ìÓÈçÇ¶ÈôÎÎÌùåøÙ­ÄæÝÊÇ¶¡¢Ç©ÄâÞóÝ·ÚæûâÄ©ÄæäÆÙ­ÍÐô²çªÍÕðêÇ¶ÈôÝÊÇ¶¡¤Ý·ÚæûâÄ©Äæ¡ÖIBM á£È¢¡×Å¯¡ÖÏæ IBM á£È¢¡×ËðÆîÈçÒ³¡¢ÆñÝ·ÚæûâÄ©ÈÜÈçÓ×ÝÊ¡¤IBM ã¯É¢Ò³æñØ¹ÊÀÝ´ßÈËòÏ¯¡¤IBM ÍÔÒ³¡Öá£È¢¡×ÄæÑÀÆü¡£Ðúú¾ÆîÎÎ¡£ÑÀÅ¿ÍÐËðÆî¡¢Äâé¬È©÷ÐôÃ¡£õ§Ê«¡£ÎÎÑ£¡£äÄÓÓÍÐÌ§ÅìÒÞùÃÙñäÆÙÚäÆÄ©ÔÞÄæÐúú¾¡¤Ý·ÚæûâÄ©óÜûïÌ½Ì§ÙñÕ¥ÄæÐúú¾¡¤
 
-b. ­Y¬° IBM ¥H¦³§Î¤§¤è¦¡´£¨Ñ¤©³Q±ÂÅv¤H¤§µ{¦¡¡AIBM ©ó¥æ¥I¸Óµ¥µ{¦¡¤© IBM «ü©w¤§¹B¿é¤½¥q¡A§Y§¹¦¨¨ä¥X³f¤Î¥æ¥I¤§¸q°È¡A¦ý³Q±ÂÅv¤H»P IBM ¥H®Ñ­±©Ò¬°¤§¦X·NªÌ¤£¦b¦¹­­¡C
+b. Ó¼Ò³ IBM ÅèÈ´Ê°ÄæÅÉÈ¢ßÈËòÄèÝ·ÚæûâÄ©Äæá£È¢¡¢IBM ÍõÇ¨ÅéæÚá«á£È¢Äè IBM ÑÀÌùÄæçªòÓÄüÆ³¡¢É»ÉùÈ©Ì§ÅøÝÌÅ¯Ç¨ÅéÄæåøÙ­¡¢ÈþÝ·ÚæûâÄ©êØ IBM ÅèÕóÓòÍÔÒ³ÄæÇÙãôÏ¯ÄâÇãÈºÓî¡¤
 
-c. ­Y¡uµ{¦¡¡v¥¢®Ä¥i¯à¾É­P¦º¤`¡BÄY­«¤H¨­¶Ë®`¡A©Î°]²£©ÎÀô¹Ò·l®`ªÌ¡A³Q±ÂÅv¤H¤£±o¨Ï¥Î¡u¥»µ{¦¡¡v¡C
+c. Ó¼¡Öá£È¢¡×ÆÂÕæÆ«×äðÒÓ³È»ÄÁ¡£ùäÓìÄ©ËÎã²Õ¤¡¢ÍÐØÂÜ¨ÍÐô¿èºä´Õ¤Ï¯¡¢Ý·ÚæûâÄ©ÄâÚµËðÆî¡ÖÆÛá£È¢¡×¡¤
 
-d. IBM¡B¨äÃö«Y¥ø·~¡A¥H¤Î¨äµ¥¤§©Ó¥]°Ó¡A»Ý­n¨Ï¥Î·~°ÈÁpµ¸¸ê°T»P­Y¤z¥Î¤á¨Ï¥Î¸ê°T¡C«e´¦¸ê°T«DÄÝ¡u¤º®e¡v¡C·~°ÈÁpµ¸¸ê°T«Y¥Î©óÁpµ¸¤ÎºÞ²z»P³Q±ÂÅv¤H¶¡·~°È©¹¨Ó¡C·~°ÈÁpµ¸¸ê°T½d¨Ò¥]¬A©m¦W¡B°Ó°È¹q¸Ü¡B¦a§}¡B¹q¤l¶l¥ó¨Ï¥ÎªÌ ID ¤Îµ|Äyµ¥¸ê°T¡C¥Î¤á¨Ï¥Î¸ê°T¬°±Ò¥Î¡B´£¨Ñ¡BºÞ²z¡B¤ä´©¡B¹ê¬I¤Î§ïµ½¡uµ{¦¡¡v©Ò»Ý¤§¸ê°T¡C¥Î¤á¨Ï¥Î¸ê°T½d¨Ò¥]¬A§Q¥Î°lÂÜ§Þ³N¡]¨Ò¦p¡G¨Ï¥Î¡uµ{¦¡¡v´Á¶¡¤§ Cookie »Pºô¸ô«H¼Ð (web beacons)¡^»`¶°¤§¤w³q³ø¿ù»~»P¼Æ¦ì¸ê°T¡CIBM ¹ï·~°ÈÁpµ¸»P¥Î¤á¨Ï¥Î¸ê°T©Ò¬°¤§»`¶°¡B¨Ï¥Î¤Î³B²z¡A¨ä¬ÛÃö¸Ô²Ó¸ê®Æ¡A¸Ô°Ñ IBM Áô¨pÅvÁn©ú¡]ºô§}¡Ghttp://www.ibm.com/privacy/¡^¡C³Q±ÂÅv¤H´£¨Ñ¸ê°T¤© IBM ®É¡A¦p»Ý³qª¾­Ó¤H©Î¨ú±o¨ä¦P·NªÌ¡A³Q±ÂÅv¤HÀ³¬°³qª¾¨Ã¨ú±o¦P·N¡C
+d. IBM¡£Ì§ùÃÏûÇºäÆ¡¢ÅèÅ¯Ì§á«ÄæÍÕÅýÙ¸¡¢ëæÓÑËðÆîäÆÙ­ôúá¾æñØ¹êØÓ¼ÄÛÆîÅÂËðÆîæñØ¹¡¤Ð©ßËæñØ¹Ïæúè¡ÖÄùÕ©¡×¡¤äÆÙ­ôúá¾æñØ¹ÏûÆîÍõôúá¾Å¯ê§Ü¡êØÝ·ÚæûâÄ©âæäÆÙ­Í»Ëô¡¤äÆÙ­ôúá¾æñØ¹î¯ËóÅýÑÄÌïÇØ¡£Ù¸Ù­çÙæã¡£ÇâÉß¡£çÙÄÍâÓÇµËðÆîÏ¯ ID Å¯á¤ú¦á«æñØ¹¡¤ÆîÅÂËðÆîæñØ¹Ò³ÚöÆî¡£ßÈËò¡£ê§Ü¡¡£ÅÅßÎ¡£èÒÑÌÅ¯ÊÑáÃ¡Öá£È¢¡×ÍÔëæÄææñØ¹¡¤ÆîÅÂËðÆîæñØ¹î¯ËóÅýÑÄÉ³ÆîØÑ÷ÇÊÀÝ´¡¾ËóÇñ¡¨ËðÆî¡Öá£È¢¡×ßæâæÄæ Cookie êØê½æûÏêíº (web beacons)¡¿êèâõÄæÄØÝ×ÞÞòãë¨êØí°ÈíæñØ¹¡¤IBM è×äÆÙ­ôúá¾êØÆîÅÂËðÆîæñØ¹ÍÔÒ³Äæêèâõ¡£ËðÆîÅ¯Ý¨Ü¡¡¢Ì§ÒÞùÃæÛÜØæñÕè¡¢æÛÙ¶ IBM ö¡Ë³ûâôøÍü¡¾ê½Éß¡¨http://www.ibm.com/privacy/¡¿¡¤Ý·ÚæûâÄ©ßÈËòæñØ¹Äè IBM Õë¡¢ÇñëæÝ×Ï¡Ô¶Ä©ÍÐÌ½ÚµÌ§ÇÑãôÏ¯¡¢Ý·ÚæûâÄ©óÜÒ³Ý×Ï¡ËäÌ½ÚµÇÑãô¡¤
 
-e. ¨Ï¥Î©Î´£¨Ñ¡uµ{¦¡¡v¤§¡uIBM ¨Æ·~¹Ù¦ñ¡v»P IBM «Y¦U¦Û¿W¥ß¡A¦Û¦æ­q©w¨ä»ù®æ¤Î±ø´Ú¡A¨Ã¤£¨ü IBM ©ë§ô¡C´N¡uIBM ¨Æ·~¹Ù¦ñ¡v¤§¦æ¬°¡B²¨¥¢¡B³¯­z¡BÁn©ú©Î¨ä¨ÑÀ³¶µ¥Ø¡AIBM¤£­t³d¥ô¡C
+e. ËðÆîÍÐßÈËò¡Öá£È¢¡×Äæ¡ÖIBM ËçäÆèÁÈò¡×êØ IBM ÏûÇÖÈÜñÁÇ¡¡¢ÈÜÈçÓÔÌùÌ§ì¤ÖªÅ¯Û¾à¡¡¢ËäÄâÌ¿ IBM ÍíÊÖ¡¤Þó¡ÖIBM ËçäÆèÁÈò¡×ÄæÈçÒ³¡£Ü­ÆÂ¡£ÝóÓÝ¡£ôøÍüÍÐÌ§ËòóÜâúÆø¡¢IBMÄâÓ×ÝÊÇ¶¡¤
 
-f. IBM ¥i¯à´£¨Ñ¡u«D IBM µ{¦¡¡v¡A©Î¡uIBM µ{¦¡¡v¥i¯à±Ò¥Î¹ï¡u«D IBM µ{¦¡¡v¤§¦s¨ú¡A¦¹¶µ¦s¨ú¥i¯à¥²¶·¦P·N¸ü©ú©ó¡u¥æ©ö¤å¥ó¡v©Î¹ï³Q±ÂÅv¤H´¦¥Ü¤§²Ä¤T¤H±ø´Ú¡CÃìµ²©Î¨Ï¥Î¡u«D IBM µ{¦¡¡v¡Aµø¦P³Q±ÂÅv¤H¦P·N«e´¦±ø´Ú¡CIBM «D«e´¦²Ä¤T¤H¦X¬ù¤§·í¨Æ¤H¡A¹ï©ó¡u«D IBM µ{¦¡¡v¤£­t¥ô¦ó³d¥ô¡C
+f. IBM Æ«×äßÈËò¡ÖÏæ IBM á£È¢¡×¡¢ÍÐ¡ÖIBM á£È¢¡×Æ«×äÚöÆîè×¡ÖÏæ IBM á£È¢¡×ÄæÇôÌ½¡¢ÈºâúÇôÌ½Æ«×äÆÒâüÇÑãôç¥ÍüÍõ¡ÖÇ¨ÍøÅÆÇµ¡×ÍÐè×Ý·ÚæûâÄ©ßËÆüÄæÜÉÄµÄ©Û¾à¡¡¤ù¹á¸ÍÐËðÆî¡ÖÏæ IBM á£È¢¡×¡¢áþÇÑÝ·ÚæûâÄ©ÇÑãôÐ©ßËÛ¾à¡¡¤IBM ÏæÐ©ßËÜÉÄµÄ©ÇÙÒüÄæåµËçÄ©¡¢è×Íõ¡ÖÏæ IBM á£È¢¡×ÄâÓ×Ç¶ÈôÝÊÇ¶¡¤
 
-g. ¡uµ{¦¡¡v¤§±ÂÅv¡A«Y¥Ñ International Business Machines Corporation¡]¯Ã¬ù¤½¥q - "IBM Corporation"¡^´£¨Ñ¡C³Q±ÂÅv¤H©Ò¨ú±o±ÂÅv¤§ IBM ¤½¥q ("IBM") «Y§@¬°¸g¾P·~ªÌ¦Ó¥æ¥I¡uµ{¦¡¡v¡A¨Ã­t³d¼i¦æ¥»¡u¦X¬ù¡v¤§±ø´Ú¡C±ÂÅv¦p«Y±q¡uIBM ¨Æ·~¹Ù¦ñ¡v¨ú±oªÌ¡A¨ú±o±ÂÅv¤§¸Ó°ê IBM ¤½¥qÀ³­t³d¼i¦æ¥»¡u¦X¬ù¡v¤§±ø´Ú¡C¡u¥»±ÂÅv¡v¤£³Ð³]¥i¥Ñ³Q±ÂÅv¤H¹ï IBM Corporation ½Ð¨D¤§Åv§Q©Î¶D¦]¡C³Q±ÂÅv¤H©ß±ó¥ô¦ó¹ï IBM Corporation ¤§½Ð¨D¤Î¶D¦]¡A¨Ã¦P·N¶È¹ï IBM ¥D±i¦³Ãö¡uµ{¦¡¡v¤§Åv§Q¤Î½Ð¨D¡C
+g. ¡Öá£È¢¡×ÄæÚæûâ¡¢ÏûÆñ International Business Machines Corporation¡¾×ÆÒüÄüÆ³ - "IBM Corporation"¡¿ßÈËò¡¤Ý·ÚæûâÄ©ÍÔÌ½ÚµÚæûâÄæ IBM ÄüÆ³ ("IBM") ÏûÉ¢Ò³åîïÚäÆÏ¯ÈÔÇ¨Åé¡Öá£È¢¡×¡¢ËäÓ×ÝÊìÓÈçÆÛ¡ÖÇÙÒü¡×ÄæÛ¾à¡¡¤ÚæûâÇñÏûÚ·¡ÖIBM ËçäÆèÁÈò¡×Ì½ÚµÏ¯¡¢Ì½ÚµÚæûâÄææÚÙÏ IBM ÄüÆ³óÜÓ×ÝÊìÓÈçÆÛ¡ÖÇÙÒü¡×ÄæÛ¾à¡¡¤¡ÖÆÛÚæûâ¡×ÄâÞ¶ÝÃÆ«ÆñÝ·ÚæûâÄ©è× IBM Corporation îùÊåÄæûâÉ³ÍÐâ«ÇÞ¡¤Ý·ÚæûâÄ©ÍáÛ¹Ç¶Èôè× IBM Corporation ÄæîùÊåÅ¯â«ÇÞ¡¢ËäÇÑãôã¯è× IBM ÅäÚ¯È´ùÃ¡Öá£È¢¡×ÄæûâÉ³Å¯îùÊå¡¤
 
-h. ³Q±ÂÅv¤H¤£±o¹ï¡uµ{¦¡¡v¤§±ÂÅv¬°¦A±ÂÅv¡BÅý»P©ÎÂàÅý¡]¦ý¨Ìªk¤£±o­­¨î¤§Åý»P©ÎÂàÅý¡A©Î¡u¥æ©ö¤å¥ó¡v©ú¤å³\¥i¡A©Î IBM ¥H¨ä¥L¤è¦¡¦P·NªÌ¡A¤£¦b¦¹­­¡^¡C¥»¡u¦X¬ù¡v¶µ¤U IBM ¤§Åv§Q¸q°È¡A¦p«Y»P IBM ¥X°â³¡¤À·~°È¡]¥]¬A¡uµ{¦¡¡v¡^¦³ÃöªÌ¡AIBM ±oÅý»P¤§¡CIBM ¬°¤W­zÂàÅý®É¡A±o¤@¨Ö¤À¨É¥»¦X¬ù¤Î¬ÛÃö¤å¥ó¤©¨üÅý¤H¡C
+h. Ý·ÚæûâÄ©ÄâÚµè×¡Öá£È¢¡×ÄæÚæûâÒ³ÇÂÚæûâ¡£üéêØÍÐ÷Ëüé¡¾ÈþËíÎÎÄâÚµÓîÌ±ÄæüéêØÍÐ÷Ëüé¡¢ÍÐ¡ÖÇ¨ÍøÅÆÇµ¡×ÍüÅÆÝÂÆ«¡¢ÍÐ IBM ÅèÌ§ÅìÅÉÈ¢ÇÑãôÏ¯¡¢ÄâÇãÈºÓî¡¿¡¤ÆÛ¡ÖÇÙÒü¡×âúÄ¶ IBM ÄæûâÉ³åøÙ­¡¢ÇñÏûêØ IBM ÅøÙÇÝåÅ¡äÆÙ­¡¾ÅýÑÄ¡Öá£È¢¡×¡¿È´ùÃÏ¯¡¢IBM ÚµüéêØÄæ¡¤IBM Ò³Ä¸ÓÝ÷ËüéÕë¡¢ÚµÄ¡Ë÷Å¡ËêÆÛÇÙÒüÅ¯ÒÞùÃÅÆÇµÄèÌ¿üéÄ©¡¤
 
-i. ¥»¡u¦X¬ù¡v¬ÛÃö³qª¾¡A§¡¶·¥H®Ñ­±¬°¤§¡A¥B¶·±H°e¦Ü³Q±ÂÅv¤H¾Ú¥H¨ú±o±ÂÅv¤§¦X¬ù©Ò¸ü¤½¥q¦a§}¡A¦ý¤@¤è·í¨Æ¤H©óÃ±¬ù«á¥H®Ñ­±«ü©w¤£¦P¦a§}ªÌ°£¥~¡CÂù¤è¦P·N±o¨Ï¥Î¹q¤l¤è¦¡¤Î¶Ç¯u¶Ç¿é¶i¦æ³q°T¡C¥ô¦ó¥H¥i¾a¤è¦¡»s§@¤§¥»¡u¦X¬ù¡v½Æ¥»§¡µø¬°¥¿¥»¡C¡u¦X¬ù¡v¨ú¥NÂù¤è¥ý«e´N¡u¥»¦X¬ù¡v¨Æ¶µ©Ò¬°¤§¤@¤Á¤fÀY©Î®Ñ­±¤§ªí¥Ü¡B°Q½×¤Î¨óÄ³¡C
+i. ÆÛ¡ÖÇÙÒü¡×ÒÞùÃÝ×Ï¡¡¢ÉáâüÅèÕóÓòÒ³Äæ¡¢ÅââüÙìØÊÈÝÝ·ÚæûâÄ©ðãÅèÌ½ÚµÚæûâÄæÇÙÒüÍÔç¥ÄüÆ³ÇâÉß¡¢ÈþÄ¡ÅÉåµËçÄ©ÍõøÜÒüÑ¥ÅèÕóÓòÑÀÌùÄâÇÑÇâÉßÏ¯ØæÆÀ¡¤÷äÅÉÇÑãôÚµËðÆîçÙÄÍÅÉÈ¢Å¯ã®Öøã®òÓâÐÈçÝ×Ø¹¡¤Ç¶ÈôÅèÆ«ïêÅÉÈ¢êûÉ¢ÄæÆÛ¡ÖÇÙÒü¡×îïÆÛÉááþÒ³ÆßÆÛ¡¤¡ÖÇÙÒü¡×Ì½Åî÷äÅÉÇ¿Ð©Þó¡ÖÆÛÇÙÒü¡×ËçâúÍÔÒ³ÄæÄ¡Å¢ÄÇó¤ÍÐÕóÓòÄæÏÐÆü¡£Ø¶ï¢Å¯Ì¶ú¾¡¤
 
-j. ¥»¡u¦X¬ù¡v¤£¬°¥ô¦ó²Ä¤T¤H³Ð³]Åv§Q©Î¶D¦]¡C¥ô¤@¤è·í¨Æ¤H¦Û¶D³^¨Æ¥Ñµo¥Í¹O¨â¦~«á¡A§¡¤£±o´£°_¥»¦X¬ù©Òµo¥Í©Î¬ÛÃö¨Æ¥Ñ¤§ªk«ß¶D³^¡C¥ô¤@¤è§¡¤£´N¦]«D¨ä©Ò¯à±±¨î¤§¨Æ¥Ñ©Ò­P¤£¯à¼i¦æ¸q°È­t³d¡A±©ª÷¿úµ¹¥I¬ÛÃö¸q°È«h¤£¦b¦¹­­¡C¥ô¤@¤è¥D±i¥L¤è¥¼¼i¦æ¨ä¸q°È«e¡A§¡À³µ¹¤©¥L¤è¦X²z¸É¥¿¤§¾÷·|¡C
+j. ÆÛ¡ÖÇÙÒü¡×ÄâÒ³Ç¶ÈôÜÉÄµÄ©Þ¶ÝÃûâÉ³ÍÐâ«ÇÞ¡¤Ç¶Ä¡ÅÉåµËçÄ©ÈÜâ«ÝÄËçÆñàõÆíç·Ì¥È¡Ñ¥¡¢ÉáÄâÚµßÈØÄÆÛÇÙÒüÍÔàõÆíÍÐÒÞùÃËçÆñÄæÎÎÑ£â«ÝÄ¡¤Ç¶Ä¡ÅÉÉáÄâÞóÇÞÏæÌ§ÍÔ×äÚÕÌ±ÄæËçÆñÍÔÓ³Äâ×äìÓÈçåøÙ­Ó×ÝÊ¡¢ÚÍÏÚòäá¿ÅéÒÞùÃåøÙ­Ð¬ÄâÇãÈºÓî¡¤Ç¶Ä¡ÅÉÅäÚ¯ÅìÅÉÆÜìÓÈçÌ§åøÙ­Ð©¡¢ÉáóÜá¿ÄèÅìÅÉÇÙÜ¡æÐÆßÄæñ¢äÄ¡¤
 
-k. IBM ¬°¤ä´©¡uµ{¦¡¡v»P¡uµ{¦¡¡v¤ä´©¤§¥æ¥I¡A±o¨Ï¥Î¥þ²y¦U¦a¤§¤H­û¤Î¸ê·½¡A¥]¬A²Ä¤T¤H©Ó¥]°Ó¡C³Q±ÂÅv¤H¬°´£¨Ñ¡uIBM ³nÅé¤ä´©¤â¥U¡v©Ò­z¡uµ{¦¡¡v¤ä´©¦Ó¨Ï¥Î¡uµ{¦¡¡v¡A¦³¥i¯à¶i¦æ¸ó¹Ò¡u¤º®e¡v¤§¶Ç¿é¡A¥]¬A¥i¿ëÃÑ­Ó¤H¨­¤À¤§¸ê°T¡C
+k. IBM Ò³ÅÅßÎ¡Öá£È¢¡×êØ¡Öá£È¢¡×ÅÅßÎÄæÇ¨Åé¡¢ÚµËðÆîÇÀÛþÇÖÇâÄæÄ©ÔÞÅ¯æñäã¡¢ÅýÑÄÜÉÄµÄ©ÍÕÅýÙ¸¡¤Ý·ÚæûâÄ©Ò³ßÈËò¡ÖIBM ÝÔüÕÅÅßÎÅÃÅõ¡×ÍÔÓÝ¡Öá£È¢¡×ÅÅßÎÈÔËðÆî¡Öá£È¢¡×¡¢È´Æ«×äâÐÈçæúèº¡ÖÄùÕ©¡×Äæã®òÓ¡¢ÅýÑÄÆ«òÕøüÔ¶Ä©ËÎÅ¡ÄææñØ¹¡¤
 
-²Ä¤G³¡¤À - ¦U°ê±M¦³±ø´Ú
+ÜÉÄ¨ÝåÅ¡ - ÇÖÙÏÙñÈ´Û¾à¡
 
-©ó¤U¦C¦U°ê©Ò¨ú±o¤§±ÂÅv¡A¤U¦C±ø´Ú±N¨ú¥N©Î­×§ï¥» ILAN ¤§¬ÛÃö±ø´Ú¡C±ø´Ú¥¼¸g¤U¦C¤§­×­qÅÜ§óªÌ¡A¤£¤©ÅÜ§ó¡A¥B®Ä¤Oºû«ù¤£ÅÜ¡C
+ÍõÄ¶ÇÄÇÖÙÏÍÔÌ½ÚµÄæÚæûâ¡¢Ä¶ÇÄÛ¾à¡ÙòÌ½ÅîÍÐÔºÊÑÆÛ ILAN ÄæÒÞùÃÛ¾à¡¡¤Û¾à¡ÆÜåîÄ¶ÇÄÄæÔºÓÔüÈÊÕÏ¯¡¢ÄâÄèüÈÊÕ¡¢ÅâÕæÄ°êÄÑ½ÄâüÈ¡¤
 
-1. ¬ü¬w
+1. Ó¡Ñú
 
-²Ä 3 ¸`¡u¦¬¶O¡Bµ|®½¡B¥I´Ú¤Î´`³WÅçÃÒ¡v
+ÜÉ 3 åç¡ÖÈ­â¶¡£á¤Õß¡£Åéà¡Å¯ß§Ý½üÓøý¡×
 
-¥H¤U¦C¤å¥y¨ú¥N²Ä b ¬q²Ä¤@¥y»P²Ä¤G¥y¡G
+ÅèÄ¶ÇÄÅÆÆ»Ì½ÅîÜÉ b ÑôÜÉÄ¡Æ»êØÜÉÄ¨Æ»¡¨
 
-¦b¤Ú¦è¡G³Q±ÂÅv¤H¦P·N¤ä¥I¨ú±o±ÂÅv©Ò»Ý¤§¾A¥Î¶O¥Î¡B¹O¶V±ÂÅv¤§¶WÃB¨Ï¥Î¶O¡A¥H¤Î¦]³Q±ÂÅv¤H¨ú±o±ÂÅv¦Ó½Ò¼x¤§¥ô¦óÃöµ|©Î¨ä¥Lµ|ª÷¡Bµ|®½©M¥ô¦ó¾÷Ãö¼x¦¬¤§Ãþ¦üµ|¶O¡C
+ÇãÅ»Èé¡¨Ý·ÚæûâÄ©ÇÑãôÅÅÅéÌ½ÚµÚæûâÍÔëæÄæïËÆîâ¶Æî¡£ç·â½ÚæûâÄæâ¾÷ìËðÆîâ¶¡¢ÅèÅ¯ÇÞÝ·ÚæûâÄ©Ì½ÚµÚæûâÈÔîûìâÄæÇ¶ÈôùÃá¤ÍÐÌ§Åìá¤ÏÚ¡£á¤ÕßÌÏÇ¶Èôñ¢ùÃìâÈ­ÄæùËÈýá¤â¶¡¤
 
-¦b²Ä b ¬q¤¤¡G
+ÇãÜÉ b ÑôÄã¡¨
 
-¦b¾¥¦è­ô¡G§R°£²Ä¤T¥y¤§¤U¦C¤å¥y¡G¡u¦Ü IBM «ü©w±b¤á¡v¡C
+Çãð®ÈéÔ×¡¨É´ØæÜÉÄµÆ»ÄæÄ¶ÇÄÅÆÆ»¡¨¡ÖÈÝ IBM ÑÀÌùÚ¨ÅÂ¡×¡¤
 
-¦b¾¥¦è­ô¡G¦b²Ä¤T¥y«á­±·s¼W¤U¥y¡G
+Çãð®ÈéÔ×¡¨ÇãÜÉÄµÆ»Ñ¥Óòä»ìÁÄ¶Æ»¡¨
 
-À³¥H¹q¤l¸êª÷Âà±b¤è¦¡¥I´Ú¦Ü IBM «ü©w±b¤á¡A©Î©ó IBM ©Ò¦b³B©Ò¥I´Ú¡]¸Ó³B©Ò¦a§}¡GAlfonso Napoles Gandara 3111, Santa Fe Pe?a Blanca, Alvaro Obregon, Mexico City, Zip Code 01210¡^¡C
+óÜÅèçÙÄÍæñÏÚ÷ËÚ¨ÅÉÈ¢Åéà¡ÈÝ IBM ÑÀÌùÚ¨ÅÂ¡¢ÍÐÍõ IBM ÍÔÇãÝ¨ÍÔÅéà¡¡¾æÚÝ¨ÍÔÇâÉß¡¨Alfonso Napoles Gandara 3111, Santa Fe Pe?a Blanca, Alvaro Obregon, Mexico City, Zip Code 01210¡¿¡¤
 
-±N¤U¥y·s¼W¦Ü²Ä c ¬q¬q¥½¡G
+ÙòÄ¶Æ»ä»ìÁÈÝÜÉ c ÑôÑôÆÝ¡¨
 
-¦b¥[®³¤j¡Gµ|ÃB¤§­pºâ¦p«Y¥H¦¬¨ü¡uµ{¦¡¡v¤§Åv¯q®É©Ò¦b¦ì¸m¬°¨Ì¾ÚªÌ¡A³Q±ÂÅv¤H©ó©Ò¾A¥Î¤§¡uªþ¥ó¡v©Î¡u¥æ©ö¤å¥ó¡v©Ò¸ü³Q±ÂÅv¤HÀç·~¦a§}²§©ó¸Óµ¥©Ò¦b¦ì¸m®É¡AÀ³­t³d³qª¾ IBM¡C
+ÇãÅûÕÕÄË¡¨á¤÷ìÄæÓÓê«ÇñÏûÅèÈ­Ì¿¡Öá£È¢¡×ÄæûâÖôÕëÍÔÇãÈíåôÒ³ËíðãÏ¯¡¢Ý·ÚæûâÄ©ÍõÍÔïËÆîÄæ¡ÖÏáÇµ¡×ÍÐ¡ÖÇ¨ÍøÅÆÇµ¡×ÍÔç¥Ý·ÚæûâÄ©ô²äÆÇâÉßÜ¬ÍõæÚá«ÍÔÇãÈíåôÕë¡¢óÜÓ×ÝÊÝ×Ï¡ IBM¡¤
 
-±N¤U¥y·s¼W¦Ü²Ä c ¬q¬q¥½¡G
+ÙòÄ¶Æ»ä»ìÁÈÝÜÉ c ÑôÑôÆÝ¡¨
 
-¦b¬ü°ê¡GÂù¤è·í¨Æ¤H¦P·N¦³¤U¦C±¡§ÎªÌ¦³§Î­Ó¤H°]²£¤£±oÂàÅý¤©³Q±ÂÅv¤H¡Gi) IBM ¥H¹q¤l¤è¦¡±N¡uµ{¦¡¡v¥æ¥I¤©³Q±ÂÅv¤H¡F©Î ii) ³Q±ÂÅv¤H´N IBM ¥H¹q¤l¤è¦¡¥æ¥I¤©³Q±ÂÅv¤H¤§¡uµ{¦¡¡v¡A½Ð¨D§K°£¾P°âµ|©Î¨Ï¥Îµ|¡Cµ|ÃB¤§­pºâ¦p«Y¥H¦¬¨ü¡uµ{¦¡¡v¤§Åv¯q®É©Ò¦b¦ì¸m¬°¨Ì¾ÚªÌ¡A³Q±ÂÅv¤H©ó©Ò¾A¥Î¤§¡uªþ¥ó¡v©Î¡u¥æ©ö¤å¥ó¡v©Ò¸ü³Q±ÂÅv¤HÀç·~¦a§}²§©ó¸Óµ¥©Ò¦b¦ì¸m®É¡AÀ³­t³d³qª¾ IBM¡C
+ÇãÓ¡ÙÏ¡¨÷äÅÉåµËçÄ©ÇÑãôÈ´Ä¶ÇÄÚÅÊ°Ï¯È´Ê°Ô¶Ä©ØÂÜ¨ÄâÚµ÷ËüéÄèÝ·ÚæûâÄ©¡¨i) IBM ÅèçÙÄÍÅÉÈ¢Ùò¡Öá£È¢¡×Ç¨ÅéÄèÝ·ÚæûâÄ©¡§ÍÐ ii) Ý·ÚæûâÄ©Þó IBM ÅèçÙÄÍÅÉÈ¢Ç¨ÅéÄèÝ·ÚæûâÄ©Äæ¡Öá£È¢¡×¡¢îùÊåÉ­ØæïÚÙÇá¤ÍÐËðÆîá¤¡¤á¤÷ìÄæÓÓê«ÇñÏûÅèÈ­Ì¿¡Öá£È¢¡×ÄæûâÖôÕëÍÔÇãÈíåôÒ³ËíðãÏ¯¡¢Ý·ÚæûâÄ©ÍõÍÔïËÆîÄæ¡ÖÏáÇµ¡×ÍÐ¡ÖÇ¨ÍøÅÆÇµ¡×ÍÔç¥Ý·ÚæûâÄ©ô²äÆÇâÉßÜ¬ÍõæÚá«ÍÔÇãÈíåôÕë¡¢óÜÓ×ÝÊÝ×Ï¡ IBM¡¤
 
-²Ä 4 ¸`¡u½ßÀv³d¥ô»P´¼¼z°]²£«OÅ@¡v
+ÜÉ 4 åç¡ÖïªóÁÝÊÇ¶êØßáìäØÂÜ¨Ïñû¬¡×
 
-±N¤U¦C§K³dÁn©ú¼W¦C¦Ü²Ä a ¬q¬q¥½¡G
+ÙòÄ¶ÇÄÉ­ÝÊôøÍüìÁÇÄÈÝÜÉ a ÑôÑôÆÝ¡¨
 
-¦b¯µ¾|¡G¨Ì¾Ú¯µ¾|¥Áªk²Ä 1328 ±ø¡A¥»¸`©Ò«ü­­¨î»P±Æ°£¤£¾A¥Î©ó IBM ¦]¬G·N¤£·í¦æ¬° ("dolo") ©Î­«¤j¹L¥¢ ("culpa inexcusable") ©Ò­P·l®`¡C
+Çã×¸ð§¡¨Ëíðã×¸ð§ÆáÎÎÜÉ 1328 Û¾¡¢ÆÛåçÍÔÑÀÓîÌ±êØÚêØæÄâïËÆîÍõ IBM ÇÞÑÊãôÄâåµÈçÒ³ ("dolo") ÍÐÓìÄËç´ÆÂ ("culpa inexcusable") ÍÔÓ³ä´Õ¤¡¤
 
-²Ä 6 ¸`¡u·Ç¾Úªk¤Î¾A¥Î¦a°Ï¡v
+ÜÉ 6 åç¡ÖäíðãÎÎÅ¯ïËÆîÇâÙ´¡×
 
-¶È±N²Ä a ¬q¤¤¤§²Ä¤@¥y§ï¬°¤U¥y¡G
+ã¯ÙòÜÉ a ÑôÄãÄæÜÉÄ¡Æ»ÊÑÒ³Ä¶Æ»¡¨
 
-¦bªü®Ú§Ê¡GÂù¤è·í¨Æ¤H¦P·N¡A¤£°Ýªk«ß½Ä¬ð­ì«h¡A¾A¥Îªü®Ú§Ê¦@©M°êªk«ß¡C¥»¡u¦X¬ù¡v©Ò­P¦³ÃöÅv§Q¡B³d¥ô¤Î¸q°È¤§ªk«ßµ{§Ç¡A©ó¥¬©y¿Õ´µ¦ã§Q´µ¦Ûªv¥«¤§¡u¤@¯ë°Ó·~ªk®x¡v¼f²z¡C
+ÇãÏßÕüÊ¬¡¨÷äÅÉåµËçÄ©ÇÑãô¡¢ÄâÙÂÎÎÑ£îíÒóÔÏÐ¬¡¢ïËÆîÏßÕüÊ¬ÇÁÌÏÙÏÎÎÑ£¡¤ÆÛ¡ÖÇÙÒü¡×ÍÔÓ³È´ùÃûâÉ³¡£ÝÊÇ¶Å¯åøÙ­ÄæÎÎÑ£á£Ê©¡¢ÍõÆÌÌûò¿ßÚÈäÉ³ßÚÈÜÎÙÆËÄæ¡ÖÄ¡×ïÙ¸äÆÎÎÕ¼¡×ìÐÜ¡¡¤
 
-¦b´¼§Q¡GÂù¤è·í¨Æ¤H¦P·N¡A¤£°Ýªk«ß½Ä¬ð­ì«h¡A¾A¥Î´¼§Qªk«ß¡C¥»¦X¬ù¦³Ãöª§Ä³¡B¸ÑÄÀ©Î¹H¬ùµ¥±¡¨Æ¡AÂù¤è·í¨Æ¤HµLªk¸Ñ¨MªÌ¡AÀ³´£¥æ¸t¦a¨È­ô¥«°Ï¤@¯ëªk°|ºÞÁÒ°Ï¼f²z¡C
+ÇãßáÉ³¡¨÷äÅÉåµËçÄ©ÇÑãô¡¢ÄâÙÂÎÎÑ£îíÒóÔÏÐ¬¡¢ïËÆîßáÉ³ÎÎÑ£¡¤ÆÛÇÙÒüÈ´ùÃÎèú¾¡£æØúËÍÐç°Òüá«ÚÅËç¡¢÷äÅÉåµËçÄ©àÒÎÎæØÊîÏ¯¡¢óÜßÈÇ¨åûÇâËéÔ×ÆËÙ´Ä¡×ïÎÎØáê§õÝÙ´ìÐÜ¡¡¤
 
-¦b­ô­Û¤ñ¨È¡GÂù¤è·í¨Æ¤H¦P·N¡A¤£°Ýªk«ß¬»Ä²­ì«h¡A¾A¥Î­ô­Û¤ñ¨È¦@©M°êªk«ß¡C©Ò¦³Åv§Q¡B³d¥ô¤Î¸q°È±x¨ü­ô­Û¤ñ¨È¦@©M°êªk©xºÞÁÒ¡C
+ÇãÔ×Ô¾ÅÒËé¡¨÷äÅÉåµËçÄ©ÇÑãô¡¢ÄâÙÂÎÎÑ£Ò¾ú½ÔÏÐ¬¡¢ïËÆîÔ×Ô¾ÅÒËéÇÁÌÏÙÏÎÎÑ£¡¤ÍÔÈ´ûâÉ³¡£ÝÊÇ¶Å¯åøÙ­Ú¾Ì¿Ô×Ô¾ÅÒËéÇÁÌÏÙÏÎÎÌúê§õÝ¡¤
 
-¦b¤Ì¥Ê¦hº¸¡GÂù¤è·í¨Æ¤H¦P·N¡A¤£°Ýªk«ß½Ä¬ð­ì«h¡A¾A¥Î¤Ì¥Ê¦hº¸¦@©M°êªk«ß¡C¥»¦X¬ù©Ò­P¨Ï©Î¬ÛÃö¤§ª§Ä³¡A¥æ¥Ñ«¶¦h¥Á¨Æªk©x¤Î¤fÀYÂ²©ö¶D³^¼f²z¡C
+ÇãÅ­ÆêÇééß¡¨÷äÅÉåµËçÄ©ÇÑãô¡¢ÄâÙÂÎÎÑ£îíÒóÔÏÐ¬¡¢ïËÆîÅ­ÆêÇééßÇÁÌÏÙÏÎÎÑ£¡¤ÆÛÇÙÒüÍÔÓ³ËðÍÐÒÞùÃÄæÎèú¾¡¢Ç¨ÆñÐØÇéÆáËçÎÎÌúÅ¯ÄÇó¤öüÍøâ«ÝÄìÐÜ¡¡¤
 
-¦b©e¤º·ç©Ô¡GÂù¤è·í¨Æ¤H¦P·N¡A¤£°Ýªk«ß½Ä¬ð­ì«h¡A¾A¥Î©e¤º·ç©Ôªk«ß¡CÂù¤è·í¨Æ¤H¦P·N¥»¦X¬ù¦³Ãöª§Ä³¡AÀ³¥æ¥Ñ¥d©Ô¥d´µ¥«³£·|°Ïªk°|¼f²z¡C
+ÇãÌçÄùå¯ÍÖ¡¨÷äÅÉåµËçÄ©ÇÑãô¡¢ÄâÙÂÎÎÑ£îíÒóÔÏÐ¬¡¢ïËÆîÌçÄùå¯ÍÖÎÎÑ£¡¤÷äÅÉåµËçÄ©ÇÑãôÆÛÇÙÒüÈ´ùÃÎèú¾¡¢óÜÇ¨ÆñÆ¦ÍÖÆ¦ßÚÆËÝçäÄÙ´ÎÎØáìÐÜ¡¡¤
 
-¦b¯µ¾|¡GÂù¤è·í¨Æ¤H¦P·N¡A¤£°Ýªk«ß½Ä¬ð­ì«h¡A¾A¥Î¯µ¾|ªk«ß¡CÂù¤è·í¨Æ¤H¹ï¥»¦X¬ù¤§Ã±­q¡B¸ÑÄÀ©Î¿í´`¡A¨ä¥i¯à­P¨Ï¤§¯Éª[¥¼¯àª½±µ¸Ñ¨MªÌ¡AÀ³¥æ¥Ñ§Q°¨¦a¤èªk°|ªk©x»P¦XÄ³®x¤§ºÞÁÒ½d³ò»PÂ¾¯à¼f²z¡C
+Çã×¸ð§¡¨÷äÅÉåµËçÄ©ÇÑãô¡¢ÄâÙÂÎÎÑ£îíÒóÔÏÐ¬¡¢ïËÆî×¸ð§ÎÎÑ£¡¤÷äÅÉåµËçÄ©è×ÆÛÇÙÒüÄæøÜÓÔ¡£æØúËÍÐò×ß§¡¢Ì§Æ«×äÓ³ËðÄæ×ÌÎ¾ÆÜ×äÎþÚÙæØÊîÏ¯¡¢óÜÇ¨ÆñÉ³ØëÇâÅÉÎÎØáÎÎÌúêØÇÙú¾Õ¼Äæê§õÝî¯ÞØêØ÷ª×äìÐÜ¡¡¤
 
-¦b¯Q©Ô¦c¡GÂù¤è·í¨Æ¤H¦P·N¾A¥Î¯Q©Ô¦cªk«ß¡CÂù¤è·í¨Æ¤H¹ï¥»¦X¬ù¤§Ã±­q¡B¸ÑÄÀ©Î¿í´`¡A¨ä¥i¯à­P¨Ï¤§¯Éª[¥¼¯àª½±µ¸Ñ¨MªÌ¡AÀ³¥æ¥Ñ»X¼wºûªº¨Èªk°| ("Tribunales Ordinarios de Montevideo") ¼f²z¡C
+ÇãÖÔÍÖÇä¡¨÷äÅÉåµËçÄ©ÇÑãôïËÆîÖÔÍÖÇäÎÎÑ£¡¤÷äÅÉåµËçÄ©è×ÆÛÇÙÒüÄæøÜÓÔ¡£æØúËÍÐò×ß§¡¢Ì§Æ«×äÓ³ËðÄæ×ÌÎ¾ÆÜ×äÎþÚÙæØÊîÏ¯¡¢óÜÇ¨ÆñêàìáêÄÎûËéÎÎØá ("Tribunales Ordinarios de Montevideo") ìÐÜ¡¡¤
 
-¶È¦b²Ä a ¬q²Ä¤@¥y¤¤¡A±N¡u°õ¦æ±ÂÅv¥æ©ö©Ò¦b°ê®a©Î¦a°Ï¤§ªk«ß¡v§ï¬°¡G
+ã¯ÇãÜÉ a ÑôÜÉÄ¡Æ»Äã¡¢Ùò¡ÖÙÚÈçÚæûâÇ¨ÍøÍÔÇãÙÏÕ¥ÍÐÇâÙ´ÄæÎÎÑ£¡×ÊÑÒ³¡¨
 
-¦b¬ü°ê¡B¦w¦c©Ô¡B¦w¦a¥d»P¤Ú¥¬¹F¡Bªü¾|¤Ú¡B¤Ú«¢°¨¡B¤Ú¨©¦h¡B¦Ê¼}¹F¡Bªi©`¡B­^ÄÝºû¨Ê¸s®q¡B¶}°Ò¸s®q¡B¥j©Ô¯Á®q¡B¦h©ú¥§¥[¡B®æ·ç¨º¹F¡B»\¨È¨º¡B¤ú¶R¥[¡B»X¯S¶ë©Ô¯S®q¡BÂÄ¤Ú¡B¸t¦ö¹F­×´µ¡B¸t°ò¯ý¤Î¥§ºû´µ¸s®q¡B¸t¸ô©ö¡B¸t¤å´Ë®q¤Î®æªL¯Ç¤B´µ¡BÄ¬§Q«n¡B§´¤g©Ô¡B¤d¨½¹F¤Î¦«¨©­ô¡A¥H¤Î¤g§J´µ»P¶}¬ì´µ¸s®q¡G¬ü°ê¯Ã¬ù¦{ªk«ß¡C
+ÇãÓ¡ÙÏ¡£ÇøÇäÍÖ¡£ÇøÇâÆ¦êØÅ»ÆÌç®¡£Ïßð§Å»¡£Å»ÐÄØë¡£Å»ËÊÇé¡£ÈËìçç®¡£ÎÌÌâ¡£ÓÁúèêÄËëåúÕµ¡£âäÙ·åúÕµ¡£Æ¬ÍÖ×ÄÕµ¡£ÇéÍüÆÇÅû¡£Öªå¯ËÛç®¡£êäËéËÛ¡£ÅÛâ¹Åû¡£êàÖÖãÒÍÖÖÖÕµ¡£÷°Å»¡£åûÈ÷ç®ÔºßÚ¡£åûÙ×Ø£Å¯ÆÇêÄßÚåúÕµ¡£åûæûÍø¡£åûÅÆßðÕµÅ¯ÖªÎ¯×ÊÄ£ßÚ¡£ú·É³Ð²¡£ÉôÄÈÍÖ¡£ÄÅËÞç®Å¯È¬ËÊÔ×¡¢ÅèÅ¯ÄÈÉ¬ßÚêØâäÒïßÚåúÕµ¡¨Ó¡ÙÏ×ÆÒüÇüÎÎÑ£¡¤
 
-¦b¥[®³¤j¡G¥[®³¤j©Ò¾A¥Î¤§¦w¤j²¤¬Ù»PÁp¨¹ªk«ß¡C
+ÇãÅûÕÕÄË¡¨ÅûÕÕÄËÍÔïËÆîÄæÇøÄËÜ©ÒÜêØôúËÚÎÎÑ£¡¤
 
-¦b²Ä a ¬q²Ä¤G¥y¡A±N¡u°õ¦æ±ÂÅv¨ú±o¥æ©ö©Ò¦b°ê®a©Î¦a°Ï¤º¦³®Ä¡F©ÎªÌ¡A­Y IBM ¦P·N®É¡A¥ç©ó¡uµ{¦¡¡v¥Î©ó¥¿¦¡§@·~¤§°ê®a©Î¦a°Ï¤º¡v§ï¬°¤U¦Cµü»y¡G
+ÇãÜÉ a ÑôÜÉÄ¨Æ»¡¢Ùò¡ÖÙÚÈçÚæûâÌ½ÚµÇ¨ÍøÍÔÇãÙÏÕ¥ÍÐÇâÙ´ÄùÈ´Õæ¡§ÍÐÏ¯¡¢Ó¼ IBM ÇÑãôÕë¡¢Ç©Íõ¡Öá£È¢¡×ÆîÍõÆßÈ¢É¢äÆÄæÙÏÕ¥ÍÐÇâÙ´Äù¡×ÊÑÒ³Ä¶ÇÄâ¤ë£¡¨
 
-¦bªü®Ú§Ê¡Gªü®Ú§Ê
+ÇãÏßÕüÊ¬¡¨ÏßÕüÊ¬
 
-¦b´¼§Q¡G´¼§Q
+ÇãßáÉ³¡¨ßáÉ³
 
-¦b­ô­Û¤ñ¨È¡G­ô­Û¤ñ¨È
+ÇãÔ×Ô¾ÅÒËé¡¨Ô×Ô¾ÅÒËé
 
-¦b¤Ì¥Ê¦hº¸¡G¤Ì¥Ê¦hº¸
+ÇãÅ­ÆêÇééß¡¨Å­ÆêÇééß
 
-¦b¾¥¦è­ô¡G¾¥¦è­ô
+Çãð®ÈéÔ×¡¨ð®ÈéÔ×
 
-¦b¯µ¾|¡G¯µ¾|
+Çã×¸ð§¡¨×¸ð§
 
-¦b¯Q©Ô¦c¡G¯Q©Ô¦c
+ÇãÖÔÍÖÇä¡¨ÖÔÍÖÇä
 
-¦b©e¤º·ç©Ô¡G©e¤º·ç©Ô
+ÇãÌçÄùå¯ÍÖ¡¨ÌçÄùå¯ÍÖ
 
-±N¤U¥y·s¼W¦Ü²Ä b ¬q¬q¥½¡G
+ÙòÄ¶Æ»ä»ìÁÈÝÜÉ b ÑôÑôÆÝ¡¨
 
-¦b¤Ú¦è¡G¥»¦X¬ù©Ò­P¨Ï©Î¬ÛÃö¤§¤@¤Áª§Ä³¡A¥]¬AÂ²©ö¶D³^¡A±x¥Ñ¤Ú¦è¸t«OÃ¹¬Ù¸t«OÃ¹¥«ºÞÁÒ¦a±MÄÝºÞÁÒ¡A¨Ã¨ü¨ä³W½d¡A¥BÂù¤è·í¨Æ¤H¦P·N¦¹¯S©wºÞÁÒ¡A¨ÃÁn©ú©ñ±ó¨ä¥LºÞÁÒ¡A¤£°Ý¨äÅv­­¡A§¡¦P¡A¦¹¬°¤£¥iºM¾P¤§¦P·N¡C
+ÇãÅ»Èé¡¨ÆÛÇÙÒüÍÔÓ³ËðÍÐÒÞùÃÄæÄ¡Å¢Îèú¾¡¢ÅýÑÄöüÍøâ«ÝÄ¡¢Ú¾ÆñÅ»ÈéåûÏñøåÒÜåûÏñøåÆËê§õÝÇâÙñúèê§õÝ¡¢ËäÌ¿Ì§Ý½î¯¡¢Åâ÷äÅÉåµËçÄ©ÇÑãôÈºÖÖÌùê§õÝ¡¢ËäôøÍüÍóÛ¹Ì§Åìê§õÝ¡¢ÄâÙÂÌ§ûâÓî¡¢ÉáÇÑ¡¢ÈºÒ³ÄâÆ«èôïÚÄæÇÑãô¡¤
 
-¦b¾¥¦è­ô¡GÂù¤è·í¨Æ¤H¦P·N¥æ¥Ñ¾¥¦è­ô¥«ªk°|±MÄÝºÞÁÒ¸Ñ¨M¥»¦X¬ù©Ò­P¨Ï¤§ª§Ä³¡CÂù¤è·í¨Æ¤H©ñ±ó¨ä¥L¦]¨ä²{¦æ©Î¥¼¨Ó¦í©Ò©Î¦]¨ä¥L­ì¥Ñ¦Ó¹ïÀ³©óÂù¤è·í¨Æ¤H¤§ºÞÁÒ¡C
+Çãð®ÈéÔ×¡¨÷äÅÉåµËçÄ©ÇÑãôÇ¨Æñð®ÈéÔ×ÆËÎÎØáÙñúèê§õÝæØÊîÆÛÇÙÒüÍÔÓ³ËðÄæÎèú¾¡¤÷äÅÉåµËçÄ©ÍóÛ¹Ì§ÅìÇÞÌ§Ü¢ÈçÍÐÆÜËôÈîÍÔÍÐÇÞÌ§ÅìÔÏÆñÈÔè×óÜÍõ÷äÅÉåµËçÄ©Äæê§õÝ¡¤
 
-²Ä 7 ¸`¡u¤@¯ë±ø´Ú¡v
+ÜÉ 7 åç¡ÖÄ¡×ïÛ¾à¡¡×
 
-¦b²Ä g ¬q¤¤¡G
+ÇãÜÉ g ÑôÄã¡¨
 
-¦b¬ü°ê¡G§R°£³Ì«á 2 ¥y¡C
+ÇãÓ¡ÙÏ¡¨É´ØæÞ²Ñ¥ 2 Æ»¡¤
 
-¦b²Ä i ¬q²Ä¤@¥y«á­±·s¼W¤U¥y¡G
+ÇãÜÉ i ÑôÜÉÄ¡Æ»Ñ¥Óòä»ìÁÄ¶Æ»¡¨
 
-¦b¾¥¦è­ô¡G¦í§}¦p¦³ÅÜ§ó¡AÀ³©ó¨Æ«e¤Q¤é³qª¾¡A§_«h¡A«ö³Ì«á«ü¥Ü¦í§}©Ò¬°³qª¾¨ã¦³§¹¾ãªk©w®Ä¤O¡C
+Çãð®ÈéÔ×¡¨ÈîÉßÇñÈ´üÈÊÕ¡¢óÜÍõËçÐ©Ä²ÅÊÝ×Ï¡¡¢ÉÁÐ¬¡¢ÑºÞ²Ñ¥ÑÀÆüÈîÉßÍÔÒ³Ý×Ï¡Ì¦È´ÉùðìÎÎÌùÕæÄ°¡¤
 
-¦b²Ä j ¬q¤¤¡G
+ÇãÜÉ j ÑôÄã¡¨
 
-¦b¤Ú¦è¡G±N¡u¥ô¤@¤è·í¨Æ¤H¦Û¶D³^¨Æ¥Ñµo¥Í¹O¨â¦~«á¡A§¡¤£±o´£°_¥»¦X¬ù©Òµo¥Í©Î¬ÛÃö¨Æ¥Ñ¤§ªk«ß¶D³^¡v²Ä¤G¥y¥þ³¡§R°£¡C
+ÇãÅ»Èé¡¨Ùò¡ÖÇ¶Ä¡ÅÉåµËçÄ©ÈÜâ«ÝÄËçÆñàõÆíç·Ì¥È¡Ñ¥¡¢ÉáÄâÚµßÈØÄÆÛÇÙÒüÍÔàõÆíÍÐÒÞùÃËçÆñÄæÎÎÑ£â«ÝÄ¡×ÜÉÄ¨Æ»ÇÀÝåÉ´Øæ¡¤
 
-±N¤U¬q¼W¦C¬°¥»¸`·s¬q¸¨ - ²Ä l ¬q¡G
+ÙòÄ¶ÑôìÁÇÄÒ³ÆÛåçä»Ñôæ¯ - ÜÉ l Ñô¡¨
 
-¦b¥[®³¤j¡GÂù¤è·í¨Æ¤H¦P·N¥H­^¤å¼¶¼g¥»¤å¥ó¡CLes parties ont convenu de r?diger le pr?sent document en langue anglaise.
+ÇãÅûÕÕÄË¡¨÷äÅÉåµËçÄ©ÇÑãôÅèÓÁÅÆìþìÑÆÛÅÆÇµ¡¤Les parties ont convenu de r?diger le pr?sent document en langue anglaise.
 
-2. ¨È¤Ó¦a°Ï
+2. ËéÅ´ÇâÙ´
 
-²Ä 2 ¸`¡u«OÃÒ¨Æ¶µ¡v
+ÜÉ 2 åç¡ÖÏñøýËçâú¡×
 
-±N¤U¬q·s¼W¦Ü¥»¸`¸`¥½¡A¥t¦¨·s¬q¸¨¡]²Ä f ¬q¡^¡G
+ÙòÄ¶Ñôä»ìÁÈÝÆÛåçåçÆÝ¡¢Æ¶È©ä»Ñôæ¯¡¾ÜÉ f Ñô¡¿¡¨
 
-¦b¿D¬w¡G«e­z«OÃÒ¬°¡u2010 ¦~Ävª§»P®ø¶OªÌªk®×¡v(Competition and Consumer Act 2010) ©Ò­qÅv§Q¥H¥~¤§«OÃÒ¡A¥B¶È­­¾A¥Î©ó¸Óªk®×¤¹³\¤§½d³ò¡C
+Çãñ®Ñú¡¨Ð©ÓÝÏñøýÒ³¡Ö2010 È¡ú£ÎèêØÖ¼â¶Ï¯ÎÎÕù¡×(Competition and Consumer Act 2010) ÍÔÓÔûâÉ³ÅèÆÀÄæÏñøý¡¢Åâã¯ÓîïËÆîÍõæÚÎÎÕùÄøÝÂÄæî¯ÞØ¡¤
 
-¦b¤é¥»¡GIBM ¤§½ßÀv³d¥ô¥H¥»¬q¸¨¤Î¡u½ßÀv³d¥ô»P´¼¼z°]²£«OÅ@¡v¤@¸`¡B¾A¥Î¡uªþ¥ó¡v¤Î¡u¥æ©ö¤å¥ó¡v¤§³W©w¬°­­¡A¥B´N¥¼¹F¦¨¥»¸`©Ò¸ü«OÃÒ¨Æ¶µ¡A¦¹¬°³Q±ÂÅv¤H°ß¤@ªº¸É±Ï±¹¬I¡C
+ÇãÅÊÆÛ¡¨IBM ÄæïªóÁÝÊÇ¶ÅèÆÛÑôæ¯Å¯¡ÖïªóÁÝÊÇ¶êØßáìäØÂÜ¨Ïñû¬¡×Ä¡åç¡£ïËÆî¡ÖÏáÇµ¡×Å¯¡ÖÇ¨ÍøÅÆÇµ¡×ÄæÝ½ÌùÒ³Óî¡¢ÅâÞóÆÜç®È©ÆÛåçÍÔç¥ÏñøýËçâú¡¢ÈºÒ³Ý·ÚæûâÄ©ÙÄÄ¡ÎûæÐÚóÚÝÑÌ¡¤
 
-¦b¯Ã¦èÄõ¡G«e­z«OÃÒ¬°¡u1993 ¦~®ø¶OªÌ«OÃÒªk¡v(Consumer Guarantees Act 1993) ©Î¨ä¥Lªk¥O©Ò³W©wªk«ß¤£±o­­¨î¤§Åv§Q¥H¥~¤§«OÃÒ¡C
+Çã×ÆÈéû¢¡¨Ð©ÓÝÏñøýÒ³¡Ö1993 È¡Ö¼â¶Ï¯ÏñøýÎÎ¡×(Consumer Guarantees Act 1993) ÍÐÌ§ÅìÎÎÅïÍÔÝ½ÌùÎÎÑ£ÄâÚµÓîÌ±ÄæûâÉ³ÅèÆÀÄæÏñøý¡¤
 
-²Ä 3 ¸`¡u¦¬¶O¡Bµ|®½¡B¥I´Ú¤Î´`³WÅçÃÒ¡v
+ÜÉ 3 åç¡ÖÈ­â¶¡£á¤Õß¡£Åéà¡Å¯ß§Ý½üÓøý¡×
 
-¦b²Ä b ¬q¤¤¡A±N²Ä¤T¥y§ó§ï¬°¤U¦C 2 ¥y¡G
+ÇãÜÉ b ÑôÄã¡¢ÙòÜÉÄµÆ»ÊÕÊÑÒ³Ä¶ÇÄ 2 Æ»¡¨
 
-¦b­»´ä¡B¦L¥§¡BÁú°ê¡B¿Dªù¡B°¨¨Ó¦è¨È¡Bµá«ß»«¡B·s¥[©Y¤Î¶V«n¡G»ù´Ú¤ä¥I¸q°È©ó¦¬¨ì¥Ñ IBM ¶}¥ß¤§µo²¼®É¨ì´Á¡A¨ÃÀ³©óµo²¼¤é´Á«á¤T¤Q¤é¤º¥I´Ú¦Ü IBM «ü©w±b¤á¡Cµo²¼¤é´Á°_¤T¤Q¤é¤º¥¼¦¬¨ì´Ú¶µªÌ¡A°£¿n¤í´Ú¶µ¥~¡AIBM ±o¥t¥~¦¬¨úº¢¯Çª÷¡Aº¢¯Çª÷«öº¢¯Ç¤é¼Æ­pºâ¡A«ö¤U¦C­pºâ¤è¦¡¤¤¸û¤ÖªÌ¦¬¨ú¤§¡Gi) ¨C¤T¤Q¤é¤§´Á¶¡©Î¨ä¤@³¡¤À¤§ 2%¡F©Î ii) ¾A¥Îªk«ß³\¥i¤§³Ì°ªª÷ÃB¡C
+ÇãÓüà«¡£ÇÍÆÇ¡£ö§ÙÏ¡£ñ®ÏÜ¡£ØëËôÈéËé¡£áçÑ£ë³¡£ä»ÅûÌÛÅ¯â½Ð²¡¨ì¤à¡ÅÅÅéåøÙ­ÍõÈ­Ì¯Æñ IBM âäÇ¡ÄæàõÜÁÕëÌ¯ßæ¡¢ËäóÜÍõàõÜÁÅÊßæÑ¥ÄµÄ²ÅÊÄùÅéà¡ÈÝ IBM ÑÀÌùÚ¨ÅÂ¡¤àõÜÁÅÊßæØÄÄµÄ²ÅÊÄùÆÜÈ­Ì¯à¡âúÏ¯¡¢ØæñØÅÎà¡âúÆÀ¡¢IBM ÚµÆ¶ÆÀÈ­Ì½éÉ×ÊÏÚ¡¢éÉ×ÊÏÚÑºéÉ×ÊÅÊí°ÓÓê«¡¢ÑºÄ¶ÇÄÓÓê«ÅÉÈ¢Äãç¤Å·Ï¯È­Ì½Äæ¡¨i) ÊäÄµÄ²ÅÊÄæßæâæÍÐÌ§Ä¡ÝåÅ¡Äæ 2%¡§ÍÐ ii) ïËÆîÎÎÑ£ÝÂÆ«ÄæÞ²ØíÏÚ÷ì¡¤
 
-¦b®õ°ê¡G»ù´Ú¤ä¥I¸q°È©ó¦¬¨ì¥Ñ IBM ¶}¥ß¤§µo²¼®É¨ì´Á¡A¨ÃÀ³©óµo²¼¶}¥ß¤é«á¤T¤Q¤é¤º¥I´Ú¦Ü IBM «ü©w±b¤á¡Cµo²¼¤é´Á°_¤T¤Q¤é¤º¥¼¦¬¨ì´Ú¶µªÌ¡A°£¿n¤í´Ú¶µ¥~¡A±o¥t¥~¦¬¨úº¢¯Çª÷¡Aº¢¯Çª÷«öº¢¯Ç¤é¼Æ­pºâ¡A«ö¨C¤ë 1.25% ¤§§Q²v¦¬¨ú¤§¡C
+ÇãÖ¹ÙÏ¡¨ì¤à¡ÅÅÅéåøÙ­ÍõÈ­Ì¯Æñ IBM âäÇ¡ÄæàõÜÁÕëÌ¯ßæ¡¢ËäóÜÍõàõÜÁâäÇ¡ÅÊÑ¥ÄµÄ²ÅÊÄùÅéà¡ÈÝ IBM ÑÀÌùÚ¨ÅÂ¡¤àõÜÁÅÊßæØÄÄµÄ²ÅÊÄùÆÜÈ­Ì¯à¡âúÏ¯¡¢ØæñØÅÎà¡âúÆÀ¡¢ÚµÆ¶ÆÀÈ­Ì½éÉ×ÊÏÚ¡¢éÉ×ÊÏÚÑºéÉ×ÊÅÊí°ÓÓê«¡¢ÑºÊäÅÌ 1.25% ÄæÉ³ÛûÈ­Ì½Äæ¡¤
 
-¦b²Ä c ¬q²Ä¤@¥y¤¤¡A²¾°£ "iv)" «e¤§¡u»P¡v¤@¦r¡A¨Ã¥[¤W¤À¸¹¤Î¤U¤@­Ó·s¶µ¥Ø "v)"¡G
+ÇãÜÉ c ÑôÜÉÄ¡Æ»Äã¡¢ÜÃØæ "iv)" Ð©Äæ¡ÖêØ¡×Ä¡Çó¡¢ËäÅûÄ¸Å¡æÀÅ¯Ä¶Ä¡Ô¶ä»âúÆø "v)"¡¨
 
-¦b¦L«×¡G¡F¤Î v) ±N·Ç½T¤§¡uµ|·½¦©°£µ|ÃB¡v¦¬¯q¤Î®ÉÂkÀÉ¡C¨Ì³Q±ÂÅv¤H©Ò¥X¨ã¤§§K¦©ÃºÃÒ©ú¤å¥ó¦Ó¥¼½Ò¼xµ|®½¡BÃöµ|¡Bµ|¶O©Î³W¶O¡]¥H¤UºÙ¡uµ|®½¡v¡^¡A¥Bµ|®½½]¼x¾÷Ãö«áÄò³W©w¸Óµ¥¡uµ|®½¡v»Ý¤©½Ò¼xªÌ¡A³Q±ÂÅv¤HÀ³­t³d¤ä¥I¸Óµ¥¡uµ|®½¡v¡A¥]¬A¨ä©Ò¾A¥Î¤§§Q®§¡Bµ|¶O¤Î/©Î»@Áì¡C
+ÇãÇÍÐù¡¨¡§Å¯ v) ÙòäííýÄæ¡Öá¤äãÈªØæá¤÷ì¡×È­ÖôÅ¯Õëö×óò¡¤ËíÝ·ÚæûâÄ©ÍÔÅøÌ¦ÄæÉ­ÈªøäøýÍüÅÆÇµÈÔÆÜîûìâá¤Õß¡£ùÃá¤¡£á¤â¶ÍÐÝ½â¶¡¾ÅèÄ¶ê¢¡Öá¤Õß¡×¡¿¡¢Åâá¤Õßî¨ìâñ¢ùÃÑ¥úýÝ½ÌùæÚá«¡Öá¤Õß¡×ëæÄèîûìâÏ¯¡¢Ý·ÚæûâÄ©óÜÓ×ÝÊÅÅÅéæÚá«¡Öá¤Õß¡×¡¢ÅýÑÄÌ§ÍÔïËÆîÄæÉ³ÕÉ¡£á¤â¶Å¯/ÍÐêÈõ÷¡¤
 
-¦b²Ä c ¬q²Ä¤@¥y¤¤¡A²¾°£ "iv)" «e¤§¡u»P¡v¤@¦r¡A¨Ã¥H¤U¦C¶µ¥Ø¨ú¥N²Ä iv) ¶µ¤Î·s¼W¶µ¥Ø "v)"¡G
+ÇãÜÉ c ÑôÜÉÄ¡Æ»Äã¡¢ÜÃØæ "iv)" Ð©Äæ¡ÖêØ¡×Ä¡Çó¡¢ËäÅèÄ¶ÇÄâúÆøÌ½ÅîÜÉ iv) âúÅ¯ä»ìÁâúÆø "v)"¡¨
 
-¦b·s¥[©Y¡B°¨¨Ó¦è¨È¡Bµá«ß»«¡B®õ°ê¡B¦L¥§¤Î¶V«n¡Giv) ¥þ¤O°t¦X IBM ´M¨D´î§K³Q±ÂÅv¤H­n¨D´î§K¤§¦©Ãºµ|©Î¨ä¥Lµ|®½¡F¤Î v) ¥ß§Y³Æ§´¡B¥Ó½Ð¤Î«O«ù³Ì·s¤§¤@¤Á¬ÛÃö¤å¥ó¡A¥H§Q¶i¦æ«e¶µµ|®½´î§K©Î§K¦©Ãº¬ÛÃö§@·~¡C
+Çãä»ÅûÌÛ¡£ØëËôÈéËé¡£áçÑ£ë³¡£Ö¹ÙÏ¡£ÇÍÆÇÅ¯â½Ð²¡¨iv) ÇÀÄ°ØÙÇÙ IBM ÞòÊåàµÉ­Ý·ÚæûâÄ©ÓÑÊåàµÉ­ÄæÈªøäá¤ÍÐÌ§Åìá¤Õß¡§Å¯ v) Ç¡É»Þ¬Éô¡£ÆóîùÅ¯ÏñÑ½Þ²ä»ÄæÄ¡Å¢ÒÞùÃÅÆÇµ¡¢ÅèÉ³âÐÈçÐ©âúá¤ÕßàµÉ­ÍÐÉ­ÈªøäÒÞùÃÉ¢äÆ¡¤
 
-²Ä 4 ¸`¡u½ßÀv³d¥ô»P´¼¼z°]²£«OÅ@¡v
+ÜÉ 4 åç¡ÖïªóÁÝÊÇ¶êØßáìäØÂÜ¨Ïñû¬¡×
 
-©ó²Ä a ¬q²Ä¤@¥y¥y¥½¼W¦C¥H¤U¤å¥y¡G
+ÍõÜÉ a ÑôÜÉÄ¡Æ»Æ»ÆÝìÁÇÄÅèÄ¶ÅÆÆ»¡¨
 
-¦b¿D¬w¡G¡]¨Ò¦p¡G¤£°Ý¨Ì¾Ú«´¬ù¡B¥Á¨Æ«IÅv¦æ¬°¡B¹L¥¢¡B©Î¤£½×¬O§_¨Ì¾Úªk¥O¡^
+Çãñ®Ñú¡¨¡¾ËóÇñ¡¨ÄâÙÂËíðãÐÖÒü¡£ÆáËçÏëûâÈçÒ³¡£ç´ÆÂ¡£ÍÐÄâï¢ÑÒÉÁËíðãÎÎÅï¡¿
 
-¦b²Ä a ¬q²Ä¤G¥y¤¤¡u¯S®í¡v¤@µü¤§«á¡A¤Î¡uªþ±a¡v¤@µü¤§«e¼W¦C¥H¤U¤å¥y¡G
+ÇãÜÉ a ÑôÜÉÄ¨Æ»Äã¡ÖÖÖÖ±¡×Ä¡â¤ÄæÑ¥¡¢Å¯¡ÖÏáÚ§¡×Ä¡â¤ÄæÐ©ìÁÇÄÅèÄ¶ÅÆÆ»¡¨
 
-¦bµá«ß»«¡G¡]¥]¬A¶H¼x©Ê·l®`»PÃg»@©Ê·l®`¡^¡Bºë¯«·l®`
+ÇãáçÑ£ë³¡¨¡¾ÅýÑÄâ¯ìâÍÌä´Õ¤êØø´êÈÍÌä´Õ¤¡¿¡£ê´×®ä´Õ¤
 
-±N¤U¬q¼W¦C©ó²Ä a ¬q¬q¥½¡]½Ð°È¥²­«·s¾A·í±Æ¦C¦U¬q¶¶§Ç¡^
+ÙòÄ¶ÑôìÁÇÄÍõÜÉ a ÑôÑôÆÝ¡¾îùÙ­ÆÒÓìä»ïËåµÚêÇÄÇÖÑôâûÊ©¡¿
 
-¦b¿D¬w¡G¦p IBM ¹H¤Ï¡u2010 ¦~Ävª§»P®ø¶OªÌªk®×¡v(Competition and Consumer Act 2010) ¤§Àq¥Ü«OÃÒªÌ¡AIBM ¤§½ßÀv³d¥ô¥H­×´_©Î§ó´«³f«~¡]©ÎªÌ¨ÑÀ³¦Pµ¥³f«~¡^©Î¤ä¥I§ó´«³f«~©Î­×´_³f«~©Ò»Ý¤§´Ú¶µ¬°­­¡C©Ò¬°«OÃÒ¦p«Y¦³Ãö¡uÄvª§»P®ø¶OªÌªk®×¡v(Competition and Consumer Act) ªþªí 2 ©Ò³W©w¤§³f«~¾P°âÅv¡B¤£¨ü¤zÂZ¥e¦³Åv©ÎµL­­¨îÅv§QªÌ¡A«e´¦­­¨î¤£¾A¥Î¤§¡C
+Çãñ®Ñú¡¨Çñ IBM ç°Å°¡Ö2010 È¡ú£ÎèêØÖ¼â¶Ï¯ÎÎÕù¡×(Competition and Consumer Act 2010) Äæó¼ÆüÏñøýÏ¯¡¢IBM ÄæïªóÁÝÊÇ¶ÅèÔºß¦ÍÐÊÕßÐÝÌÐÂ¡¾ÍÐÏ¯ËòóÜÇÑá«ÝÌÐÂ¡¿ÍÐÅÅÅéÊÕßÐÝÌÐÂÍÐÔºß¦ÝÌÐÂÍÔëæÄæà¡âúÒ³Óî¡¤ÍÔÒ³ÏñøýÇñÏûÈ´ùÃ¡Öú£ÎèêØÖ¼â¶Ï¯ÎÎÕù¡×(Competition and Consumer Act) ÏáÏÐ 2 ÍÔÝ½ÌùÄæÝÌÐÂïÚÙÇûâ¡£ÄâÌ¿ÄÛöÆÆ§È´ûâÍÐàÒÓîÌ±ûâÉ³Ï¯¡¢Ð©ßËÓîÌ±ÄâïËÆîÄæ¡¤
 
-²Ä 5 ¸`¡u²×¤î¡v
+ÜÉ 5 åç¡ÖÜÜÅÏ¡×
 
-·s¼W¦Ü¥»¸`¸`¥½¡A¥t¦¨·s¬q¸¨²Ä b ¬q¡G
+ä»ìÁÈÝÆÛåçåçÆÝ¡¢Æ¶È©ä»Ñôæ¯ÜÉ b Ñô¡¨
 
-¦b¦L¥§¡G¦L¥§¥Áªk²Ä 1266 ±ø­n¨D¶·ªk°|¤U¥O²×¤î¨î©wÂù¤è¸q°È¤§¦X¬ùªÌ¡AÂù¤è·í¨Æ¤H©ß±ó¸Ó±ø´Ú¡C
+ÇãÇÍÆÇ¡¨ÇÍÆÇÆáÎÎÜÉ 1266 Û¾ÓÑÊåâüÎÎØáÄ¶ÅïÜÜÅÏÌ±Ìù÷äÅÉåøÙ­ÄæÇÙÒüÏ¯¡¢÷äÅÉåµËçÄ©ÍáÛ¹æÚÛ¾à¡¡¤
 
-²Ä 6 ¸`¡u·Ç¾Úªk¤Î¾A¥Î¦a°Ï¡v
+ÜÉ 6 åç¡ÖäíðãÎÎÅ¯ïËÆîÇâÙ´¡×
 
-¶È¦b²Ä a ¬q²Ä¤@¥y¤¤¡A±N¡u°õ¦æ±ÂÅv¥æ©ö©Ò¦b°ê®a©Î¦a°Ï¡v§ï¬°¤U¦Cµü»y¡G
+ã¯ÇãÜÉ a ÑôÜÉÄ¡Æ»Äã¡¢Ùò¡ÖÙÚÈçÚæûâÇ¨ÍøÍÔÇãÙÏÕ¥ÍÐÇâÙ´¡×ÊÑÒ³Ä¶ÇÄâ¤ë£¡¨
 
-¦b¬Z®H¹ë¡B¼d°ê¡G¬ü°ê¯Ã¬ù¦{
+ÇãÑÝÔêèÓ¡£ìÎÙÏ¡¨Ó¡ÙÏ×ÆÒüÇü
 
-¦b¿D¬w¡G¥æ©ö°õ¦æ¤§¦{/¬Ù©Î°Ï°ì
+Çãñ®Ñú¡¨Ç¨ÍøÙÚÈçÄæÇü/ÒÜÍÐÙ´ÙÑ
 
-¦b­»´ä¡G¤¤µØ¤H¥Á¦@©M°ê­»´ä¯S§O¦æ¬F°Ï
+ÇãÓüà«¡¨ÄãáÞÄ©ÆáÇÁÌÏÙÏÓüà«ÖÖÉ±ÈçÑÉÙ´
 
-¦b¿Dªù¡G¤¤µØ¤H¥Á¦@©M°ê­»´ä¯S§O¦æ¬F°Ï
+Çãñ®ÏÜ¡¨ÄãáÞÄ©ÆáÇÁÌÏÙÏÓüà«ÖÖÉ±ÈçÑÉÙ´
 
-¦bÁú°ê¡G¤jÁú¥Á°ê¡A¨Ã¨ü¤jÁú¥Á°ê­ºº¸¤¤¥¡°Ïªk°|ºÞÁÒ
+Çãö§ÙÏ¡¨ÄËö§ÆáÙÏ¡¢ËäÌ¿ÄËö§ÆáÙÏÓûéßÄãÆÁÙ´ÎÎØáê§õÝ
 
-¦b¥xÆW¡G¥xÆW
+ÇãÆºý¤¡¨Æºý¤
 
-¦b¦L«×¡G¦L«×
+ÇãÇÍÐù¡¨ÇÍÐù
 
-¦b²Ä b ¬q²Ä¤@¥y²Ä ii) ¶µ¤¤¡u¥]¬A¡v¤@µü¤§«á¤Î¡u§ÜÅG¡v¤@µü¤§«e¼W¦C¥H¤U¤å¥y¡G
+ÇãÜÉ b ÑôÜÉÄ¡Æ»ÜÉ ii) âúÄã¡ÖÅýÑÄ¡×Ä¡â¤ÄæÑ¥Å¯¡ÖÊ¾û³¡×Ä¡â¤ÄæÐ©ìÁÇÄÅèÄ¶ÅÆÆ»¡¨
 
-¦b¤é¥»¡G¤é¥»ªk«ß¤Î
+ÇãÅÊÆÛ¡¨ÅÊÆÛÎÎÑ£Å¯
 
-¦b²Ä a ¬q²Ä¤G¥y¡A±N¡u°õ¦æ±ÂÅv¨ú±o¥æ©ö©Ò¦b°ê®a©Î¦a°Ï¤º¦³®Ä¡F©ÎªÌ¡A­Y IBM ¦P·N®É¡A¥ç©ó¡uµ{¦¡¡v¥Î©ó¥¿¦¡§@·~¤§°ê®a©Î¦a°Ï¤º¡v§ï¬°¤U¦Cµü»y¡G
+ÇãÜÉ a ÑôÜÉÄ¨Æ»¡¢Ùò¡ÖÙÚÈçÚæûâÌ½ÚµÇ¨ÍøÍÔÇãÙÏÕ¥ÍÐÇâÙ´ÄùÈ´Õæ¡§ÍÐÏ¯¡¢Ó¼ IBM ÇÑãôÕë¡¢Ç©Íõ¡Öá£È¢¡×ÆîÍõÆßÈ¢É¢äÆÄæÙÏÕ¥ÍÐÇâÙ´Äù¡×ÊÑÒ³Ä¶ÇÄâ¤ë£¡¨
 
-¦b­»´ä¡G¤¤µØ¤H¥Á¦@©M°ê­»´ä¯S§O¦æ¬F°Ï
+ÇãÓüà«¡¨ÄãáÞÄ©ÆáÇÁÌÏÙÏÓüà«ÖÖÉ±ÈçÑÉÙ´
 
-¦b¿Dªù¡G¤¤µØ¤H¥Á¦@©M°ê¿Dªù¯S§O¦æ¬F°Ï
+Çãñ®ÏÜ¡¨ÄãáÞÄ©ÆáÇÁÌÏÙÏñ®ÏÜÖÖÉ±ÈçÑÉÙ´
 
-¦b¥xÆW¡G¥xÆW
+ÇãÆºý¤¡¨Æºý¤
 
-·s¼W¦Ü¥»¸`¸`¥½¡A¥t¦¨·s¬q¸¨²Ä d ¬q¡G
+ä»ìÁÈÝÆÛåçåçÆÝ¡¢Æ¶È©ä»Ñôæ¯ÜÉ d Ñô¡¨
 
-¦b¬Z®H¹ë¡B¼d°ê¡Bµá«ß»«¤Î´µ¨½Äõ¥d¡G¤@¤Áª§Ä³¡A±x¥H¨Ì·s¥[©Y°ê»Ú¥òµô¤¤¤ß (Singapore International Arbitration Center) ¤§¥òµô³W«h¡]¡uSIAC ³W«h¡v¡^©ó·s¥[©Y©Ò¬°¥òµô¬°³Ì²×¤§¸Ñ¨M¡C
+ÇãÑÝÔêèÓ¡£ìÎÙÏ¡£áçÑ£ë³Å¯ßÚËÞû¢Æ¦¡¨Ä¡Å¢Îèú¾¡¢Ú¾ÅèËíä»ÅûÌÛÙÏëãÇ´áúÄãÅÀ (Singapore International Arbitration Center) ÄæÇ´áúÝ½Ð¬¡¾¡ÖSIAC Ý½Ð¬¡×¡¿Íõä»ÅûÌÛÍÔÒ³Ç´áúÒ³Þ²ÜÜÄææØÊî¡¤
 
-¦b¦L«×¡G¤@¤Áª§Ä³¡A±x©ó¦L«×¨¹¥[Ã¹º¸¡A¨Ì·í®É¦³®Ä¤§¡u1996 ¦~¥òµô»P½Õ¸Ñªk®×¡v¡A¥H­^¤å¬°©x¤è»y¨¥©Ò¬°¥òµô¬°³Ì²×¤§¸Ñ¨M¡Cª§Ä³¤¤¤§ª÷ÃB¤p©ó©Îµ¥©ó¤­¤d¸U¦L«×¿c¤ñªÌ¡AÀ³¦³¤@¦ì¥òµô¤H¡F¹O¸Óª÷ÃBªÌ¡AÀ³¦³¤T¦ì¥òµô¤H¡C¥òµô¤H¦p¦³§ó´«¡A«áÄòµ{§ÇÀ³¥ÑÄa¯Êµo¥Í®É¤§¶¥¬qÄ~Äò¶i¦æ¡C
+ÇãÇÍÐù¡¨Ä¡Å¢Îèú¾¡¢Ú¾ÍõÇÍÐùËÚÅûøåéß¡¢ËíåµÕëÈ´ÕæÄæ¡Ö1996 È¡Ç´áúêØîþæØÎÎÕù¡×¡¢ÅèÓÁÅÆÒ³ÌúÅÉë£ËÆÍÔÒ³Ç´áúÒ³Þ²ÜÜÄææØÊî¡¤Îèú¾ÄãÄæÏÚ÷ìÄÑÍõÍÐá«ÍõÄìÄÅåÜÇÍÐùñÍÅÒÏ¯¡¢óÜÈ´Ä¡ÈíÇ´áúÄ©¡§ç·æÚÏÚ÷ìÏ¯¡¢óÜÈ´ÄµÈíÇ´áúÄ©¡¤Ç´áúÄ©ÇñÈ´ÊÕßÐ¡¢Ñ¥úýá£Ê©óÜÆñùì×ÍàõÆíÕëÄæâêÑôú«úýâÐÈç¡¤
 
-¦b¦L¥§¡G¤@¤Áª§Ä³¡A±x¨Ì 1997 ¦~¦¨¥ß¤§¡u¦L¥§°ê»Ú¥òµô©e­û·|¡v(Badan Arbitrase Nasional Indonesia, BANI) ©Ò­q³W«h¡A©ó¦L¥§¶®¥[¹F¡]¥Ñ BANI ´xºÞ¡^©Ò¬°¥òµô¬°³Ì²×¤§¸Ñ¨M¡C¦¹¥òµô§PÂ_¬°¹ïÂù¤è·í¨Æ¤H¤§³Ì²×¥B¨ã¬ù§ô¤O¤§§PÂ_¡A¤£±o¤W¶D¡A¥BÀ³¥H®Ñ­±¬°¤§¡A¨Ã¹F¦¨¨Æ¹ê»{©w»Pªk«ßµ²½×¡C
+ÇãÇÍÆÇ¡¨Ä¡Å¢Îèú¾¡¢Ú¾Ëí 1997 È¡È©Ç¡Äæ¡ÖÇÍÆÇÙÏëãÇ´áúÌçÔÞäÄ¡×(Badan Arbitrase Nasional Indonesia, BANI) ÍÔÓÔÝ½Ð¬¡¢ÍõÇÍÆÇâóÅûç®¡¾Æñ BANI ß¿ê§¡¿ÍÔÒ³Ç´áúÒ³Þ²ÜÜÄææØÊî¡¤ÈºÇ´áúÉ²öËÒ³è×÷äÅÉåµËçÄ©ÄæÞ²ÜÜÅâÌ¦ÒüÊÖÄ°ÄæÉ²öË¡¢ÄâÚµÄ¸â«¡¢ÅâóÜÅèÕóÓòÒ³Äæ¡¢Ëäç®È©ËçèÒë¥ÌùêØÎÎÑ£á¸ï¢¡¤
 
-¦b¤¤µØ¤H¥Á¦@©M°ê¡G·í¨Æ¤H¤§¤@¤è§¡¦³Åv±Nª§Ä³¥æ¥Ñ¦ì©ó¤¤µØ¤H¥Á¦@©M°ê¥_¨Ê¤§¡u¤¤°ê°ê»Ú¸gÀÙ¶T©ö¥òµô©e­û·|¡v(China International Economic and Trade Arbitration Commission) ¶i¦æ¥òµô¡CÂù¤è·í¨Æ¤H¦P·N«ü¬£¥òµô¤H¤T¦W¡A¥H¸Ñ¨Mª§Ä³¡C
+ÇãÄãáÞÄ©ÆáÇÁÌÏÙÏ¡¨åµËçÄ©ÄæÄ¡ÅÉÉáÈ´ûâÙòÎèú¾Ç¨ÆñÈíÍõÄãáÞÄ©ÆáÇÁÌÏÙÏÆ¡ËëÄæ¡ÖÄãÙÏÙÏëãåîô¤â»ÍøÇ´áúÌçÔÞäÄ¡×(China International Economic and Trade Arbitration Commission) âÐÈçÇ´áú¡¤÷äÅÉåµËçÄ©ÇÑãôÑÀÒ¦Ç´áúÄ©ÄµÇØ¡¢ÅèæØÊîÎèú¾¡¤
 
-¦b¶V«n¡G¤@¤Áª§Ä³¡A±x¨Ì¶V«n°ê»Ú¥òµô¤¤¤ß (Vietnam International Arbitration Centre) ¤§¥òµô³W«h¡]¡uVIAC ³W«h¡v¡^©ó¶V«n©Ò¬°¥òµô¬°³Ì²×¤§¸Ñ¨M¡C©Ò´£¥æ¤§¤@¤Áªk«ßµ{§Ç»P¤å¥ó¤@«ß±Ä¥Î­^¤å¡C
+Çãâ½Ð²¡¨Ä¡Å¢Îèú¾¡¢Ú¾Ëíâ½Ð²ÙÏëãÇ´áúÄãÅÀ (Vietnam International Arbitration Centre) ÄæÇ´áúÝ½Ð¬¡¾¡ÖVIAC Ý½Ð¬¡×¡¿Íõâ½Ð²ÍÔÒ³Ç´áúÒ³Þ²ÜÜÄææØÊî¡¤ÍÔßÈÇ¨ÄæÄ¡Å¢ÎÎÑ£á£Ê©êØÅÆÇµÄ¡Ñ£ÚèÆîÓÁÅÆ¡¤
 
-²Ä 7 ¸`¡u¤@¯ë±ø´Ú¡v
+ÜÉ 7 åç¡ÖÄ¡×ïÛ¾à¡¡×
 
-¦b²Ä j ¬q²Ä¤G¥y¤¤¡A±N¡u¤G¦~¡v§ï¬°¤U¦Cµü»y¡G
+ÇãÜÉ j ÑôÜÉÄ¨Æ»Äã¡¢Ùò¡ÖÄ¨È¡¡×ÊÑÒ³Ä¶ÇÄâ¤ë£¡¨
 
-¦b¦L«×¡G¤T¦~
+ÇãÇÍÐù¡¨ÄµÈ¡
 
-±N¤U¬q·s¬q¸¨ l ·s¼W¦Ü¥»¸`¸`¥½¡G
+ÙòÄ¶Ñôä»Ñôæ¯ l ä»ìÁÈÝÆÛåçåçÆÝ¡¨
 
-¦b¦L¥§¡G¥»¦X¬ù¥H­^¤å»P¦L¥§¤åµ¥ª©¥»§@¦¨¡C¦b¾A¥Îªk«ß³\¥i½d³ò¤º¡A«e´¦ª©¥»¦³¬»Ä²ªÌ¡AÀu¥ý¾A¥Î­^¤åª©¥»¡C
+ÇãÇÍÆÇ¡¨ÆÛÇÙÒüÅèÓÁÅÆêØÇÍÆÇÅÆá«ÎêÆÛÉ¢È©¡¤ÇãïËÆîÎÎÑ£ÝÂÆ«î¯ÞØÄù¡¢Ð©ßËÎêÆÛÈ´Ò¾ú½Ï¯¡¢óÀÇ¿ïËÆîÓÁÅÆÎêÆÛ¡¤
 
-3. ¼Ú¬w¡B¤¤ªF¤Î«D¬w
+3. íÄÑú¡£ÄãÎ©Å¯ÏæÑú
 
-²Ä 3 ¸`¡u¦¬¶O¡Bµ|®½¡B¥I´Ú¤Î´`³WÅçÃÒ¡v
+ÜÉ 3 åç¡ÖÈ­â¶¡£á¤Õß¡£Åéà¡Å¯ß§Ý½üÓøý¡×
 
-©ó²Ä b ¬q²Ä¤T¥y¥y¥½¼W¦C¥H¤U¤å¥y¡G
+ÍõÜÉ b ÑôÜÉÄµÆ»Æ»ÆÝìÁÇÄÅèÄ¶ÅÆÆ»¡¨
 
-¦b¸q¤j§Q¡G­Y IBM ¥H®Ñ­±³qª¾­n¨D³Q±ÂÅv¤H¡C
+ÇãåøÄËÉ³¡¨Ó¼ IBM ÅèÕóÓòÝ×Ï¡ÓÑÊåÝ·ÚæûâÄ©¡¤
 
-¦b¯Q§JÄõ¡G¡A©ó©µ¿ð´Á¶¡¡A¨Ì¡u¯Q§JÄõ°ê®a»È¦æ¡v(National Bank of Ukraine, NBU) ©Ò©w§é¦©¶O²v¤G­¿¤§§Q²v¡A«ö¦U©µ¿ð¤é¤ñ¨Ò¤À°t¡A¤ä¥I¨ì´Á¤é²Ý¤é°_¦Ü¹ê»Ú¥I´Ú¤é¤î¤§¹O´Áª÷ÃB¡]¤£¾A¥Î¡u¯Q§JÄõ°Óªk¨å¡v²Ä 232 ±ø²Ä 6 ´Ú¡^¡C
+ÇãÖÔÉ¬û¢¡¨¡¢ÍõÍ·òÚßæâæ¡¢Ëí¡ÖÖÔÉ¬û¢ÙÏÕ¥ëÑÈç¡×(National Bank of Ukraine, NBU) ÍÔÌùÊËÈªâ¶ÛûÄ¨Ô¢ÄæÉ³Ûû¡¢ÑºÇÖÍ·òÚÅÊÅÒËóÅ¡ØÙ¡¢ÅÅÅéÌ¯ßæÅÊÜâÅÊØÄÈÝèÒëãÅéà¡ÅÊÅÏÄæç·ßæÏÚ÷ì¡¾ÄâïËÆî¡ÖÖÔÉ¬û¢Ù¸ÎÎÌ¨¡×ÜÉ 232 Û¾ÜÉ 6 à¡¡¿¡¤
 
-¦b²Ä b ¬q¤¤¡A±N²Ä¤T¥y§ó§ï¬°¤U¥y¡G
+ÇãÜÉ b ÑôÄã¡¢ÙòÜÉÄµÆ»ÊÕÊÑÒ³Ä¶Æ»¡¨
 
-¦bªk°ê¡G´Ú¶µ¤ä¥I¸q°È©óµo²¼¤é´Á«á¤Q¤é¨ì´Á¡A¨ÃÀ³¥I´Ú¦Ü IBM «ü©w±b¤á¡A°£¶Å°È°l¦¬¶O¥Î 40 ¼Ú¤¸¡]­Y¶O¥Î¶W¹L 40 ¼Ú¤¸¡A«h¬°¨DÀvª÷ÃBºÞÁÒ°Ï³W©w¤§¸É¥R½ßÀvª÷¡^¥H¥~¡A¥t«ö³Ì·s¼Ú¬w¤¤¥¡»È¦æ§Q²v¥[ 10 ­Ó°òÂI¤§¶O²v¥[¦¬º¢¯Çª÷¡C
+ÇãÎÎÙÏ¡¨à¡âúÅÅÅéåøÙ­ÍõàõÜÁÅÊßæÑ¥Ä²ÅÊÌ¯ßæ¡¢ËäóÜÅéà¡ÈÝ IBM ÑÀÌùÚ¨ÅÂ¡¢Øæã¬Ù­ØÑÈ­â¶Æî 40 íÄÄ÷¡¾Ó¼â¶Æîâ¾ç´ 40 íÄÄ÷¡¢Ð¬Ò³ÊåóÁÏÚ÷ìê§õÝÙ´Ý½ÌùÄææÐÅòïªóÁÏÚ¡¿ÅèÆÀ¡¢Æ¶ÑºÞ²ä»íÄÑúÄãÆÁëÑÈçÉ³ÛûÅû 10 Ô¶Ù×öµÄæâ¶ÛûÅûÈ­éÉ×ÊÏÚ¡¤
 
-¦b«XÃ¹´µ¡G»ù´Ú¤ä¥I¸q°È©ó¦¬¨ìµo²¼®É¨ì´Á¡A¨ÃÀ³©óµo²¼¤é´Á«á¤T¤Q¤é¤º¡A¥H¹q¤l¸êª÷Âà±b¤§¤è¦¡¡A¥I´Ú¦Ü IBM «ü©w±b¤á¡C¹O¤T¤Q¤é¡A¨C¤éº¢¯Çª÷«ö 24% ¦~§Q²v­p¦¬¡C
+ÇãÏúøåßÚ¡¨ì¤à¡ÅÅÅéåøÙ­ÍõÈ­Ì¯àõÜÁÕëÌ¯ßæ¡¢ËäóÜÍõàõÜÁÅÊßæÑ¥ÄµÄ²ÅÊÄù¡¢ÅèçÙÄÍæñÏÚ÷ËÚ¨ÄæÅÉÈ¢¡¢Åéà¡ÈÝ IBM ÑÀÌùÚ¨ÅÂ¡¤ç·ÄµÄ²ÅÊ¡¢ÊäÅÊéÉ×ÊÏÚÑº 24% È¡É³ÛûÓÓÈ­¡¤
 
-©ó²Ä b ¬q³Ì«á¤@¥y¥y¥½¼W¦C¥H¤U¤å¥y¡G
+ÍõÜÉ b ÑôÞ²Ñ¥Ä¡Æ»Æ»ÆÝìÁÇÄÅèÄ¶ÅÆÆ»¡¨
 
-¦b¥ß³³©{¡G¡A©Îªk«ß¥t¦³³W©wªÌ°£¥~
+ÇãÇ¡Ý÷Ìý¡¨¡¢ÍÐÎÎÑ£Æ¶È´Ý½ÌùÏ¯ØæÆÀ
 
-¦b²Ä b ¬q¬q¥½¼W¦C¥H¤U¤å¥y¡G
+ÇãÜÉ b ÑôÑôÆÝìÁÇÄÅèÄ¶ÅÆÆ»¡¨
 
-¦b¸q¤j§Q¡G¦b¥¼¥I´Ú©Î³¡¤À¥I´Ú¡A¥B¿í´` IBM ¥i¯à¨Ì¾Úªk¥O n. 231 ²Ä 4 ±ø¡]¥Í®Ä¤é´Á¬° 2002 ¦~ 10 ¤ë 9 ¤é¡^¡]¤w¼o°£¡^¤Î¬Û¦Pªk¥O²Ä 7 ±ø¬I¦æ¤§¥¿¦¡¦©©è¥Ó³øµ{§Ç©Î¼f§Pµ{§Ç¤§±¡§Î¤U¡AIBM ±N¥H±¾¸¹¦^°õ¶l¥ó¡A¦V³Q±ÂÅv¤H¬°¨ì´Áº¢¯Çª÷®Ñ­±³qª¾¡C
+ÇãåøÄËÉ³¡¨ÇãÆÜÅéà¡ÍÐÝåÅ¡Åéà¡¡¢Åâò×ß§ IBM Æ«×äËíðãÎÎÅï n. 231 ÜÉ 4 Û¾¡¾ÆíÕæÅÊßæÒ³ 2002 È¡ 10 ÅÌ 9 ÅÊ¡¿¡¾ÄØìÙØæ¡¿Å¯ÒÞÇÑÎÎÅïÜÉ 7 Û¾ÑÌÈçÄæÆßÈ¢ÈªÍêÆóÞÞá£Ê©ÍÐìÐÉ²á£Ê©ÄæÚÅÊ°Ä¶¡¢IBM ÙòÅèÚâæÀÇßÙÚâÓÇµ¡¢Ç×Ý·ÚæûâÄ©Ò³Ì¯ßæéÉ×ÊÏÚÕóÓòÝ×Ï¡¡¤
 
-²Ä 4 ¸`¡u½ßÀv³d¥ô»P´¼¼z°]²£«OÅ@¡v
+ÜÉ 4 åç¡ÖïªóÁÝÊÇ¶êØßáìäØÂÜ¨Ïñû¬¡×
 
-¦b²Ä a ¬q²Ä¤@¥y¤§¡u³Q±ÂÅv¤H´N³y¦¨·l®`¤§­Ó§O¡uµ{¦¡¡v±ÂÅv©Ò¤ä¥I´Ú¶µ¡v«e´¡¤J¤U¥y¡G
+ÇãÜÉ a ÑôÜÉÄ¡Æ»Äæ¡ÖÝ·ÚæûâÄ©ÞóÝßÈ©ä´Õ¤ÄæÔ¶É±¡Öá£È¢¡×ÚæûâÍÔÅÅÅéà¡âú¡×Ð©ßÆÄ«Ä¶Æ»¡¨
 
-¦b¤ñ§Q®É¡Bªk°ê¡B¼w°ê¡B¸q¤j§Q¡B¿c´Ë³ù¡B°¨º¸¥L¡B¸²µå¤ú¤Î¦è¯Z¤ú¡G¤U¦Cª÷ÃB¸û°ªªÌ¡G50 ¸U¼Ú¤¸©Î
+ÇãÅÒÉ³Õë¡£ÎÎÙÏ¡£ìáÙÏ¡£åøÄËÉ³¡£ñÍßðÞß¡£ØëéßÅì¡£æ¹áëÅÛÅ¯ÈéÖÝÅÛ¡¨Ä¶ÇÄÏÚ÷ìç¤ØíÏ¯¡¨50 åÜíÄÄ÷ÍÐ
 
-¦b·Rº¸Äõ¤Î­^°ê¡G125% ¤§
+Çããøéßû¢Å¯ÓÁÙÏ¡¨125% Äæ
 
-¦b²Ä a ¬q²Ä¤@¥y¤¤¡A±N¡u³Q±ÂÅv¤H©Ò¨ü¤§ª½±µ¹ê»Ú·l®`¡v§ï¬°¤U¦Cµü»y¡G
+ÇãÜÉ a ÑôÜÉÄ¡Æ»Äã¡¢Ùò¡ÖÝ·ÚæûâÄ©ÍÔÌ¿ÄæÎþÚÙèÒëãä´Õ¤¡×ÊÑÒ³Ä¶ÇÄâ¤ë£¡¨
 
-¦b¦è¯Z¤ú¡G¦] IBM ¹H¬ù¦æ¬°ª½±µ­P³Q±ÂÅv¤H©Ò¨ü¹ê»Ú¥B¤wÃÒ©ú¤§·l®`
+ÇãÈéÖÝÅÛ¡¨ÇÞ IBM ç°ÒüÈçÒ³ÎþÚÙÓ³Ý·ÚæûâÄ©ÍÔÌ¿èÒëãÅâÄØøýÍüÄæä´Õ¤
 
-©ó²Ä a ¬q²Ä¤@¥y¤§«á´¡¤J¤U¦C·s¥y¡G
+ÍõÜÉ a ÑôÜÉÄ¡Æ»ÄæÑ¥ßÆÄ«Ä¶ÇÄä»Æ»¡¨
 
-¦b´µ¬¥¥ï§J¡G¡u½Ð°Ñ¾\²Ä 513/1991 ¸¹Êï©ã¾á«Oªk®×°Óªk¨å­×¥¿±ø´Ú²Ä 379 ±ø¡A¥»¦X¬ù¤§­q¥ß¡A´N¨ä¦³Ãö¤@¤Á±ø¥ó¡AÂù¤è·í¨Æ¤HÁn©úÁ`¹w­p·l®`½ßÀvª÷¡]±o²Ö­p¡^¤£±o¹O«e´¦ª÷ÃB¡A¨Ã¬° IBM À³­t³d¤§ª÷ÃB¤W­­¡C¡v
+ÇãßÚÒ¨Ç±É¬¡¨¡ÖîùÙ¶ïåÜÉ 513/1991 æÀŽ¢¤±ÍåðêÏñÎÎÕùÙ¸ÎÎÌ¨ÔºÆßÛ¾à¡ÜÉ 379 Û¾¡¢ÆÛÇÙÒüÄæÓÔÇ¡¡¢ÞóÌ§È´ùÃÄ¡Å¢Û¾Çµ¡¢÷äÅÉåµËçÄ©ôøÍüôêçßÓÓä´Õ¤ïªóÁÏÚ¡¾ÚµÜÛÓÓ¡¿ÄâÚµç·Ð©ßËÏÚ÷ì¡¢ËäÒ³ IBM óÜÓ×ÝÊÄæÏÚ÷ìÄ¸Óî¡¤¡×
 
-©ó²Ä a ¬q²Ä¤G¥y¤§«e´¡¤J¤U¦C·s¥y¡G
+ÍõÜÉ a ÑôÜÉÄ¨Æ»ÄæÐ©ßÆÄ«Ä¶ÇÄä»Æ»¡¨
 
-¦b«XÃ¹´µ¡GIBM ´N©ß±ó¤§§Q¯q¤£­t½ßÀv³d¥ô¡C
+ÇãÏúøåßÚ¡¨IBM ÞóÍáÛ¹ÄæÉ³ÖôÄâÓ×ïªóÁÝÊÇ¶¡¤
 
-¦b²Ä a ¬q²Ä¤G¥y¤¤¡A§R°£¤U¦Cµü»y¡G
+ÇãÜÉ a ÑôÜÉÄ¨Æ»Äã¡¢É´ØæÄ¶ÇÄâ¤ë£¡¨
 
-¦b·Rº¸Äõ¤Î­^°ê¡G¸gÀÙ
+Çããøéßû¢Å¯ÓÁÙÏ¡¨åîô¤
 
-±N²Ä a ¬q¤¤¡A±N²Ä¤G¥y§ï¬°¤U¥y¡G
+ÙòÜÉ a ÑôÄã¡¢ÙòÜÉÄ¨Æ»ÊÑÒ³Ä¶Æ»¡¨
 
-¦b¤ñ§Q®É¡B²üÄõ¤Î¿c´Ë³ù¡GIBM ¹ï©ó¶¡±µ·l®`©Î­l¥Í©Ê·l®`¡B©Ò¥¢§Q¯q¡B°Ó·~¾÷·|¡B»ù­È´î·l¡BÀç¦¬¡B°ÓÅA¡B«HÅA¨ü·l©Î¹w´Á¸`¬Ù¤§¦¨¥»¡B²Ä¤T¤H¹ï³Q±ÂÅv¤H©Ò¬°¨DÀv¡A¥H¤Î¸ê®Æ¤§·À¥¢¡]©Î·lÃa¡^¡A¤£­t½ßÀv³d¥ô¡C
+ÇãÅÒÉ³Õë¡£Ý£û¢Å¯ñÍßðÞß¡¨IBM è×ÍõâæÚÙä´Õ¤ÍÐÓÏÆíÍÌä´Õ¤¡£ÍÔÆÂÉ³Öô¡£Ù¸äÆñ¢äÄ¡£ì¤Ô«àµä´¡£ô²È­¡£Ù¸û­¡£Ïêû­Ì¿ä´ÍÐçßßæåçÒÜÄæÈ©ÆÛ¡£ÜÉÄµÄ©è×Ý·ÚæûâÄ©ÍÔÒ³ÊåóÁ¡¢ÅèÅ¯æñÕèÄæäæÆÂ¡¾ÍÐä´ø®¡¿¡¢ÄâÓ×ïªóÁÝÊÇ¶¡¤
 
-¦bªk°ê¡GIBM ¹ï©ó«HÅA¨ü·l¡B¶¡±µ·l®`©Î©Ò¥¢§Q¯q¡B°Ó·~¾÷·|¡B»ù­È´î·l¡BÀç¦¬¡B°ÓÅA©Î¹w´Á¸`¬Ù¤§¦¨¥»¡A¤£­t½ßÀv³d¥ô¡C
+ÇãÎÎÙÏ¡¨IBM è×ÍõÏêû­Ì¿ä´¡£âæÚÙä´Õ¤ÍÐÍÔÆÂÉ³Öô¡£Ù¸äÆñ¢äÄ¡£ì¤Ô«àµä´¡£ô²È­¡£Ù¸û­ÍÐçßßæåçÒÜÄæÈ©ÆÛ¡¢ÄâÓ×ïªóÁÝÊÇ¶¡¤
 
-¦b¸²µå¤ú¡GIBM ¹ï©ó¶¡±µ·l®`¡A¥]¬A§Q¯q·l¥¢¡A¤£­t½ßÀv³d¥ô¡C
+Çãæ¹áëÅÛ¡¨IBM è×ÍõâæÚÙä´Õ¤¡¢ÅýÑÄÉ³Öôä´ÆÂ¡¢ÄâÓ×ïªóÁÝÊÇ¶¡¤
 
-¦b¦è¯Z¤ú¡GIBM ¹ï©ó«HÅA¨ü·l©Î©Ò¥¢§Q¯q¡B°Ó·~¾÷·|¡B»ù­È´î·l¡BÀç¦¬¡B°ÓÅA©Î¹w´Á¸`¬Ù¤§¦¨¥»¡A¤£­t½ßÀv³d¥ô¡C
+ÇãÈéÖÝÅÛ¡¨IBM è×ÍõÏêû­Ì¿ä´ÍÐÍÔÆÂÉ³Öô¡£Ù¸äÆñ¢äÄ¡£ì¤Ô«àµä´¡£ô²È­¡£Ù¸û­ÍÐçßßæåçÒÜÄæÈ©ÆÛ¡¢ÄâÓ×ïªóÁÝÊÇ¶¡¤
 
-±N¥H¤U¤å¥y·s¼W¦Ü²Ä a ¬q¬q¥½¡G
+ÙòÅèÄ¶ÅÆÆ»ä»ìÁÈÝÜÉ a ÑôÑôÆÝ¡¨
 
-¦bªk°ê¡G¥»¡u¦X¬ù¡v¤§±ø´Ú¡A¥]¬A°]°È±ø´Ú¡A«Y°ò©ó¥Ø«e±ø´Ú¤§¦Ò¶q©w¤§¡A¨ä¬°¥»¡u¦X¬ù¡v¤@¯ë¸gÀÙ¦Ò¶q¤§ºc¥ó¡C
+ÇãÎÎÙÏ¡¨ÆÛ¡ÖÇÙÒü¡×ÄæÛ¾à¡¡¢ÅýÑÄØÂÙ­Û¾à¡¡¢ÏûÙ×ÍõÆøÐ©Û¾à¡ÄæÈÓâØÌùÄæ¡¢Ì§Ò³ÆÛ¡ÖÇÙÒü¡×Ä¡×ïåîô¤ÈÓâØÄæé¬Çµ¡¤
 
-¦b²Ä b ¬q¤¤¡A±N¡u¾A¥Îªk«ß³W©w¤£±o¥H¦X¬ù­­¨î¤§·l®`½ßÀvª÷¡v§ï¬°¤U¦Cµü»y¡G
+ÇãÜÉ b ÑôÄã¡¢Ùò¡ÖïËÆîÎÎÑ£Ý½ÌùÄâÚµÅèÇÙÒüÓîÌ±Äæä´Õ¤ïªóÁÏÚ¡×ÊÑÒ³Ä¶ÇÄâ¤ë£¡¨
 
-¦b¼w°ê¡G i) ¤H¨­¶Ë®`¡]¥]¬A¦º¤`¡^¤§½ßÀv¡Fii) IBM ´N¥»¡u¦X¬ù¡v¶µ¤U¥æ©ö¡A¦]¹H¤Ï IBM ©Ò©Ó¾á«OÃÒ©Ò­P·l¥¢©Î·l®`¡F¤Î iii) ¦]¬G·N©Î­«¤j¹L¥¢©Ò­P·l¥¢©Î·l®`¡C
+ÇãìáÙÏ¡¨ i) Ä©ËÎã²Õ¤¡¾ÅýÑÄÈ»ÄÁ¡¿ÄæïªóÁ¡§ii) IBM ÞóÆÛ¡ÖÇÙÒü¡×âúÄ¶Ç¨Íø¡¢ÇÞç°Å° IBM ÍÔÍÕðêÏñøýÍÔÓ³ä´ÆÂÍÐä´Õ¤¡§Å¯ iii) ÇÞÑÊãôÍÐÓìÄËç´ÆÂÍÔÓ³ä´ÆÂÍÐä´Õ¤¡¤
 
-²Ä 6 ¸`¡u·Ç¾Úªk¤Î¾A¥Î¦a°Ï¡v
+ÜÉ 6 åç¡ÖäíðãÎÎÅ¯ïËÆîÇâÙ´¡×
 
-¶È¦b²Ä a ¬q²Ä¤@¥y¤¤¡A±N¡u°õ¦æ±ÂÅv¥æ©ö©Ò¦b°ê®a©Î¦a°Ï¤§ªk«ß¡v§ï¬°¡G
+ã¯ÇãÜÉ a ÑôÜÉÄ¡Æ»Äã¡¢Ùò¡ÖÙÚÈçÚæûâÇ¨ÍøÍÔÇãÙÏÕ¥ÍÐÇâÙ´ÄæÎÎÑ£¡×ÊÑÒ³¡¨
 
-¦bªüº¸¤Ú¥§¨È¡B¨È¬ü¥§¨È¡B¨È¶ë«ôµM¡B¥Õ«XÃ¹´µ¡Bªi¤h¥§¨È»P»®¶ë­ôºû¯Ç¡B«O¥[§Q¨È¡B§JÃ¹®J¦è¨È¦@©M°ê¡B«e«n´µ©Ô¤Ò°¨¨ä¹y¦@©M°ê¡B³ìªv¨È¡B«¢ÂÄ§J¡B¦Nº¸¦N´µ¡B¼¯º¸¦h¥Ë¡B»X¯S¤º­ôÃ¹¦@©M°ê¡BÃ¹°¨¥§¨È¡B«XÃ¹´µ¡B¶ëº¸ºû¨È¡B¶ð¦N§J¡B¤g®w°Ò¡B¯Q§JÄõ¤Î¯Q¯÷§O§J¡G¶ø¦a§Q
+ÇãÏßéßÅ»ÆÇËé¡£ËéÓ¡ÆÇËé¡£ËéãÒÑ¸àÓ¡£ÆõÏúøåßÚ¡£ÎÌÄÉÆÇËéêØë¶ãÒÔ×êÄ×Ê¡£ÏñÅûÉ³Ëé¡£É¬øåÔìÈéËéÇÁÌÏÙÏ¡£Ð©Ð²ßÚÍÖÅ³ØëÌ§çáÇÁÌÏÙÏ¡£ÞÒÎÙËé¡£ÐÄ÷°É¬¡£ÇÏéßÇÏßÚ¡£ì÷éßÇéÆë¡£êàÖÖÄùÔ×øåÇÁÌÏÙÏ¡£øåØëÆÇËé¡£ÏúøåßÚ¡£ãÒéßêÄËé¡£ã×ÇÏÉ¬¡£ÄÈÕ»Ù·¡£ÖÔÉ¬û¢Å¯ÖÔ×ûÉ±É¬¡¨ãßÇâÉ³
 
-¦b·R¨F¥§¨È¡B©Ô²æºû¨È¤Î¥ß³³©{¡GªâÄõ
+ÇããøÊçÆÇËé¡£ÍÖÜëêÄËéÅ¯Ç¡Ý÷Ìý¡¨ÏÅû¢
 
-¦bªüº¸¤Î§Q¨È¡B¦w¹Dº¸¡B¨©«n¡B¥¬¦N¯Çªk¯Á¡B»Z¶©¦a¡B³Ø³Á¶©¡Bºû¼w¨¤¡B¤¤«D¦@©M°ê¡B¬d¼w¡B¸¯¼¯¡B­èªG¦@©M°ê¡B¦N¥¬¦a¦@©M°ê¡B­èªG¥Á¥D¦@©M°ê¡B¨ª¹D´X¤º¨È¡BªkÄÝ¦c¨È¨º¡BªkÄÝªi¨½¥§¦è¨È¡B¥[´^¡B´X¤º¨È¡B´X¤º¨È¤ñ¯Á¡B¶H¤ú®ü©¤¡B¾¤¤Ú¹à¡B°¨¹F¥[´µ¥[¡B°¨§Q¡B­T§Q¶ð¥§¨È¡B¼Ò¨½¦è´µ¡B°¨¬ù¯S®q¡B¼¯¬¥­ô¡B·s³Ø¨½¦h¥§¨È¡B¥§¤é¡B¯d¥§©ô®q¡B¶ë¤º¥[º¸¡B¶ë®uº¸¡B¦h­ô¡B¬ð¥§¦è¨È¡B¸U¨º§ù¦@©M°ê¤Î¨U¨½´µ»P¥ñ¶ð¨º¡Gªk°ê
+ÇãÏßéßÅ¯É³Ëé¡£Çøç¬éß¡£ËÊÐ²¡£ÆÌÇÏ×ÊÎÎ×Ä¡£êââîÇâ¡£Þ¾Þ§âî¡£êÄìáËÅ¡£ÄãÏæÇÁÌÏÙÏ¡£Ñçìá¡£æ¶ì÷¡£ÔËÎªÇÁÌÏÙÏ¡£ÇÏÆÌÇâÇÁÌÏÙÏ¡£ÔËÎªÆáÅäÇÁÌÏÙÏ¡£ËËç¬ÞýÄùËé¡£ÎÎúèÇäËéËÛ¡£ÎÎúèÎÌËÞÆÇÈéËé¡£Åûß¥¡£ÞýÄùËé¡£ÞýÄùËéÅÒ×Ä¡£â¯ÅÛÖÀÍ¦¡£ð­Å»èÈ¡£Øëç®ÅûßÚÅû¡£ØëÉ³¡£Ó·É³ã×ÆÇËé¡£í¼ËÞÈéßÚ¡£ØëÒüÖÖÕµ¡£ì÷Ò¨Ô×¡£ä»Þ¾ËÞÇéÆÇËé¡£ÆÇÅÊ¡£ÖçÆÇÍöÕµ¡£ãÒÄùÅûéß¡£ãÒÕ¹éß¡£ÇéÔ×¡£ÒóÆÇÈéËé¡£åÜËÛÊÛÇÁÌÏÙÏÅ¯ÊöËÞßÚêØÇ³ã×ËÛ¡¨ÎÎÙÏ
 
-¦b¦w­ô©Ô¡B¤ÚªL¡Bªi¥¾¨º¡B®J¤Î¡B¤Ì¥ß¯S¨½¨È¡B¦ç¯Á¤ñ¨È¡B¥Ì¤ñ¨È¡B­{¯Ç¡B¥ì©Ô§J¡B¬ù¥¹¡BªÖ¨È¡B¬ì«Â¯S¡B¿à¤ñ·ç¨È¡B°¨©Ô«Â¡B°¨º¸¥L¡B²ö¤T¤ñ§J¡B©`¤Î§Q¨È¡Bªü°Ò¡B¤Ú°ò´µ©Z¡B¥d¹F¡B¿c¦w¹F¡B¸t¦h¬ü»P´¶ªL¦è¤ñ¡B¨F¯Q¦aªü©Ô§B¡B·à¤l¤s¡B¯Á°¨§Q¨È¡B©Z©|¥§¨È¡B¯Q¤z¹F¡Bªü©Ô§BÁp¦X¤j¤½°ê¡B¦è©¤/­{ÂÄ¨«´Y¡B¸­ªù¡B©|¤ñ¨È¤Î¨¯¤Ú«Â¡G­^®æÄõ
+ÇãÇøÔ×ÍÖ¡£Å»Î¯¡£ÎÌÆÞËÛ¡£ÔìÅ¯¡£Å­Ç¡ÖÖËÞËé¡£Èè×ÄÅÒËé¡£ÆìÅÒËé¡£ÓÞ×Ê¡£Ç®ÍÖÉ¬¡£ÒüÆÙ¡£Ï¹Ëé¡£ÒïÐäÖÖ¡£òÊÅÒå¯Ëé¡£ØëÍÖÐä¡£ØëéßÅì¡£ÜûÄµÅÒÉ¬¡£ÌâÅ¯É³Ëé¡£ÏßÙ·¡£Å»Ù×ßÚÌÜ¡£Æ¦ç®¡£ñÍÇøç®¡£åûÇéÓ¡êØßÛÎ¯ÈéÅÒ¡£ÊçÖÔÇâÏßÍÖÉ¤¡£å¨ÄÍÄÔ¡£×ÄØëÉ³Ëé¡£ÌÜÌþÆÇËé¡£ÖÔÄÛç®¡£ÏßÍÖÉ¤ôúÇÙÄËÄüÙÏ¡£ÈéÍ¦/ÓÞ÷°ËÌÞþ¡£æ´ÏÜ¡£ÌþÅÒËéÅ¯ËÐÅ»Ðä¡¨ÓÁÖªû¢
 
-¦b¦C¤ä´°´µµn¡G·ç¤h
+ÇãÇÄÅÅßÕßÚàô¡¨å¯ÄÉ
 
-¦b«n«D¡B¯Ç¦Ì¤ñ¨È¡B¿à¯Á¦«¤Î¥v¥ËÀÙÄõ¡G«n«D¦@©M°ê
+ÇãÐ²Ïæ¡£×ÊÈÍÅÒËé¡£òÊ×ÄÈ¬Å¯Æ¸Æëô¤û¢¡¨Ð²ÏæÇÁÌÏÙÏ
 
-¦b­^°ê¡G­^®æÄõ
+ÇãÓÁÙÏ¡¨ÓÁÖªû¢
 
-©ó²Ä a ¬q²Ä¤@¥y¥y¥½¼W¦C¥H¤U¤å¥y¡G
+ÍõÜÉ a ÑôÜÉÄ¡Æ»Æ»ÆÝìÁÇÄÅèÄ¶ÅÆÆ»¡¨
 
-¦bªk°ê¡GÂù¤è·í¨Æ¤H¦P·N¤£¾A¥Îªk°ê¥Áªk²Ä 1222 ±ø¤Î²Ä 1223 ±ø¡C
+ÇãÎÎÙÏ¡¨÷äÅÉåµËçÄ©ÇÑãôÄâïËÆîÎÎÙÏÆáÎÎÜÉ 1222 Û¾Å¯ÜÉ 1223 Û¾¡¤
 
-±N¥H¤U¤å¥y·s¼W¦Ü²Ä a ¬q¬q¥½¡G
+ÙòÅèÄ¶ÅÆÆ»ä»ìÁÈÝÜÉ a ÑôÑôÆÝ¡¨
 
-¦bªüº¸¤Ú¥§¨È¡B¨È¬ü¥§¨È¡B¨È¶ë«ôµM¡B¥Õ«XÃ¹´µ¡Bªi¤h¥§¨È»P»®¶ë­ôºû¯Ç¡B«O¥[§Q¨È¡B§JÃ¹®J¦è¨È¦@©M°ê¡B«e°¨¨ä¹y«n´µ©Ô¤Ò¦@©M°ê¡B³ìªv¨È¡B«¢ÂÄ§J¡B¬ì¯Á¨U¡B¦Nº¸¦N´µ¡B¼¯º¸¦h¥Ë¡B»X¯S¤º­ôÃ¹¦@©M°ê¡BÃ¹°¨¥§¨È¡B«XÃ¹´µ¡B¶ëº¸ºû¨È¡B¶ð¦N§J¡B¤g®w°Ò¡B¯Q§JÄõ¤Î¯Q¯Y§O§J¡G¥»¦X¬ù©Ò¥Í¤@¤Áª§Ä³¡A±x©ó¶ø¦a§Qºû¤]¯Ç¡A¨Ì¡u¶ø¦a§QÁp¨¹¸gÀÙ°Ó·|°ê»Ú¥òµô¤¤¤ß¡v(International Arbitral Centre of the Austrian Federal Economic Chamber)¡]¡u¥òµô¾÷ºc¡v¡^¥òµô³W«h¡]¡uºû¤]¯Ç³W«h¡v¡^«ü¬£¤§¤T¦W¤½¥¿¥òµô¤H¡A©ó¸Ó¥òµô¾÷ºc¨Ì¸Óµ¥¡uºû¤]¯Ç³W«h¡v¡A¥H­^¤å¬°©x¤è»y¨¥©Ò¬°¥òµô¬°³Ì²×¤§¸Ñ¨M¡C¦U¤è·í¨Æ¤H¦U´£¦W¤@¦ì¥òµô¤H¡A¥Ñ©Ò´£¦W¤§¥òµô¤H©ó¤T¤Q¤é¤ºÁp¦X«ü¬£¿W¥ß¥D®u¤@¦W¡A©Î¥Ñ¥òµô¾÷ºc¨Ìºû¤]¯Ç³W«h«ü¬£¸Ó¦W¥D®u¡C¥òµô¤H¥¼³Q±ÂÅvµô§P¡u¥»¦X¬ù¡v¤w±Æ°£©Î¶W¥X½d³ò¤§¸T¥O©Ê±ÏÀÙ©Î·l®`½ßÀvª÷¡C¥»¦X¬ù¤¤¤§¥ô¦ó±ø´Ú¡A§¡¤£±o¸T¤î¥ô¤@¤è·í¨Æ¤H ©ó¨ä°ò©ó¤U¦C¨Æ¥Ñ®É¶D½Ñ¥qªkµ{§Ç¡G(1) ¬°¨¾½d¦]±¡¸`­«¤j¤§¤£¤½¤¹¥òµô©Î¬°¨¾½d¹H¤Ï«O±K±ø´Ú©Î´¼¼z°]²£Åv©Ò¬°¤§¼È®É±ÏÀÙ¡F©Î (2) §PÂ_¤@¤è·í¨Æ¤H©Î¨ä¡u¥ø·~¡v¤½¥q©Ò¾Ö¦³©Î¥D±i¤§µÛ§@Åv¡B±M§QÅv©Î°Ó¼Ð¤§¦³®Ä©Ê©Î©Ò¦³Åv¡F©Î (3) ¬üª÷ 500,000.00 ¤¸¥H¤Uª÷ÃB¤§À³¦¬±b´Ú¡C
+ÇãÏßéßÅ»ÆÇËé¡£ËéÓ¡ÆÇËé¡£ËéãÒÑ¸àÓ¡£ÆõÏúøåßÚ¡£ÎÌÄÉÆÇËéêØë¶ãÒÔ×êÄ×Ê¡£ÏñÅûÉ³Ëé¡£É¬øåÔìÈéËéÇÁÌÏÙÏ¡£Ð©ØëÌ§çáÐ²ßÚÍÖÅ³ÇÁÌÏÙÏ¡£ÞÒÎÙËé¡£ÐÄ÷°É¬¡£Òï×ÄÊö¡£ÇÏéßÇÏßÚ¡£ì÷éßÇéÆë¡£êàÖÖÄùÔ×øåÇÁÌÏÙÏ¡£øåØëÆÇËé¡£ÏúøåßÚ¡£ãÒéßêÄËé¡£ã×ÇÏÉ¬¡£ÄÈÕ»Ù·¡£ÖÔÉ¬û¢Å¯ÖÔÖÜÉ±É¬¡¨ÆÛÇÙÒüÍÔÆíÄ¡Å¢Îèú¾¡¢Ú¾ÍõãßÇâÉ³êÄÄ¾×Ê¡¢Ëí¡ÖãßÇâÉ³ôúËÚåîô¤Ù¸äÄÙÏëãÇ´áúÄãÅÀ¡×(International Arbitral Centre of the Austrian Federal Economic Chamber)¡¾¡ÖÇ´áúñ¢é¬¡×¡¿Ç´áúÝ½Ð¬¡¾¡ÖêÄÄ¾×ÊÝ½Ð¬¡×¡¿ÑÀÒ¦ÄæÄµÇØÄüÆßÇ´áúÄ©¡¢ÍõæÚÇ´áúñ¢é¬ËíæÚá«¡ÖêÄÄ¾×ÊÝ½Ð¬¡×¡¢ÅèÓÁÅÆÒ³ÌúÅÉë£ËÆÍÔÒ³Ç´áúÒ³Þ²ÜÜÄææØÊî¡¤ÇÖÅÉåµËçÄ©ÇÖßÈÇØÄ¡ÈíÇ´áúÄ©¡¢ÆñÍÔßÈÇØÄæÇ´áúÄ©ÍõÄµÄ²ÅÊÄùôúÇÙÑÀÒ¦ñÁÇ¡ÅäÕ¹Ä¡ÇØ¡¢ÍÐÆñÇ´áúñ¢é¬ËíêÄÄ¾×ÊÝ½Ð¬ÑÀÒ¦æÚÇØÅäÕ¹¡¤Ç´áúÄ©ÆÜÝ·ÚæûâáúÉ²¡ÖÆÛÇÙÒü¡×ÄØÚêØæÍÐâ¾Åøî¯ÞØÄæåÛÅïÍÌÚóô¤ÍÐä´Õ¤ïªóÁÏÚ¡¤ÆÛÇÙÒüÄãÄæÇ¶ÈôÛ¾à¡¡¢ÉáÄâÚµåÛÅÏÇ¶Ä¡ÅÉåµËçÄ© ÍõÌ§Ù×ÍõÄ¶ÇÄËçÆñÕëâ«îúÆ³ÎÎá£Ê©¡¨(1) Ò³Ëßî¯ÇÞÚÅåçÓìÄËÄæÄâÄüÄøÇ´áúÍÐÒ³Ëßî¯ç°Å°ÏñÙïÛ¾à¡ÍÐßáìäØÂÜ¨ûâÍÔÒ³Äæí²ÕëÚóô¤¡§ÍÐ (2) É²öËÄ¡ÅÉåµËçÄ©ÍÐÌ§¡ÖÇºäÆ¡×ÄüÆ³ÍÔðßÈ´ÍÐÅäÚ¯ÄæááÉ¢ûâ¡£ÙñÉ³ûâÍÐÙ¸íºÄæÈ´ÕæÍÌÍÐÍÔÈ´ûâ¡§ÍÐ (3) Ó¡ÏÚ 500,000.00 Ä÷ÅèÄ¶ÏÚ÷ìÄæóÜÈ­Ú¨à¡¡¤
 
-¦b·R¨F¥§¨È¡B©Ô²æºû¨È¤Î¥ß³³©{¡G¥»¦X¬ù©Ò¥Í¤@¤Áª§Ä³¡A±x©óªâÄõ»®º¸¨¯°ò¡A¨Ì¡uªâÄõ°Ó·|¥òµô¾÷ºc¡v(Arbitration Institute of the Finland Chamber of Commerce, FAI)¡]¡u¥òµô¾÷ºc¡v¡^¥òµô³W«h¡]¡u³W«h¡v¡^«ü¬£¤§¤T¦ì¤½¥¿¥òµô¤H¡A©ó¸Ó¥òµô¾÷ºc¨Ì¸Óµ¥¡u³W«h¡v¡A¥H­^¤å¬°©x¤è»y¨¥©Ò¬°¥òµô¬°³Ì²×¤§¸Ñ¨M¡C¦U¤è·í¨Æ¤H¦U´£¦W¤@¦ì¥òµô¤H¡A¥Ñ©Ò´£¦W¤§¥òµô¤H©ó¤T¤Q¤é¤ºÁp¦X«ü¬£¿W¥ß¥D®u¤@¦W¡A©Î¥Ñ¥òµô¾÷ºc¨Ì¡u³W«h¡v«ü¬£¸Ó¦W¥D®u¡C¥òµô¤H¥¼³Q±ÂÅvµô§P¡u¥»¦X¬ù¡v¤w±Æ°£©Î¶W¥X½d³ò¤§¸T¥O©Ê±ÏÀÙ©Î·l®`½ßÀvª÷¡C¥»¦X¬ù¤¤¤§¥ô¦ó±ø´Ú¡A§¡¤£±o¸T¤î¥ô¤@¤è·í¨Æ¤H ©ó¨ä°ò©ó¤U¦C¨Æ¥Ñ®É¶D½Ñ¥qªkµ{§Ç¡G(1) ¬°¨¾½d¦]±¡¸`­«¤j¤§¤£¤½¤¹¥òµô©Î¬°¨¾½d¹H¤Ï«O±K±ø´Ú©Î´¼¼z°]²£Åv©Ò¬°¤§¼È®É±ÏÀÙ¡F©Î (2) §PÂ_¤@¤è·í¨Æ¤H©Î¨ä¡u¥ø·~¡v¤½¥q©Ò¾Ö¦³©Î¥D±i¤§µÛ§@Åv¡B±M§QÅv©Î°Ó¼Ð¤§¦³®Ä©Ê©Î©Ò¦³Åv¡F©Î (3) ¬üª÷ 500,000.00 ¤¸¥H¤Uª÷ÃB¤§À³¦¬±b´Ú¡C
+ÇããøÊçÆÇËé¡£ÍÖÜëêÄËéÅ¯Ç¡Ý÷Ìý¡¨ÆÛÇÙÒüÍÔÆíÄ¡Å¢Îèú¾¡¢Ú¾ÍõÏÅû¢ë¶éßËÐÙ×¡¢Ëí¡ÖÏÅû¢Ù¸äÄÇ´áúñ¢é¬¡×(Arbitration Institute of the Finland Chamber of Commerce, FAI)¡¾¡ÖÇ´áúñ¢é¬¡×¡¿Ç´áúÝ½Ð¬¡¾¡ÖÝ½Ð¬¡×¡¿ÑÀÒ¦ÄæÄµÈíÄüÆßÇ´áúÄ©¡¢ÍõæÚÇ´áúñ¢é¬ËíæÚá«¡ÖÝ½Ð¬¡×¡¢ÅèÓÁÅÆÒ³ÌúÅÉë£ËÆÍÔÒ³Ç´áúÒ³Þ²ÜÜÄææØÊî¡¤ÇÖÅÉåµËçÄ©ÇÖßÈÇØÄ¡ÈíÇ´áúÄ©¡¢ÆñÍÔßÈÇØÄæÇ´áúÄ©ÍõÄµÄ²ÅÊÄùôúÇÙÑÀÒ¦ñÁÇ¡ÅäÕ¹Ä¡ÇØ¡¢ÍÐÆñÇ´áúñ¢é¬Ëí¡ÖÝ½Ð¬¡×ÑÀÒ¦æÚÇØÅäÕ¹¡¤Ç´áúÄ©ÆÜÝ·ÚæûâáúÉ²¡ÖÆÛÇÙÒü¡×ÄØÚêØæÍÐâ¾Åøî¯ÞØÄæåÛÅïÍÌÚóô¤ÍÐä´Õ¤ïªóÁÏÚ¡¤ÆÛÇÙÒüÄãÄæÇ¶ÈôÛ¾à¡¡¢ÉáÄâÚµåÛÅÏÇ¶Ä¡ÅÉåµËçÄ© ÍõÌ§Ù×ÍõÄ¶ÇÄËçÆñÕëâ«îúÆ³ÎÎá£Ê©¡¨(1) Ò³Ëßî¯ÇÞÚÅåçÓìÄËÄæÄâÄüÄøÇ´áúÍÐÒ³Ëßî¯ç°Å°ÏñÙïÛ¾à¡ÍÐßáìäØÂÜ¨ûâÍÔÒ³Äæí²ÕëÚóô¤¡§ÍÐ (2) É²öËÄ¡ÅÉåµËçÄ©ÍÐÌ§¡ÖÇºäÆ¡×ÄüÆ³ÍÔðßÈ´ÍÐÅäÚ¯ÄæááÉ¢ûâ¡£ÙñÉ³ûâÍÐÙ¸íºÄæÈ´ÕæÍÌÍÐÍÔÈ´ûâ¡§ÍÐ (3) Ó¡ÏÚ 500,000.00 Ä÷ÅèÄ¶ÏÚ÷ìÄæóÜÈ­Ú¨à¡¡¤
 
-¦bªü´I¦½¡B¦w­ô©Ô¡B¤ÚªL¡Bªi¥¾¨º¡B»Z¶©¦a¡Bºû¼w¨¤¡B¦N¥¬¦a¦@©M°ê¡B®J¤Î¡B¤Ì¥ß¯S¨½¨È¡B¦ç¯Á¤ñ¨È¡B¥Ì¤ñ¨È¡B­{¯Ç¡B¥ì©Ô§J¡B¬ù¥¹¡BªÖ¨È¡B¬ì«Â¯S¡B¾¤¤Ú¹à¡B¿à¤ñ·ç¨È¡B§Q¤ñ¨È¡B°¨¹F¥[´µ¥[¡B°¨©Ô«Â¡B²ö¤T¤ñ§J¡B©`¤Î§Q¨È¡Bªü°Ò¡B¤Ú°ò´µ©Z¡B¤Ú°Ç´µ©Z³d¥ô°Ï¡B¥d¹F¡B¿c¦w¹F¡B¸t¦h¬ü»P´¶ªL¦è¤ñ¡B¨F¯Q¦aªü©Ô§B¡B¶ë®uº¸¡B·à¤l¤s¡B¯Á°¨§Q¨È¡BÄ¬¤¦¡B©Z©|¥§¨È¡B¯Q¤z¹F¡Bªü©Ô§BÁp¦X¤j¤½°ê¡B¦è¼»«¢©Ô¡B¸­ªù¡B©|¤ñ¨È¤Î¨¯¤Ú«Â¡G¤@¤Áª§Ä³¡A±x©ó­^°ê­Û´°¡A¨Ì­Û´°°ê»Ú¥òµô°| (London Court of International Arbitration, LCIA)¡]¡u¥òµô¾÷ºc¡v¡^¥òµô³W«h¡]¡u³W«h¡v¡^«ü¬£¤§¤T¦W¥òµô¤H¡A©ó¸Ó¥òµô¾÷ºc¨Ì¸Óµ¥¡u³W«h¡v¡A¥H­^¤å¬°©x¤è»y¨¥©Ò¬°¥òµô¬°³Ì²×¤§¸Ñ¨M¡C¦U¤è·í¨Æ¤H¦U´£¦W¤@¦ì¥òµô¤H¡A¥Ñ©Ò´£¦W¤§¥òµô¤H©ó¤T¤Q¤é¤ºÁp¦X«ü¬£¿W¥ß¥D®u¤@¦W¡A©Î¥Ñ¥òµô¾÷ºc¨Ì¡u³W«h¡v«ü¬£¸Ó¦W¥D®u¡C¥òµô¤H¥¼³Q±ÂÅvµô§P¡u¥»¦X¬ù¡v¤w±Æ°£©Î¶W¥X½d³ò¤§¸T¥O©Ê±ÏÀÙ©Î·l®`½ßÀvª÷¡C¥»¦X¬ù¤¤¤§¥ô¦ó±ø´Ú¡A§¡¤£±o¸T¤î¥ô¤@¤è·í¨Æ¤H ©ó¨ä°ò©ó¤U¦C¨Æ¥Ñ®É¶D½Ñ¥qªkµ{§Ç¡G(1) ¬°¨¾½d¦]±¡¸`­«¤j¤§¤£¤½¤¹¥òµô©Î¬°¨¾½d¹H¤Ï«O±K±ø´Ú©Î´¼¼z°]²£Åv©Ò¬°¤§¼È®É±ÏÀÙ¡F©Î (2) §PÂ_¤@¤è·í¨Æ¤H©Î¨ä¡u¥ø·~¡v¤½¥q©Ò¾Ö¦³©Î¥D±i¤§µÛ§@Åv¡B±M§QÅv©Î°Ó¼Ð¤§¦³®Ä©Ê©Î©Ò¦³Åv¡F©Î (3) ¬üª÷ 500,000.00 ¤¸¥H¤Uª÷ÃB¤§À³¦¬±b´Ú¡C
+ÇãÏßÞîÈ¾¡£ÇøÔ×ÍÖ¡£Å»Î¯¡£ÎÌÆÞËÛ¡£êââîÇâ¡£êÄìáËÅ¡£ÇÏÆÌÇâÇÁÌÏÙÏ¡£ÔìÅ¯¡£Å­Ç¡ÖÖËÞËé¡£Èè×ÄÅÒËé¡£ÆìÅÒËé¡£ÓÞ×Ê¡£Ç®ÍÖÉ¬¡£ÒüÆÙ¡£Ï¹Ëé¡£ÒïÐäÖÖ¡£ð­Å»èÈ¡£òÊÅÒå¯Ëé¡£É³ÅÒËé¡£Øëç®ÅûßÚÅû¡£ØëÍÖÐä¡£ÜûÄµÅÒÉ¬¡£ÌâÅ¯É³Ëé¡£ÏßÙ·¡£Å»Ù×ßÚÌÜ¡£Å»Ù¬ßÚÌÜÝÊÇ¶Ù´¡£Æ¦ç®¡£ñÍÇøç®¡£åûÇéÓ¡êØßÛÎ¯ÈéÅÒ¡£ÊçÖÔÇâÏßÍÖÉ¤¡£ãÒÕ¹éß¡£å¨ÄÍÄÔ¡£×ÄØëÉ³Ëé¡£ú·Äå¡£ÌÜÌþÆÇËé¡£ÖÔÄÛç®¡£ÏßÍÖÉ¤ôúÇÙÄËÄüÙÏ¡£Èéí¥ÐÄÍÖ¡£æ´ÏÜ¡£ÌþÅÒËéÅ¯ËÐÅ»Ðä¡¨Ä¡Å¢Îèú¾¡¢Ú¾ÍõÓÁÙÏÔ¾ßÕ¡¢ËíÔ¾ßÕÙÏëãÇ´áúØá (London Court of International Arbitration, LCIA)¡¾¡ÖÇ´áúñ¢é¬¡×¡¿Ç´áúÝ½Ð¬¡¾¡ÖÝ½Ð¬¡×¡¿ÑÀÒ¦ÄæÄµÇØÇ´áúÄ©¡¢ÍõæÚÇ´áúñ¢é¬ËíæÚá«¡ÖÝ½Ð¬¡×¡¢ÅèÓÁÅÆÒ³ÌúÅÉë£ËÆÍÔÒ³Ç´áúÒ³Þ²ÜÜÄææØÊî¡¤ÇÖÅÉåµËçÄ©ÇÖßÈÇØÄ¡ÈíÇ´áúÄ©¡¢ÆñÍÔßÈÇØÄæÇ´áúÄ©ÍõÄµÄ²ÅÊÄùôúÇÙÑÀÒ¦ñÁÇ¡ÅäÕ¹Ä¡ÇØ¡¢ÍÐÆñÇ´áúñ¢é¬Ëí¡ÖÝ½Ð¬¡×ÑÀÒ¦æÚÇØÅäÕ¹¡¤Ç´áúÄ©ÆÜÝ·ÚæûâáúÉ²¡ÖÆÛÇÙÒü¡×ÄØÚêØæÍÐâ¾Åøî¯ÞØÄæåÛÅïÍÌÚóô¤ÍÐä´Õ¤ïªóÁÏÚ¡¤ÆÛÇÙÒüÄãÄæÇ¶ÈôÛ¾à¡¡¢ÉáÄâÚµåÛÅÏÇ¶Ä¡ÅÉåµËçÄ© ÍõÌ§Ù×ÍõÄ¶ÇÄËçÆñÕëâ«îúÆ³ÎÎá£Ê©¡¨(1) Ò³Ëßî¯ÇÞÚÅåçÓìÄËÄæÄâÄüÄøÇ´áúÍÐÒ³Ëßî¯ç°Å°ÏñÙïÛ¾à¡ÍÐßáìäØÂÜ¨ûâÍÔÒ³Äæí²ÕëÚóô¤¡§ÍÐ (2) É²öËÄ¡ÅÉåµËçÄ©ÍÐÌ§¡ÖÇºäÆ¡×ÄüÆ³ÍÔðßÈ´ÍÐÅäÚ¯ÄæááÉ¢ûâ¡£ÙñÉ³ûâÍÐÙ¸íºÄæÈ´ÕæÍÌÍÐÍÔÈ´ûâ¡§ÍÐ (3) Ó¡ÏÚ 500,000.00 Ä÷ÅèÄ¶ÏÚ÷ìÄæóÜÈ­Ú¨à¡¡¤
 
-¦bªüº¸¤Î§Q¨È¡B¨©«n¡B¥¬¦N¯Çªk¯Á¡B³Ø³Á¶©¡B¤¤«D¦@©M°ê¡B¬d¼w¡B­èªG¦@©M°ê¡B­èªG¥Á¥D¦@©M°ê¡B¨ª¹D´X¤º¨È¡BªkÄÝ¦c¨È¨º¡BªkÄÝªi¨½¥§¦è¨È¡B¥[´^¡B´X¤º¨È¡B´X¤º¨È¤ñ¯Á¡B¶H¤ú®ü©¤¡B°¨§Q¡B­T§Q¶ð¥§¨È¡B¼¯¬¥­ô¡B¥§¤é¡B¶ë¤º¥[º¸¡B¦h­ô¤Î¬ð¥§¦è¨È¡G¥»¦X¬ù©Ò¥Í¤@¤Áª§Ä³¡A±x©óªk°ê¤Ú¾¤¡A¨Ì¤Ú¾¤ ICC °ê»Ú¥òµô°| (ICC International Court of Arbitration)¡]¡u¥òµô¾÷ºc¡v¡^¥òµô³W«h¡]¡u³W«h¡v¡^«ü¬£¤§¤T¦W¤½¥¿¥òµô¤H¡A©ó¸Ó¥òµô¾÷ºc¨Ì¸Óµ¥¡u³W«h¡v¡A¥Hªk¤å¬°©x¤è»y¨¥©Ò¬°¥òµô¬°³Ì²×¤§¸Ñ¨M¡C¦U¤è·í¨Æ¤H¦U´£¦W¤@¦ì¥òµô¤H¡A¥Ñ©Ò´£¦W¤§¥òµô¤H©ó¤T¤Q¤é¤ºÁp¦X«ü¬£¿W¥ß¥D®u¤@¦W¡A©Î¥Ñ¥òµô¾÷ºc¨Ì¡u³W«h¡v«ü¬£¸Ó¦W¥D®u¡C¥òµô¤H¥¼³Q±ÂÅvµô§P¡u¥»¦X¬ù¡v¤w±Æ°£©Î¶W¥X½d³ò¤§¸T¥O©Ê±ÏÀÙ©Î·l®`½ßÀvª÷¡C¥»¦X¬ù¤¤¤§¥ô¦ó±ø´Ú¡A§¡¤£±o¸T¤î¥ô¤@¤è·í¨Æ¤H ©ó¨ä°ò©ó¤U¦C¨Æ¥Ñ®É¶D½Ñ¥qªkµ{§Ç¡G(1) ¬°¨¾½d¦]±¡¸`­«¤j¤§¤£¤½¤¹¥òµô©Î¬°¨¾½d¹H¤Ï«O±K±ø´Ú©Î´¼¼z°]²£Åv©Ò¬°¤§¼È®É±ÏÀÙ¡F©Î (2) §PÂ_¤@¤è·í¨Æ¤H©Î¨ä¡u¥ø·~¡v¤½¥q©Ò¾Ö¦³©Î¥D±i¤§µÛ§@Åv¡B±M§QÅv©Î°Ó¼Ð¤§¦³®Ä©Ê©Î©Ò¦³Åv¡F©Î (3) ¬üª÷ 250,000.00 ¤¸¥H¤Uª÷ÃB¤§À³¦¬±b´Ú¡C
+ÇãÏßéßÅ¯É³Ëé¡£ËÊÐ²¡£ÆÌÇÏ×ÊÎÎ×Ä¡£Þ¾Þ§âî¡£ÄãÏæÇÁÌÏÙÏ¡£Ñçìá¡£ÔËÎªÇÁÌÏÙÏ¡£ÔËÎªÆáÅäÇÁÌÏÙÏ¡£ËËç¬ÞýÄùËé¡£ÎÎúèÇäËéËÛ¡£ÎÎúèÎÌËÞÆÇÈéËé¡£Åûß¥¡£ÞýÄùËé¡£ÞýÄùËéÅÒ×Ä¡£â¯ÅÛÖÀÍ¦¡£ØëÉ³¡£Ó·É³ã×ÆÇËé¡£ì÷Ò¨Ô×¡£ÆÇÅÊ¡£ãÒÄùÅûéß¡£ÇéÔ×Å¯ÒóÆÇÈéËé¡¨ÆÛÇÙÒüÍÔÆíÄ¡Å¢Îèú¾¡¢Ú¾ÍõÎÎÙÏÅ»ð­¡¢ËíÅ»ð­ ICC ÙÏëãÇ´áúØá (ICC International Court of Arbitration)¡¾¡ÖÇ´áúñ¢é¬¡×¡¿Ç´áúÝ½Ð¬¡¾¡ÖÝ½Ð¬¡×¡¿ÑÀÒ¦ÄæÄµÇØÄüÆßÇ´áúÄ©¡¢ÍõæÚÇ´áúñ¢é¬ËíæÚá«¡ÖÝ½Ð¬¡×¡¢ÅèÎÎÅÆÒ³ÌúÅÉë£ËÆÍÔÒ³Ç´áúÒ³Þ²ÜÜÄææØÊî¡¤ÇÖÅÉåµËçÄ©ÇÖßÈÇØÄ¡ÈíÇ´áúÄ©¡¢ÆñÍÔßÈÇØÄæÇ´áúÄ©ÍõÄµÄ²ÅÊÄùôúÇÙÑÀÒ¦ñÁÇ¡ÅäÕ¹Ä¡ÇØ¡¢ÍÐÆñÇ´áúñ¢é¬Ëí¡ÖÝ½Ð¬¡×ÑÀÒ¦æÚÇØÅäÕ¹¡¤Ç´áúÄ©ÆÜÝ·ÚæûâáúÉ²¡ÖÆÛÇÙÒü¡×ÄØÚêØæÍÐâ¾Åøî¯ÞØÄæåÛÅïÍÌÚóô¤ÍÐä´Õ¤ïªóÁÏÚ¡¤ÆÛÇÙÒüÄãÄæÇ¶ÈôÛ¾à¡¡¢ÉáÄâÚµåÛÅÏÇ¶Ä¡ÅÉåµËçÄ© ÍõÌ§Ù×ÍõÄ¶ÇÄËçÆñÕëâ«îúÆ³ÎÎá£Ê©¡¨(1) Ò³Ëßî¯ÇÞÚÅåçÓìÄËÄæÄâÄüÄøÇ´áúÍÐÒ³Ëßî¯ç°Å°ÏñÙïÛ¾à¡ÍÐßáìäØÂÜ¨ûâÍÔÒ³Äæí²ÕëÚóô¤¡§ÍÐ (2) É²öËÄ¡ÅÉåµËçÄ©ÍÐÌ§¡ÖÇºäÆ¡×ÄüÆ³ÍÔðßÈ´ÍÐÅäÚ¯ÄæááÉ¢ûâ¡£ÙñÉ³ûâÍÐÙ¸íºÄæÈ´ÕæÍÌÍÐÍÔÈ´ûâ¡§ÍÐ (3) Ó¡ÏÚ 250,000.00 Ä÷ÅèÄ¶ÏÚ÷ìÄæóÜÈ­Ú¨à¡¡¤
 
-¦b«n«D¡B¯Ç¦Ì¤ñ¨È¡B¿à¯Á¦«¤Î¥v¥ËÀÙÄõ¡G¥»¦X¬ù©Ò¥Í¤@¤Áª§Ä³¡A±x©ó«n«D¬ù¿«¥§´µ³ù¡A¨Ì¡u«n«D¥òµô°òª÷·|¡v(Arbitration Foundation of Southern Afric, AFSA)¡]¡u¥òµô¾÷ºc¡v¡^¥òµô³W«h¡]¡u³W«h¡v¡^«ü¬£¤§¤T¦ì¤½¥¿¥òµô¤H¡A©ó¸Ó¥òµô¾÷ºc¨Ì¸Óµ¥¡u³W«h¡v¡A¥H­^¤å¬°©x¤è»y¨¥©Ò¬°¥òµô¬°³Ì²×¤§¸Ñ¨M¡C¦U¤è·í¨Æ¤H¦U´£¦W¤@¦ì¥òµô¤H¡A¥Ñ©Ò´£¦W¤§¥òµô¤H©ó¤T¤Q¤é¤ºÁp¦X«ü¬£¿W¥ß¥D®u¤@¦W¡A©Î¥Ñ¥òµô¾÷ºc¨Ì¡u³W«h¡v«ü¬£¸Ó¦W¥D®u¡C¥òµô¤H¥¼³Q±ÂÅvµô§P¡u¥»¦X¬ù¡v¤w±Æ°£©Î¶W¥X½d³ò¤§¸T¥O©Ê±ÏÀÙ©Î·l®`½ßÀvª÷¡C¥»¦X¬ù¤¤¤§¥ô¦ó±ø´Ú¡A§¡¤£±o¸T¤î¥ô¤@¤è·í¨Æ¤H ©ó¨ä°ò©ó¤U¦C¨Æ¥Ñ®É¶D½Ñ¥qªkµ{§Ç¡G(1) ¬°¨¾½d¦]±¡¸`­«¤j¤§¤£¤½¤¹¥òµô©Î¬°¨¾½d¹H¤Ï«O±K±ø´Ú©Î´¼¼z°]²£Åv©Ò¬°¤§¼È®É±ÏÀÙ¡F©Î (2) §PÂ_¤@¤è·í¨Æ¤H©Î¨ä¡u¥ø·~¡v¤½¥q©Ò¾Ö¦³©Î¥D±i¤§µÛ§@Åv¡B±M§QÅv©Î°Ó¼Ð¤§¦³®Ä©Ê©Î©Ò¦³Åv¡F©Î (3) ¬üª÷ 250,000.00 ¤¸¥H¤Uª÷ÃB¤§À³¦¬±b´Ú¡C
+ÇãÐ²Ïæ¡£×ÊÈÍÅÒËé¡£òÊ×ÄÈ¬Å¯Æ¸Æëô¤û¢¡¨ÆÛÇÙÒüÍÔÆíÄ¡Å¢Îèú¾¡¢Ú¾ÍõÐ²ÏæÒüñóÆÇßÚÞß¡¢Ëí¡ÖÐ²ÏæÇ´áúÙ×ÏÚäÄ¡×(Arbitration Foundation of Southern Afric, AFSA)¡¾¡ÖÇ´áúñ¢é¬¡×¡¿Ç´áúÝ½Ð¬¡¾¡ÖÝ½Ð¬¡×¡¿ÑÀÒ¦ÄæÄµÈíÄüÆßÇ´áúÄ©¡¢ÍõæÚÇ´áúñ¢é¬ËíæÚá«¡ÖÝ½Ð¬¡×¡¢ÅèÓÁÅÆÒ³ÌúÅÉë£ËÆÍÔÒ³Ç´áúÒ³Þ²ÜÜÄææØÊî¡¤ÇÖÅÉåµËçÄ©ÇÖßÈÇØÄ¡ÈíÇ´áúÄ©¡¢ÆñÍÔßÈÇØÄæÇ´áúÄ©ÍõÄµÄ²ÅÊÄùôúÇÙÑÀÒ¦ñÁÇ¡ÅäÕ¹Ä¡ÇØ¡¢ÍÐÆñÇ´áúñ¢é¬Ëí¡ÖÝ½Ð¬¡×ÑÀÒ¦æÚÇØÅäÕ¹¡¤Ç´áúÄ©ÆÜÝ·ÚæûâáúÉ²¡ÖÆÛÇÙÒü¡×ÄØÚêØæÍÐâ¾Åøî¯ÞØÄæåÛÅïÍÌÚóô¤ÍÐä´Õ¤ïªóÁÏÚ¡¤ÆÛÇÙÒüÄãÄæÇ¶ÈôÛ¾à¡¡¢ÉáÄâÚµåÛÅÏÇ¶Ä¡ÅÉåµËçÄ© ÍõÌ§Ù×ÍõÄ¶ÇÄËçÆñÕëâ«îúÆ³ÎÎá£Ê©¡¨(1) Ò³Ëßî¯ÇÞÚÅåçÓìÄËÄæÄâÄüÄøÇ´áúÍÐÒ³Ëßî¯ç°Å°ÏñÙïÛ¾à¡ÍÐßáìäØÂÜ¨ûâÍÔÒ³Äæí²ÕëÚóô¤¡§ÍÐ (2) É²öËÄ¡ÅÉåµËçÄ©ÍÐÌ§¡ÖÇºäÆ¡×ÄüÆ³ÍÔðßÈ´ÍÐÅäÚ¯ÄæááÉ¢ûâ¡£ÙñÉ³ûâÍÐÙ¸íºÄæÈ´ÕæÍÌÍÐÍÔÈ´ûâ¡§ÍÐ (3) Ó¡ÏÚ 250,000.00 Ä÷ÅèÄ¶ÏÚ÷ìÄæóÜÈ­Ú¨à¡¡¤
 
-¦b¦w¹Dº¸¡B¶ø¦a§Q¡B¶ë´¶°Ç´µ¡Bªk°ê¡B¼w°ê¡B§ÆÃ¾¡B¥H¦â¦C¡B¸q¤j§Q¡B¸²µå¤ú¡B¦è¯Z¤ú¡B·ç¤h¤Î¤g¦Õ¨ä¡G¤@¤Áª§Ä³¡A±x¥æ¥Ñ¤U¦C¸ÓºÞªk°|±MÄÝºÞÁÒ¼f²z¡A¨Ã¨ü¨ä©ë§ô¡G
+ÇãÇøç¬éß¡£ãßÇâÉ³¡£ãÒßÛÙ¬ßÚ¡£ÎÎÙÏ¡£ìáÙÏ¡£Ê¨øé¡£ÅèÈãÇÄ¡£åøÄËÉ³¡£æ¹áëÅÛ¡£ÈéÖÝÅÛ¡£å¯ÄÉÅ¯ÄÈÈÖÌ§¡¨Ä¡Å¢Îèú¾¡¢Ú¾Ç¨ÆñÄ¶ÇÄæÚê§ÎÎØáÙñúèê§õÝìÐÜ¡¡¢ËäÌ¿Ì§ÍíÊÖ¡¨
 
-¦b¦w¹Dº¸¡G¤Ú¾¤°Ó¨Æªk°|¡C
+ÇãÇøç¬éß¡¨Å»ð­Ù¸ËçÎÎØá¡¤
 
-¦b¶ø¦a§Q¡G¶ø¦a§Qºû¤]¯Çªk°|¡]¤º«°¡^¡C
+ÇããßÇâÉ³¡¨ãßÇâÉ³êÄÄ¾×ÊÎÎØá¡¾ÄùÐÒ¡¿¡¤
 
-¦b¶ë´¶°Ç´µ¡G¥§¥j¦è¨ÈÅv³dªk°|¡C
+ÇããÒßÛÙ¬ßÚ¡¨ÆÇÆ¬ÈéËéûâÝÊÎÎØá¡¤
 
-¦bªk°ê¡G¤Ú¾¤°Ó¨Æªk°|¡C
+ÇãÎÎÙÏ¡¨Å»ð­Ù¸ËçÎÎØá¡¤
 
-¦b¼w°ê¡G´µ¹Ï¥[¯Sªk°|¡C
+ÇãìáÙÏ¡¨ßÚè·ÅûÖÖÎÎØá¡¤
 
-¦b§ÆÃ¾¡G¶®¨åÅv³dªk°|¡C
+ÇãÊ¨øé¡¨âóÌ¨ûâÝÊÎÎØá¡¤
 
-¦b¥H¦â¦C¡G¯S©Ôºû¤Òªk°|¡C
+ÇãÅèÈãÇÄ¡¨ÖÖÍÖêÄÅ³ÎÎØá¡¤
 
-¦b¸q¤j§Q¡G¦ÌÄõªk°|¡C
+ÇãåøÄËÉ³¡¨ÈÍû¢ÎÎØá¡¤
 
-¦b¸²µå¤ú¡G¨½´µ¥»ªk°|¡C
+Çãæ¹áëÅÛ¡¨ËÞßÚÆÛÎÎØá¡¤
 
-¦b¦è¯Z¤ú¡G°¨¼w¨½ªk°|¡C
+ÇãÈéÖÝÅÛ¡¨ØëìáËÞÎÎØá¡¤
 
-¦b·ç¤h¡GÄ¬¾¤¥@¦æ¬F°Ï°Ó¨Æªk°|¡C
+Çãå¯ÄÉ¡¨ú·ð­ÅàÈçÑÉÙ´Ù¸ËçÎÎØá¡¤
 
-¦b¤g¦Õ¨ä¡G¤g¦Õ¨ä¦@©M°ê¤§¥ì´µ©Z³ù¤¤¥¡ªk°|¤Î°õ¦æ²z¨Æ·|¡C
+ÇãÄÈÈÖÌ§¡¨ÄÈÈÖÌ§ÇÁÌÏÙÏÄæÇ®ßÚÌÜÞßÄãÆÁÎÎØáÅ¯ÙÚÈçÜ¡ËçäÄ¡¤
 
-¦b²üÄõ¡GÂù¤è·í¨Æ¤H©ß±ó²üÄõ¥Áªk¼ÐÃD 7.1('Koop') ¤Î²Ä 7 ¶µ²Ä 401 ´Ú ¦Ü²Ä 402 ´Ú©Ò©wÂù¤è·í¨Æ¤HÅv§Q¡A¥H¤ÎÂù¤è·í¨Æ¤H¨Ì²üÄõ¥Áªk²Ä 6 ±ø²Ä 265 ´Ú³W©w¡A´©¤Þ¥þ³¡©Î¤@³¡¸Ñ°£¥»¡u¦X¬ù¡v³W©w¤§Åv§Q¡C
+ÇãÝ£û¢¡¨÷äÅÉåµËçÄ©ÍáÛ¹Ý£û¢ÆáÎÎíº÷î 7.1('Koop') Å¯ÜÉ 7 âúÜÉ 401 à¡ ÈÝÜÉ 402 à¡ÍÔÌù÷äÅÉåµËçÄ©ûâÉ³¡¢ÅèÅ¯÷äÅÉåµËçÄ©ËíÝ£û¢ÆáÎÎÜÉ 6 Û¾ÜÉ 265 à¡Ý½Ìù¡¢ßÎÅ¿ÇÀÝåÍÐÄ¡ÝåæØØæÆÛ¡ÖÇÙÒü¡×Ý½ÌùÄæûâÉ³¡¤
 
-²Ä 7 ¸`¡u¤@¯ë±ø´Ú¡v
+ÜÉ 7 åç¡ÖÄ¡×ïÛ¾à¡¡×
 
-©ó²Ä d ¬q¬q¥½´¡¤J¥H¤U¤å¥y¡G
+ÍõÜÉ d ÑôÑôÆÝßÆÄ«ÅèÄ¶ÅÆÆ»¡¨
 
-¦b¦è¯Z¤ú¡G¦p´£¥æ½Ð¨D¦Ü¤U¦C¦a§}¡AIBM ±N¨Ì³W©w¦s¨ú¡B§ó·s©Î§R°£¸ÓÁpµ¸¸ê°T¡GIBM, c/ Santa Hortensia 26-28, 28002 Madrid, Departamento de Privacidad de Datos¡C
+ÇãÈéÖÝÅÛ¡¨ÇñßÈÇ¨îùÊåÈÝÄ¶ÇÄÇâÉß¡¢IBM ÙòËíÝ½ÌùÇôÌ½¡£ÊÕä»ÍÐÉ´ØææÚôúá¾æñØ¹¡¨IBM, c/ Santa Hortensia 26-28, 28002 Madrid, Departamento de Privacidad de Datos¡¤
 
-¦b²Ä j ¬q¬q¥½¼W¦C¥H¤U¤å¥y¡G
+ÇãÜÉ j ÑôÑôÆÝìÁÇÄÅèÄ¶ÅÆÆ»¡¨
 
-¦b±¶§J¦@©M°ê¡G¨Ì²Ä 89/2012 ¸¹Êï©ã¾á«Oªk®×¡]¡u¥Áªk¡v¡^²Ä 1801 ¸`¡B­×­q«á¡u¥Áªk¡v²Ä 1799 ¸`¤Î 1800 ¸`¡A¤£¾A¥Î©ó¥»¦X¬ù¶µ¤U¥æ©ö¡C³Q±ÂÅv¤H±µ¨ü¡u¥Áªk¡v²Ä 1765 ¸`¶µ¤U±¡ªpÅÜ§ó¤§­·ÀI¡C
+ÇãÚÚÉ¬ÇÁÌÏÙÏ¡¨ËíÜÉ 89/2012 æÀŽ¢¤±ÍåðêÏñÎÎÕù¡¾¡ÖÆáÎÎ¡×¡¿ÜÉ 1801 åç¡£ÔºÓÔÑ¥¡ÖÆáÎÎ¡×ÜÉ 1799 åçÅ¯ 1800 åç¡¢ÄâïËÆîÍõÆÛÇÙÒüâúÄ¶Ç¨Íø¡¤Ý·ÚæûâÄ©ÚÙÌ¿¡ÖÆáÎÎ¡×ÜÉ 1765 åçâúÄ¶ÚÅÎÓüÈÊÕÄæÓøòò¡¤
 
-¦b²Ä j ¬q¤¤¡G
+ÇãÜÉ j ÑôÄã¡¨
 
-¦b«O¥[§Q¨È¡B§JÃ¹®J¦è¨È¦@©M°ê¡B«XÃ¹´µ¡B¶ëº¸ºû¨È©M´µ¬¥ºû¥§¨È¡G±N¡u¥ô¤@¤è·í¨Æ¤H¦Û¶D³^¨Æ¥Ñµo¥Í¹O¨â¦~«á¡A§¡¤£±o´£°_¥»¦X¬ù©Òµo¥Í©Î¬ÛÃö¨Æ¥Ñ¤§ªk«ß¶D³^¡C¡v²Ä¤G¥y¥þ³¡§R°£¡C
+ÇãÏñÅûÉ³Ëé¡£É¬øåÔìÈéËéÇÁÌÏÙÏ¡£ÏúøåßÚ¡£ãÒéßêÄËéÌÏßÚÒ¨êÄÆÇËé¡¨Ùò¡ÖÇ¶Ä¡ÅÉåµËçÄ©ÈÜâ«ÝÄËçÆñàõÆíç·Ì¥È¡Ñ¥¡¢ÉáÄâÚµßÈØÄÆÛÇÙÒüÍÔàõÆíÍÐÒÞùÃËçÆñÄæÎÎÑ£â«ÝÄ¡¤¡×ÜÉÄ¨Æ»ÇÀÝåÉ´Øæ¡¤
 
-¦b²Ä j ¬q²Ä¤G¥y¥y¥½¼W¦C¥H¤U¤å¥y¡G
+ÇãÜÉ j ÑôÜÉÄ¨Æ»Æ»ÆÝìÁÇÄÅèÄ¶ÅÆÆ»¡¨
 
-¦b¥ß³³©{¡G¡A¦ýªk«ß¥t¦³³W©wªÌ°£¥~
+ÇãÇ¡Ý÷Ìý¡¨¡¢ÈþÎÎÑ£Æ¶È´Ý½ÌùÏ¯ØæÆÀ
 
-±N²Ä j ¬q¤¤¡A±N²Ä¤G¥y§ï¬°¤U¥y¡G
+ÙòÜÉ j ÑôÄã¡¢ÙòÜÉÄ¨Æ»ÊÑÒ³Ä¶Æ»¡¨
 
-¦bªiÄõ¡G¥ô¤@¤è·í¨Æ¤H¦Û¶D³^¨Æ¥Ñµo¥Í¹O¤T¦~«á¡A§¡¤£±o´£°_¥»¦X¬ù©Òµo¥Í©Î¬ÛÃö¨Æ¥Ñ¤§ªk«ß¶D³^¡A¦ý¥¼¥I´Ú¶D³^¤£¦b¦¹­­¡A¸Ó¶D³^À³©ó¥I´Ú¸q°È¨ì´Á¤G¦~¤º´£°_¡C
+ÇãÎÌû¢¡¨Ç¶Ä¡ÅÉåµËçÄ©ÈÜâ«ÝÄËçÆñàõÆíç·ÄµÈ¡Ñ¥¡¢ÉáÄâÚµßÈØÄÆÛÇÙÒüÍÔàõÆíÍÐÒÞùÃËçÆñÄæÎÎÑ£â«ÝÄ¡¢ÈþÆÜÅéà¡â«ÝÄÄâÇãÈºÓî¡¢æÚâ«ÝÄóÜÍõÅéà¡åøÙ­Ì¯ßæÄ¨È¡ÄùßÈØÄ¡¤
 
-¦b²Ä j ¬q²Ä¤G¥y¤¤¡A±N¡u¤G¡v¦r§ï¬°¥H¤U¦U¦r¡G
+ÇãÜÉ j ÑôÜÉÄ¨Æ»Äã¡¢Ùò¡ÖÄ¨¡×ÇóÊÑÒ³ÅèÄ¶ÇÖÇó¡¨
 
-¦b©Ô²æºû¨È¡G¤T
+ÇãÍÖÜëêÄËé¡¨Äµ
 
-¦b´µ¬¥¥ï§J¡G¥|
+ÇãßÚÒ¨Ç±É¬¡¨Æ¾
 
-¦b²Ä j ¬q¤¤²Ä¤T¥y¡u¥ô¤@¤è§¡¤£´N¦]«D¨ä©Ò¯à±±¨î¤§¨Æ¥Ñ©Ò­P¤£¯à¼i¦æ¸q°È­t³d¡v«á¼W¦C¥H¤U¤å¥y¡G
+ÇãÜÉ j ÑôÄãÜÉÄµÆ»¡ÖÇ¶Ä¡ÅÉÉáÄâÞóÇÞÏæÌ§ÍÔ×äÚÕÌ±ÄæËçÆñÍÔÓ³Äâ×äìÓÈçåøÙ­Ó×ÝÊ¡×Ñ¥ìÁÇÄÅèÄ¶ÅÆÆ»¡¨
 
-¦b«XÃ¹´µ¡G¡A¥]¬A¥B¤£­­©ó¦a¾_¡B¤ô¨a¡B¤õ¨a¡B¤Ñ¨a¡B½}¤u¡]¥]¬AÂù¤è·í¨Æ¤H­û¤u¤§½}¤u¡^¡B¾Ô¨Æ¡B­x¨Æ¦æ°Ê¡B¸T¹B¡B«ÊÂê¡B°ê»Ú©Î¬F©²¨îµô¡A¥H¤Î©Ò¾A¥ÎºÞÁÒ°Ï¥DºÞ¾÷Ãö¤§§@¬°¡C
+ÇãÏúøåßÚ¡¨¡¢ÅýÑÄÅâÄâÓîÍõÇâïè¡£ÅÕË¤¡£ÅÖË¤¡£Å²Ë¤¡£îÈÄÖ¡¾ÅýÑÄ÷äÅÉåµËçÄ©ÔÞÄÖÄæîÈÄÖ¡¿¡£ðÝËç¡£ÓÛËçÈçÙ¯¡£åÛçª¡£Ðì÷Õ¡£ÙÏëãÍÐÑÉÍ´Ì±áú¡¢ÅèÅ¯ÍÔïËÆîê§õÝÙ´Åäê§ñ¢ùÃÄæÉ¢Ò³¡¤
 
-±N²Ä j ¬q²Ä¤T¥y¡u¥ô¤@¤è§¡¤£´N¦]«D¨ä©Ò¯à±±¨î¤§¨Æ¥Ñ©Ò­P¤£¯à¼i¦æ¸q°È­t³d¡A±©ª÷¿úµ¹¥I¬ÛÃö¸q°È«h¤£¦b¦¹­­¡C¡v§ï¬°¤U¥y¡G
+ÙòÜÉ j ÑôÜÉÄµÆ»¡ÖÇ¶Ä¡ÅÉÉáÄâÞóÇÞÏæÌ§ÍÔ×äÚÕÌ±ÄæËçÆñÍÔÓ³Äâ×äìÓÈçåøÙ­Ó×ÝÊ¡¢ÚÍÏÚòäá¿ÅéÒÞùÃåøÙ­Ð¬ÄâÇãÈºÓî¡¤¡×ÊÑÒ³Ä¶Æ»¡¨
 
-¦b¯Q§JÄõ¡G¥ô¤@¤è·í¨Æ¤H¹ï©ó¨äµLªk±±¨î¤§¦]¯À©Îªk³WÅÜ§ó©Ò­P¤£¯à¼i¦æ¸q°È­t³d¡A¥]¬A¦ý¤£­­©ó¬ü°ê¤§¶i¥X¤f¤Î¸gÀÙ¨îµôµ¥³W©w¡A±©ª÷¿úµ¹¥I¬ÛÃö¸q°È«h¤£¦b¦¹­­¡C
+ÇãÖÔÉ¬û¢¡¨Ç¶Ä¡ÅÉåµËçÄ©è×ÍõÌ§àÒÎÎÚÕÌ±ÄæÇÞ×ÃÍÐÎÎÝ½üÈÊÕÍÔÓ³Äâ×äìÓÈçåøÙ­Ó×ÝÊ¡¢ÅýÑÄÈþÄâÓîÍõÓ¡ÙÏÄæâÐÅøÄÇÅ¯åîô¤Ì±áúá«Ý½Ìù¡¢ÚÍÏÚòäá¿ÅéÒÞùÃåøÙ­Ð¬ÄâÇãÈºÓî¡¤
 
-©ó¥»¸`¸`¥½¼W¦C¤U¬q¡A¥t¦¨·s¬q¸¨²Ä l ¬q¡G
+ÍõÆÛåçåçÆÝìÁÇÄÄ¶Ñô¡¢Æ¶È©ä»Ñôæ¯ÜÉ l Ñô¡¨
 
-¦b¦I¤ú§Q¡G³Q±ÂÅv¤HÃ±­q¥»¦X¬ù¡A§Yªí¥Ü³Q±ÂÅv¤H½T»{¤w³Q¥R¤À§iª¾¥»¦X¬ù¤§¤@¤Á±ø´Ú¡A¥B¦³¾÷·|´N¸Óµ¥±ø´Ú¶i¦æ¨óÄ³¡C¤U¦C±ø´Ú¥i¯à¦h¼Æ»P¤@¯ë¾A¥Î©ó¦I¤ú§Qªk«ß¤§±ø´Ú¤£¦P¡AÂù¤è·í¨Æ¤HÃ±­q¥»¦X¬ù¡A§Yªí¥Ü±µ¨ü¸Óµ¥±ø´Ú¡G¡uµ{¦¡±ÂÅv¡v¡F¡u«OÃÒ¨Æ¶µ¡v¡F¡u¶O¥Î¡Bµ|®½¡B¥I´Ú¤Î´`³WÅçÃÒ¡v¡F¡u½ßÀv³d¥ô»P´¼¼z°]²£«OÅ@¡v¡F¡u²×¤î¡v¡F¡u·Ç¾Úªk»P¦³®Ä¦a°Ï¡v¤Î¡u¤@¯ë³W©w¡v¡C
+ÇãÇÊÅÛÉ³¡¨Ý·ÚæûâÄ©øÜÓÔÆÛÇÙÒü¡¢É»ÏÐÆüÝ·ÚæûâÄ©íýë¥ÄØÝ·ÅòÅ¡ÉËÏ¡ÆÛÇÙÒüÄæÄ¡Å¢Û¾à¡¡¢ÅâÈ´ñ¢äÄÞóæÚá«Û¾à¡âÐÈçÌ¶ú¾¡¤Ä¶ÇÄÛ¾à¡Æ«×äÇéí°êØÄ¡×ïïËÆîÍõÇÊÅÛÉ³ÎÎÑ£ÄæÛ¾à¡ÄâÇÑ¡¢÷äÅÉåµËçÄ©øÜÓÔÆÛÇÙÒü¡¢É»ÏÐÆüÚÙÌ¿æÚá«Û¾à¡¡¨¡Öá£È¢Úæûâ¡×¡§¡ÖÏñøýËçâú¡×¡§¡Öâ¶Æî¡£á¤Õß¡£Åéà¡Å¯ß§Ý½üÓøý¡×¡§¡ÖïªóÁÝÊÇ¶êØßáìäØÂÜ¨Ïñû¬¡×¡§¡ÖÜÜÅÏ¡×¡§¡ÖäíðãÎÎêØÈ´ÕæÇâÙ´¡×Å¯¡ÖÄ¡×ïÝ½Ìù¡×¡¤
 
-¦b±¶§J¦@©M°ê¡G³Q±ÂÅv¤H©ú½T±µ¨ü¥»¦X¬ù¡A¨ä¤¤¥]¬A¤U¦C­«­n°Ó¥Î±ø´Ú¡Gi) ·å²«½ßÀv³d¥ô¤§­­¨î»P§K³dÁn©ú¡]¡u«OÃÒ¨Æ¶µ¡v¡^¡Fii) ³Q±ÂÅv¤H·l®`¨DÀvÅv§Q¤§­­¨î¡]¡u½ßÀv³d¥ô»P´¼¼z°]²£«OÅ@¡v¡^¡Fiii) ¶i¥X¤fªk³W¤§ªk©w¬ù§ô¤O¡]¡u·Ç¾Úªk¤Î¾A¥Î¦a°Ï¡v¡^¡Fiv) ¸ûµu¤§®É®Ä´Á¶¡¡]¡u¤@¯ë±ø´Ú¡v¡^¡Fv) ©w«¬¤Æ«´¬ù¦³Ãö³W©w¤§¾A¥Î©Ê±Æ°£¡]¡u¤@¯ë±ø´Ú¡v¡^¡F¤Î vi) ±µ¨ü±¡¨ÆÅÜ§ó¤§­·ÀI¡]¡u¤@¯ë±ø´Ú¡v¡^¡C
+ÇãÚÚÉ¬ÇÁÌÏÙÏ¡¨Ý·ÚæûâÄ©ÍüíýÚÙÌ¿ÆÛÇÙÒü¡¢Ì§ÄãÅýÑÄÄ¶ÇÄÓìÓÑÙ¸ÆîÛ¾à¡¡¨i) å­Ü°ïªóÁÝÊÇ¶ÄæÓîÌ±êØÉ­ÝÊôøÍü¡¾¡ÖÏñøýËçâú¡×¡¿¡§ii) Ý·ÚæûâÄ©ä´Õ¤ÊåóÁûâÉ³ÄæÓîÌ±¡¾¡ÖïªóÁÝÊÇ¶êØßáìäØÂÜ¨Ïñû¬¡×¡¿¡§iii) âÐÅøÄÇÎÎÝ½ÄæÎÎÌùÒüÊÖÄ°¡¾¡ÖäíðãÎÎÅ¯ïËÆîÇâÙ´¡×¡¿¡§iv) ç¤àûÄæÕëÕæßæâæ¡¾¡ÖÄ¡×ïÛ¾à¡¡×¡¿¡§v) ÌùÐÎÅ§ÐÖÒüÈ´ùÃÝ½ÌùÄæïËÆîÍÌÚêØæ¡¾¡ÖÄ¡×ïÛ¾à¡¡×¡¿¡§Å¯ vi) ÚÙÌ¿ÚÅËçüÈÊÕÄæÓøòò¡¾¡ÖÄ¡×ïÛ¾à¡¡×¡¿¡¤
 
-¦bÃ¹°¨¥§¨È¡G³Q±ÂÅv¤H©ú½T±µ¨ü¤U¦C¼Ð·Ç±ø´Ú¡A¸Óµ¥±ø´Ú¡A¨Ì·ÓÃ¹°¨¥§¨È¥Áªk²Ä 1203 ±ø¤§¤U¦C³W©w¡A±oµø¬°¡u¤£¥­±`±ø¤å¡v¡G²Ä 2 ´Ú¡B²Ä 4 ´Ú¡B²Ä 5 ´Ú¤Î²Ä 8 ´Ú²Ä j ¶µ¡C³Q±ÂÅv¤H¯÷¦¹©Ó»{¨ä¤w³Q¥R¤À§iª¾¥»¦X¬ù¤§¤@¤Á³W©w¡]¥]¬A«e´¦±ø¤å¡^¡B¨ä½T¤w¾A·í¤ÀªR¤Î¥R¤ÀÁA¸Ñ¸Óµ¥³W©w¡A¥B¦³¾÷·|¨ó°Ó¦U±ø¤å¤§±ø´Ú¡C
+ÇãøåØëÆÇËé¡¨Ý·ÚæûâÄ©ÍüíýÚÙÌ¿Ä¶ÇÄíºäíÛ¾à¡¡¢æÚá«Û¾à¡¡¢ËíäùøåØëÆÇËéÆáÎÎÜÉ 1203 Û¾ÄæÄ¶ÇÄÝ½Ìù¡¢ÚµáþÒ³¡ÖÄâÆÍÚ¦Û¾ÅÆ¡×¡¨ÜÉ 2 à¡¡£ÜÉ 4 à¡¡£ÜÉ 5 à¡Å¯ÜÉ 8 à¡ÜÉ j âú¡¤Ý·ÚæûâÄ©×ûÈºÍÕë¥Ì§ÄØÝ·ÅòÅ¡ÉËÏ¡ÆÛÇÙÒüÄæÄ¡Å¢Ý½Ìù¡¾ÅýÑÄÐ©ßËÛ¾ÅÆ¡¿¡£Ì§íýÄØïËåµÅ¡ÎµÅ¯ÅòÅ¡ôËæØæÚá«Ý½Ìù¡¢ÅâÈ´ñ¢äÄÌ¶Ù¸ÇÖÛ¾ÅÆÄæÛ¾à¡¡¤
 
 i125-5589-06 (10-2021)

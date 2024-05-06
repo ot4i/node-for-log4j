@@ -3,7 +3,7 @@ INFORMATIONS SUR LA LICENCE
 Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Utilisation de Logiciels IBM non garantis (i125-5589-06) s'appliquent.
 
 Nom du Logiciel (Référence du Logiciel) : 
-SupportPac IAM3 Websphere Message Broker Node for log4j 2.0 (SupportPac-IAM3)
+SupportPac IAM3 Websphere Message Broker Node for log4j 2.1 (SupportPac-IAM3)
 
 Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
 
@@ -11,8 +11,8 @@ Code Tiers Modifiable
 
 Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
 
-L/N:  L-KSBM-CCRFU2
-D/N:  L-KSBM-CCRFU2
-P/N:  L-KSBM-CCRFU2
 
+L/N: L-KVDV-H8F4YT
+D/N: L-KVDV-H8F4YT
+P/N: L-KVDV-H8F4YT
 

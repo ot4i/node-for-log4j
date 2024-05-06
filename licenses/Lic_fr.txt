@@ -3,7 +3,7 @@ INFORMATIONS SUR LA LICENCE
 Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Utilisation de Logiciels IBM non garantis (i125-5589-06) s'appliquent.
 
 Nom du Logiciel (Référence du Logiciel) : 
-SupportPac IAM3 Websphere Message Broker Node for log4j 2.0 (SupportPac-IAM3)
+SupportPac IAM3 Websphere Message Broker Node for log4j 2.1 (SupportPac-IAM3)
 
 Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
 
@@ -11,10 +11,10 @@ Code Tiers Modifiable
 
 Si, dans le fichier NOTICES, IBM identifie un code tiers comme étant un « Code Tiers Modifiable », IBM autorise le Détenteur de la Licence à 1) modifier le Code Tiers Modifiable et 2) recourir à l'ingénierie inverse sur les modules du Logiciel qui interagissent directement avec le Code Tiers Modifiable, sous réserve que le Détenteur de la Licence ait recours à cette méthode à des fins de débogage des modifications qu'il a apportées à ce code tiers. Les obligations d'IBM en matière de service et de support, le cas échéant, s'appliquent uniquement au Logiciel non modifié.
 
-L/N:  L-KSBM-CCRFU2
-D/N:  L-KSBM-CCRFU2
-P/N:  L-KSBM-CCRFU2
 
+L/N: L-KVDV-H8F4YT
+D/N: L-KVDV-H8F4YT
+P/N: L-KVDV-H8F4YT
 
 Conditions Internationales d'Utilisation de Logiciels IBM non garantis
 
@@ -102,7 +102,7 @@ a. IBM peut mettre fin à la licence d'utilisation d'un Logiciel par le Détenteur
 
 a. Les deux parties consentent à l'application des lois du pays dans lequel la transaction d'autorisations de licence est effectuée, nonobstant tout principe de conflit de lois. Les droits et les obligations de chaque partie s'appliquent uniquement dans le pays où la transaction est effectuée ou en accord avec IBM, dans le pays où le Logiciel est utilisé en production, étant précisé que toutes les licences ne sont valables que dans les conditions d'octroi explicitement stipulées.
 
-b. Chacune des parties est responsable du respect : i) des lois et réglementations applicables à ses activités et son Contenu; et ii) des lois et réglementations relatives au contrôle des importations et des exportations ainsi qu'aux sanctions économiques, y compris celles des Etats-Unis, qui interdisent ou limitent l’exportation, la réexportation, le transfert des produits, des technologies, des services ou des données, directement ou indirectement, à ou pour certains pays ou utilisateurs finaux.
+b. Chacune des parties est responsable du respect : i) des lois et réglementations applicables à ses activités et son Contenu; et ii) des lois et réglementations relatives au contrôle des importations et des exportations ainsi qu'aux sanctions économiques, y compris celles des Etats-Unis, qui interdisent ou limitent l'exportation, la réexportation, le transfert des produits, des technologies, des services ou des données, directement ou indirectement, à ou pour certains pays ou utilisateurs finaux.
 
 c. Si l'une quelconque des clauses du Contrat pour un Logiciel est invalide ou inapplicable, les autres dispositions resteront en vigueur et conserveront leur plein effet. Le présent Contrat ne porte pas atteinte aux dispositions légales d'ordre public relatives aux droits des consommateurs. La Convention des Nations Unies sur les Contrats de vente internationale de marchandises ne s'applique pas aux transactions objet du présent Contrat.
 
@@ -503,3 +503,4 @@ En République tchèque : Le Détenteur de Licence accepte expressément les conditi
 En Roumanie : Le Détenteur de Licence accepte expressément les clauses standard suivantes qui peuvent être considérées comme des « clauses inhabituelles » conformément aux dispositions de l'article 1203 du Code civil roumain : clauses 2, 4, 5, 8j. Le Détenteur de Licence reconnaît par la présente qu'il a été suffisamment informé de toutes les dispositions du présent Contrat, y compris des clauses mentionnées ci-dessus, qu'il a correctement analysé et compris ces dispositions et qu'il a eu la possibilité de négocier les termes de chaque clause.
 
 i125-5589-06 (10-2021)
+

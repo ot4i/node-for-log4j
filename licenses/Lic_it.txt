@@ -3,7 +3,7 @@ INFORMAZIONI RELATIVE ALLA LICENZA
 I Programmi elencati di seguito sono concessi in licenza in base alle seguenti clausole e condizioni License Information in aggiunta alle clausole della licenza del Programma precedentemente accettate dal Cliente e IBM. Se il Cliente non ha accettato precedentemente le clausole della licenza in vigore per il Programma, si applica Accordo Internazionale di Licenza per Programmi senza Garanzia (i125-5589-06).
 
 Nome Programma (Numero Programma):
-SupportPac IAM3 Websphere Message Broker Node for log4j 2.0 (SupportPac-IAM3)
+SupportPac IAM3 Websphere Message Broker Node for log4j 2.1 (SupportPac-IAM3)
 
 Le seguenti clausole standard si applicano all'utilizzo del Programma da parte del licenziatario.
 
@@ -11,10 +11,10 @@ Codice di Terze Parti Modificabile
 
 Se e nei limiti in cui, nei file NOTICES, IBM dovesse identificare codice di terze parti come "Codice di Terze Parti Modificabile", IBM autorizza il Licenziatario a 1) modificare il Codice di Terze Parti Modificabile e 2) eseguire il reverse engineer dei moduli del Programma che si interfacciano direttamente con il Codice di Terze Parti Modificabile a condizione che sia solo allo scopo di eseguire il debug delle modifiche del Licenziatario per tale codice di terze parti. Gli obblighi di servizio e supporto di IBM, se esistenti, si applicano solo al Programma non modificato.
 
-L/N:  L-KSBM-CCRFU2
-D/N:  L-KSBM-CCRFU2
-P/N:  L-KSBM-CCRFU2
 
+L/N: L-KVDV-H8F4YT
+D/N: L-KVDV-H8F4YT
+P/N: L-KVDV-H8F4YT
 
 Accordo Internazionale di Licenza per Programmi senza Garanzia
 
@@ -88,11 +88,11 @@ c. Il Licenziatario ordinerà e corrisponderà prontamente gli addebiti, alle tari
 
 4. Responsabilità e Protezione della Proprietà Intellettuale
 
-a. La responsabilità complessiva di IBM per tutte le azioni relative al presente Accordo sarà limitata ai soli danni diretti effettivi, subiti dal Licenziatario, fino ad un ammontare pari al maggiore importo tra: i) U.S. $10.000,00 (o l'equivalente in valuta locale); o ii) il totale degli importi pagati (se si tratta di canoni ricorrenti, il limite massimo sarà pari all'ammontare equivalente ai canoni pagati per 12 mesi) per le titolarità del Programma che è oggetto dell’azione, indipendentemente dalle ragioni che fondano l'azione stessa. In nessun caso IBM sarà responsabile per danni speciali, incidentali, punitivi, indiretti o per danni economici di tipo consequenziale, mancato guadagno, o perdite di profitto, di opportunità commerciali, di fatturato o di risparmi. Queste limitazioni si applicano complessivamente a IBM, alle relative consociate, subappaltatori e fornitori.
+a. La responsabilità complessiva di IBM per tutte le azioni relative al presente Accordo sarà limitata ai soli danni diretti effettivi, subiti dal Licenziatario, fino ad un ammontare pari al maggiore importo tra: i) U.S. $10.000,00 (o l'equivalente in valuta locale); o ii) il totale degli importi pagati (se si tratta di canoni ricorrenti, il limite massimo sarà pari all'ammontare equivalente ai canoni pagati per 12 mesi) per le titolarità del Programma che è oggetto dell'azione, indipendentemente dalle ragioni che fondano l'azione stessa. In nessun caso IBM sarà responsabile per danni speciali, incidentali, punitivi, indiretti o per danni economici di tipo consequenziale, mancato guadagno, o perdite di profitto, di opportunità commerciali, di fatturato o di risparmi. Queste limitazioni si applicano complessivamente a IBM, alle relative consociate, subappaltatori e fornitori.
 
 b. I seguenti importi, non sono soggetti ai limiti sopra specificati: danni che non possono essere limitati dalla legge applicabile.
 
-c. IBM non avrà alcuna responsabilità per le pretese riguardanti Prodotti Non IBM, articoli non forniti da IBM o per qualsiasi violazione di legge o dei diritti di terze parti causati dal Contenuto o da materiali, progetti, specifiche del Licenziatario. I contenuti consistono di tutti i dati, i software e informazioni che il Licenziatario e i relativi utenti autorizzati forniscono, ne autorizzano l’accesso o immettono nel Programma IBM.
+c. IBM non avrà alcuna responsabilità per le pretese riguardanti Prodotti Non IBM, articoli non forniti da IBM o per qualsiasi violazione di legge o dei diritti di terze parti causati dal Contenuto o da materiali, progetti, specifiche del Licenziatario. I contenuti consistono di tutti i dati, i software e informazioni che il Licenziatario e i relativi utenti autorizzati forniscono, ne autorizzano l'accesso o immettono nel Programma IBM.
 
 5. Recesso
 
@@ -503,3 +503,4 @@ In Repubblica Ceca: Il Licenziatario accetta espressamente le condizioni del pre
 In Romania: Il Licenziatario accetta espressamente le seguenti clausole standard che possono essere considerate 'clausole insolite' in base alle disposizioni dell'articolo 1203 del Codice Civile Romeno: clausole 2, 4, 5, 8j. Il Licenziatario con la presente riconosce di essere stato sufficientemente informato di tutte le disposizioni del presente Accordo, incluse le clausole sopra riportate, di aver correttamente analizzato e compreso tali disposizioni e di aver avuto l'opportunità di negoziare le condizioni di ciascuna clausola.
 
 i125-5589-06 (10-2021)
+

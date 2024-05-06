@@ -3,7 +3,7 @@ INFORMAÇÕES DA LICENÇA
 Os Programas listados abaixo são licenciados sob os/ao abrigo dos termos e condições da seguinte Informação sobre a Licença a seguir, além dos termos de licença do Programa acordados anteriormente pelo Cliente e pela IBM. Se o Cliente não tiver acordado anteriormente com os termos de licença em vigor para o Programa, o Contrato Internacional de Licença para Programas Sem Garantia (i125-5589-06) será aplicável.
 
 Nome do Programa (Número do Programa):
-SupportPac IAM3 Websphere Message Broker Node for log4j 2.0 (SupportPac-IAM3)
+SupportPac IAM3 Websphere Message Broker Node for log4j 2.1 (SupportPac-IAM3)
 
 Os termos padrão a seguir se aplicam o uso do Programa pelo Licenciado.
 
@@ -11,10 +11,10 @@ Código Modificável de Terceiros
 
 Modificável de Terceiros", a IBM autorizará o Licenciado a 1) modificar o Código Modificável de Terceiros e 2) fazer engenharia reversa dos módulos do Programa que interagem diretamente com o Código Modificável de Terceiros, contanto que seja apenas com o propósito de depurar as modificações do Licenciado para tal código de terceiros. As obrigações de serviço e suporte da IBM, se houver, se aplicarão apenas ao Programa não modificado.
 
-L/N:  L-KSBM-CCRFU2
-D/N:  L-KSBM-CCRFU2
-P/N:  L-KSBM-CCRFU2
 
+L/N: L-KVDV-H8F4YT
+D/N: L-KVDV-H8F4YT
+P/N: L-KVDV-H8F4YT
 
 Contrato Internacional de Licença para Programas Sem Garantia
 
@@ -358,7 +358,7 @@ Cláusula 4. Responsabilidade e Proteção de Propriedade Intelectual
 
 No parágrafo a, na primeira frase, insira o seguinte antes das palavras "as quantias pagas":
 
-Na Bélgica, França, Alemanha, Itália, Luxemburgo, Malta, Portugal e Espanha: até o montante máximo de €500,000 (quinhentos mil euros) ou
+Na Bélgica, França, Alemanha, Itália, Luxemburgo, Malta, Portugal e Espanha: até o montante máximo de ¤500,000 (quinhentos mil euros) ou
 
 Na Irlanda e no Reino Unido: 125% de
 
@@ -503,3 +503,4 @@ Na República Checa: o Licenciado aceita expressamente os termos deste contrato q
 Na Romênia: o Licenciado aceita expressamente as cláusulas padrão a seguir que podem ser consideradas 'cláusulas incomuns', conforme as disposições do artigo 1203 do Código Civil da Romênia: cláusulas 2, 4, 5, 8j. O Licenciado reconhece por meio deste Contrato que foi suficientemente informado sobre todas as disposições deste Contrato, inclusive sobre as cláusulas supramencionadas, que analisou corretamente e compreendeu tais disposições e que teve a oportunidade de negociar os termos de cada cláusula.
 
 i125-5589-06 (10-2021)
+

@@ -3,7 +3,7 @@ INFORMASI LISENSI
 Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Internasional untuk Program Tanpa Jaminan (i125-5589-06) akan berlaku.
 
 Nama Program (Nomor Program):
-SupportPac IAM3 Websphere Message Broker Node for log4j 2.0 (SupportPac-IAM3)
+SupportPac IAM3 Websphere Message Broker Node for log4j 2.1 (SupportPac-IAM3)
 
 Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
 
@@ -11,10 +11,10 @@ Kode Pihak Ketiga yang Dapat Dimodifikasi
 
 Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
 
-L/N:  L-KSBM-CCRFU2
-D/N:  L-KSBM-CCRFU2
-P/N:  L-KSBM-CCRFU2
 
+L/N: L-KVDV-H8F4YT
+D/N: L-KVDV-H8F4YT
+P/N: L-KVDV-H8F4YT
 
 Perjanjian Lisensi Internasional untuk Program Tanpa Jaminan
 
@@ -338,7 +338,7 @@ Pada ayat b, tambahkan hal berikut di akhir kalimat ketiga:
 
 Di Italia: jika IBM meminta dalam pemberitahuan secara tertulis kepada Pemegang Lisensi.
 
-Di Ukraina: , sebesar jumlah yang melampaui batas waktunya dari hari berikutnya setelah tanggal jatuh tempo hingga tanggal pembayaran aktual, dihitung prorata untuk setiap hari keterlambatan, dengan suku bunga sebesar dua kali lipat dari tarif diskon yang ditentukan oleh Bank Nasional Ukraina (National Bank of Ukraine - “NBU”) selama periode keterlambatan (ayat 6 pasal 232 Kitab Undang-Undang Hukum Dagang Ukraina tidak berlaku).
+Di Ukraina: , sebesar jumlah yang melampaui batas waktunya dari hari berikutnya setelah tanggal jatuh tempo hingga tanggal pembayaran aktual, dihitung prorata untuk setiap hari keterlambatan, dengan suku bunga sebesar dua kali lipat dari tarif diskon yang ditentukan oleh Bank Nasional Ukraina (National Bank of Ukraine - "NBU") selama periode keterlambatan (ayat 6 pasal 232 Kitab Undang-Undang Hukum Dagang Ukraina tidak berlaku).
 
 Pada ayat b, ganti kalimat ketiga dengan pernyataan berikut:
 
@@ -358,7 +358,7 @@ Pasal 4. Tanggung Jawab dan Perlindungan Hak Kekayaan Intelektual
 
 Pada ayat a, di kalimat pertama, masukkan hal berikut sebelum kata "jumlah yang dibayarkan":
 
-Di Belgia, Prancis, Jerman, Italia, Luksemburg, Malta, Portugal, dan Spanyol: lebih besar dari €500.000 (lima ratus ribu euro) atau
+Di Belgia, Prancis, Jerman, Italia, Luksemburg, Malta, Portugal, dan Spanyol: lebih besar dari ¤500.000 (lima ratus ribu euro) atau
 
 Di Irlandia dan Inggris Raya: 125% dari
 
@@ -466,7 +466,7 @@ Di Spanyol: IBM akan mematuhi permintaan untuk mengakses, memperbarui, atau meng
 
 Pada ayat j, tambahkan di akhir ayat:
 
-Di Republik Ceko: Sesuai dengan Pasal 1801 of Undang-Undang No. 89/2012 Coll. (“Hukum Perdata” (Civil Code)), Pasal 1799 dan Pasal 1800 pada Hukum Perdata sebagaimana yang diamendemen, tidak berlaku untuk transaksi berdasarkan Perjanjian ini. Pemegang Lisensi menerima risiko perubahan kondisi berdasarkan Pasal 1765 pada KUH Perdata.
+Di Republik Ceko: Sesuai dengan Pasal 1801 of Undang-Undang No. 89/2012 Coll. ("Hukum Perdata" (Civil Code)), Pasal 1799 dan Pasal 1800 pada Hukum Perdata sebagaimana yang diamendemen, tidak berlaku untuk transaksi berdasarkan Perjanjian ini. Pemegang Lisensi menerima risiko perubahan kondisi berdasarkan Pasal 1765 pada KUH Perdata.
 
 Pada ayat j:
 
@@ -507,3 +507,4 @@ This document is made in the English and Indonesian languages. To the extent per
 Dokumen ini dibuat dalam bahasa Inggris dan bahasa Indonesia. Sepanjang diperbolehkan oleh hukum yang berlaku, dalam hal terdapat ketidaksesuaian atau perbedaan penafsiran dengan teks bahasa Indonesia dari dokumen ini, maka teks dalam bahasa Inggris yang akan berlaku.
 
 i125-5589-06 (10-2021)
+

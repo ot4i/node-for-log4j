@@ -3,7 +3,7 @@
 ÏÂÃæÁÐ³öµÄÕâÐ©³ÌÐò°´ÕÕÒÔÏÂÐí¿ÉÐÅÏ¢Ìõ¿îºÍÌõ¼þÒÔ¼°»ñµÃ¿Í»§Óë IBM ÊÂÏÈÍ¬ÒâµÄ³ÌÐòÐí¿ÉÌõ¿îÊÚÓèÐí¿É¡£Èç¹û¿Í»§ÊÂÏÈÎ´Í¬Òâ¶Ô±¾³ÌÐòÉúÐ§µÄÐí¿ÉÌõ¿î£¬ÄÇÃ´ ÎÞ±£Ö¤³ÌÐòµÄ¹ú¼ÊÐí¿ÉÐ­Òé (i125-5589-06) ÊÊÓÃ¡£
 
 ³ÌÐòÃû³Æ (³ÌÐòºÅ)£º
-SupportPac IAM3 Websphere Message Broker Node for log4j 2.0 (SupportPac-IAM3)
+SupportPac IAM3 Websphere Message Broker Node for log4j 2.1 (SupportPac-IAM3)
 
 ÒÔÏÂ±ê×¼Ìõ¿îÊÊÓÃÓÚ±»Ðí¿É·½¶Ô±¾³ÌÐòµÄÊ¹ÓÃ¡£
 
@@ -11,10 +11,10 @@ SupportPac IAM3 Websphere Message Broker Node for log4j 2.0 (SupportPac-IAM3)
 
 ÔÚÄ³ÖÖ³Ì¶ÈÉÏ£¬Èç¹ûÔÚ"µÚÈý·½ÉùÃ÷"ÖÐ£¬IBM ½«µÚÈý·½´úÂë±êÊ¶Îª"¿ÉÐÞ¸ÄµÚÈý·½´úÂë"£¬ÄÇÃ´ IBM ÊÚÈ¨±»Ðí¿É·½ 1) ÐÞ¸Ä¿ÉÐÞ¸ÄµÚÈý·½´úÂë£¬ÒÔ¼° 2) ¶ÔÖ±½ÓÓë¿ÉÐÞ¸ÄµÚÈý·½´úÂë»¥¶¯µÄ³ÌÐòÄ£¿é½øÐÐ·´Ïò¹¤³ÌÉè¼Æ£¬Ç°ÌáÊÇÆäÄ¿µÄ½öÎªÁËµ÷ÊÔ±»Ðí¿É·½¶Ô´ËÀàµÚÈý·½´úÂëµÄÐÞ¸Ä¡£ IBM µÄ·þÎñºÍÖ§³ÖÒåÎñ£¨ÈçÓÐ£©½öÊÊÓÃÓÚÎ´¾­ÐÞ¸ÄµÄ³ÌÐò¡£
 
-L/N:  L-KSBM-CCRFU2
-D/N:  L-KSBM-CCRFU2
-P/N:  L-KSBM-CCRFU2
 
+L/N: L-KVDV-H8F4YT
+D/N: L-KVDV-H8F4YT
+P/N: L-KVDV-H8F4YT
 
 ÎÞ±£Ö¤³ÌÐòµÄ¹ú¼ÊÐí¿ÉÐ­Òé
 
@@ -148,7 +148,7 @@ k. IBM ¿ÉÒÔÊ¹ÓÃÈ«Çò·¶Î§ÄÚµÄÈËÁ¦ºÍ×ÊÔ´£¨°üÀ¨µÚÈý·½³Ð°üÉÌ£©À´Ö§³Ö³ÌÐòºÍ³ÌÐòÖ§³ÖµÄ½
 
 ÔÚÄ«Î÷¸ç£ºÔÚµÚÈý¾äºóÃæÌí¼ÓÒÔÏÂÐÂÓï¾ä£º
 
-Í¨¹ýÒÔµç×Ó·½Ê½½«×Ê½ð×ªÕËµ½ IBM Ö¸¶¨ÕË»§»ò IBM ËùÔÚµØ£¨Î»ÓÚ Alfonso Napoles Gandara 3111, Santa Fe Pe?a Blanca, Alvaro Obregon, Mexico City, Zip Code 01210£©½øÐÐ¸¶¿î¡£
+Í¨¹ýÒÔµç×Ó·½Ê½½«×Ê½ð×ªÕËµ½ IBM Ö¸¶¨ÕË»§»ò IBM ËùÔÚµØ£¨Î»ÓÚ Alfonso Napoles Gandara 3111, Santa Fe Pe~na Blanca, Alvaro Obregon, Mexico City, Zip Code 01210£©½øÐÐ¸¶¿î¡£
 
 ÔÚ c ¶ÎÄ©Î²Ìí¼ÓÒÔÏÂÓï¾ä£º
 
@@ -358,7 +358,7 @@ k. IBM ¿ÉÒÔÊ¹ÓÃÈ«Çò·¶Î§ÄÚµÄÈËÁ¦ºÍ×ÊÔ´£¨°üÀ¨µÚÈý·½³Ð°üÉÌ£©À´Ö§³Ö³ÌÐòºÍ³ÌÐòÖ§³ÖµÄ½
 
 ÔÚ a ¶ÎµÚÒ»¾äÖÐ¡°ËùÖ§¸¶½ð¶î¡±Ò»´ÊÇ°²åÈëÒÔÏÂÄÚÈÝ£º
 
-ÔÚ±ÈÀûÊ±¡¢·¨¹ú¡¢µÂ¹ú¡¢Òâ´óÀû¡¢Â¬É­±¤¡¢Âí¶úËû¡¢ÆÏÌÑÑÀºÍÎ÷°àÑÀ£ºÒÔÏÂÊö½Ï¸ßÕßÎª×¼£¬?500,000£¨ÎåÊ®ÍòÅ·Ôª£©»ò
+ÔÚ±ÈÀûÊ±¡¢·¨¹ú¡¢µÂ¹ú¡¢Òâ´óÀû¡¢Â¬É­±¤¡¢Âí¶úËû¡¢ÆÏÌÑÑÀºÍÎ÷°àÑÀ£ºÒÔÏÂÊö½Ï¸ßÕßÎª×¼£¬EUR500,000£¨ÎåÊ®ÍòÅ·Ôª£©»ò
 
 ÔÚ°®¶ûÀ¼ºÍÓ¢¹ú£ºµÄ 125%
 
@@ -503,3 +503,4 @@ k. IBM ¿ÉÒÔÊ¹ÓÃÈ«Çò·¶Î§ÄÚµÄÈËÁ¦ºÍ×ÊÔ´£¨°üÀ¨µÚÈý·½³Ð°üÉÌ£©À´Ö§³Ö³ÌÐòºÍ³ÌÐòÖ§³ÖµÄ½
 ÔÚÂÞÂíÄáÑÇ£º±»Ðí¿É·½Ã÷È·½ÓÊÜÒÔÏÂ±ê×¼Ìõ¿î£¬¸ù¾Ý¡¶ÂÞÂíÄáÑÇÃñ·¨µä¡·µÚ 1203 ÌõµÄ¹æ¶¨£¬ÕâÐ©Ìõ¿î¿ÉÒÔ±»ÊÓÎª¡°·Ç³£¹æÌõ¿î¡±£ºÌõ¿î 2¡¢4¡¢5 ºÍ 8j¡£±»Ðí¿É·½ÌØ´ËÈ·ÈÏ£¬ÆäÒÑ³ä·ÖÖªÏþÁË±¾Ð­ÒéµÄËùÓÐ¹æ¶¨£¬°üÀ¨ÉÏÊöÌõ¿î£¬ÕýÈ··ÖÎöºÍÀí½âÁËÕâÐ©¹æ¶¨£¬²¢ÇÒÒÑ¾ÍÃ¿¸öÌõ¿îµÄÄÚÈÝ½øÐÐ¹ýÐ­ÉÌ¡£
 
 i125-5589-06 (10-2021)
+
