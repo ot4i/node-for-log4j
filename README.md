@@ -11,6 +11,9 @@ The target as well as the runtime log level can be configured independent from t
 Use this SupportPac if you need a more flexible logging mechanism than the Trace node provides.
 
 ## New in this Release
+New in 2.1.0 :
+* support log4j extensions via pluginFolder as policy ( ACE ) or Configurable Service ( IIB )
+
 New in 2.0.2:
 * reenable configurable properties
 
@@ -55,9 +58,9 @@ Category: 2
 
 Released: 18Nov08
 
-Last updated: 23Jan23
+Last updated: 6May24
 
-Current SupportPac Version: 2.0.2
+Current SupportPac Version: 2.1.0
 
 ## Prerequisites
 This SupportPac requires:
