@@ -12,6 +12,10 @@ Use this SupportPac if you need a more flexible logging mechanism than the Trace
 
 ## New in this Release
 New in 2.1.0 :
+* fix bug to support IIB on z/OS
+* fix bug to support ESQL functions
+
+New in 2.1.0 :
 * support log4j extensions via pluginFolder as policy ( ACE ) or Configurable Service ( IIB )
 
 New in 2.0.2:
@@ -58,9 +62,9 @@ Category: 2
 
 Released: 18Nov08
 
-Last updated: 6May24
+Last updated: 22May25
 
-Current SupportPac Version: 2.1.0
+Current SupportPac Version: 2.1.1
 
 ## Prerequisites
 This SupportPac requires:
