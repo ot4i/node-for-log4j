@@ -11,10 +11,13 @@ The target as well as the runtime log level can be configured independent from t
 Use this SupportPac if you need a more flexible logging mechanism than the Trace node provides.
 
 ## New in this Release
-New in 2.1.2 :
-* update log4j version
-  
-New in 2.1.1 :
+New in 2.1.3:
+* update log4j version 2.25.5
+
+New in 2.1.2:
+* update log4j version 2.25.4
+
+New in 2.1.1:
 * fix bug to support IIB on z/OS
 * fix bug to support ESQL functions
 
